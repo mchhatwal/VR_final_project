@@ -2454,3 +2454,269 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.03.30-19.56.40:844][920]AssetCheck: New page: Asset Save: multiple assets
 [2023.03.30-19.56.40:844][920]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
 [2023.03.30-19.56.40:844][920]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.03.30-20.06.40:795][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.03.30-20.06.40:796][976]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.010
+[2023.03.30-20.06.40:797][976]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OutsideResource/table-sofa/source/table_sofa] ([1] browsable assets)...
+[2023.03.30-20.06.40:830][976]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/OutsideResource/table-sofa/source/table_sofa.table_sofa]
+[2023.03.30-20.06.40:830][976]OBJ SavePackage: Finished generating thumbnails for package [/Game/OutsideResource/table-sofa/source/table_sofa]
+[2023.03.30-20.06.40:836][976]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OutsideResource/table-sofa/source/table_sofa_Auto4
+[2023.03.30-20.06.40:836][976]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/table_sofa_Auto48FF148CC4C31CBA4FDB2CDB82B19192A.tmp' to '../../../../MyProject/Restaurant/Saved/Autosaves/Game/OutsideResource/table-sofa/source/table_sofa_Auto4.uasset'
+[2023.03.30-20.06.40:837][976]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OutsideResource/table-sofa/textures/table_Roughness_Mat] ([1] browsable assets)...
+[2023.03.30-20.06.40:851][976]OBJ SavePackage:     Rendered thumbnail for [Material /Game/OutsideResource/table-sofa/textures/table_Roughness_Mat.table_Roughness_Mat]
+[2023.03.30-20.06.40:851][976]OBJ SavePackage: Finished generating thumbnails for package [/Game/OutsideResource/table-sofa/textures/table_Roughness_Mat]
+[2023.03.30-20.06.40:852][976]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OutsideResource/table-sofa/textures/table_Roughness_Mat_Auto4
+[2023.03.30-20.06.40:852][976]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/table_Roughness_Mat_Auto43E57EEE24F77F0E5BFB19481ADA96CE2.tmp' to '../../../../MyProject/Restaurant/Saved/Autosaves/Game/OutsideResource/table-sofa/textures/table_Roughness_Mat_Auto4.uasset'
+[2023.03.30-20.06.40:852][976]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OutsideResource/table-sofa/source/table_sofa2] ([1] browsable assets)...
+[2023.03.30-20.06.40:865][976]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/OutsideResource/table-sofa/source/table_sofa2.table_sofa2]
+[2023.03.30-20.06.40:865][976]OBJ SavePackage: Finished generating thumbnails for package [/Game/OutsideResource/table-sofa/source/table_sofa2]
+[2023.03.30-20.06.40:905][976]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OutsideResource/table-sofa/source/table_sofa2_Auto4
+[2023.03.30-20.06.40:905][976]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/table_sofa2_Auto4ACE2D99A4CE12586AECF7C899DB9479E.tmp' to '../../../../MyProject/Restaurant/Saved/Autosaves/Game/OutsideResource/table-sofa/source/table_sofa2_Auto4.uasset'
+[2023.03.30-20.06.40:906][976]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OutsideResource/table-sofa/textures/table_Base_Color] ([1] browsable assets)...
+[2023.03.30-20.06.40:908][976]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OutsideResource/table-sofa/textures/table_Base_Color.table_Base_Color]
+[2023.03.30-20.06.40:908][976]OBJ SavePackage: Finished generating thumbnails for package [/Game/OutsideResource/table-sofa/textures/table_Base_Color]
+[2023.03.30-20.06.40:916][976]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OutsideResource/table-sofa/textures/table_Base_Color_Auto4
+[2023.03.30-20.06.40:916][976]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/table_Base_Color_Auto4D9FEF79443698BE546AE918C17C5D1B7.tmp' to '../../../../MyProject/Restaurant/Saved/Autosaves/Game/OutsideResource/table-sofa/textures/table_Base_Color_Auto4.uasset'
+[2023.03.30-20.06.40:917][976]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OutsideResource/table-sofa/textures/table_Metallic] ([1] browsable assets)...
+[2023.03.30-20.06.40:919][976]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OutsideResource/table-sofa/textures/table_Metallic.table_Metallic]
+[2023.03.30-20.06.40:919][976]OBJ SavePackage: Finished generating thumbnails for package [/Game/OutsideResource/table-sofa/textures/table_Metallic]
+[2023.03.30-20.06.40:922][976]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OutsideResource/table-sofa/textures/table_Metallic_Auto4
+[2023.03.30-20.06.40:922][976]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/table_Metallic_Auto44C5CFF3846E322A7A1A22780F4AC3E3C.tmp' to '../../../../MyProject/Restaurant/Saved/Autosaves/Game/OutsideResource/table-sofa/textures/table_Metallic_Auto4.uasset'
+[2023.03.30-20.06.40:923][976]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OutsideResource/table-sofa/textures/table_Mixed_AO] ([1] browsable assets)...
+[2023.03.30-20.06.40:925][976]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OutsideResource/table-sofa/textures/table_Mixed_AO.table_Mixed_AO]
+[2023.03.30-20.06.40:925][976]OBJ SavePackage: Finished generating thumbnails for package [/Game/OutsideResource/table-sofa/textures/table_Mixed_AO]
+[2023.03.30-20.06.40:928][976]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OutsideResource/table-sofa/textures/table_Mixed_AO_Auto4
+[2023.03.30-20.06.40:928][976]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/table_Mixed_AO_Auto4498D0127423C767E8BAB6E80DB79CFFA.tmp' to '../../../../MyProject/Restaurant/Saved/Autosaves/Game/OutsideResource/table-sofa/textures/table_Mixed_AO_Auto4.uasset'
+[2023.03.30-20.06.40:929][976]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OutsideResource/table-sofa/textures/table_Normal_DirectX] ([1] browsable assets)...
+[2023.03.30-20.06.40:931][976]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OutsideResource/table-sofa/textures/table_Normal_DirectX.table_Normal_DirectX]
+[2023.03.30-20.06.40:931][976]OBJ SavePackage: Finished generating thumbnails for package [/Game/OutsideResource/table-sofa/textures/table_Normal_DirectX]
+[2023.03.30-20.06.40:944][976]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OutsideResource/table-sofa/textures/table_Normal_DirectX_Auto4
+[2023.03.30-20.06.40:944][976]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/table_Normal_DirectX_Auto4557A7F0D4CBF36D82C6B9183326890BF.tmp' to '../../../../MyProject/Restaurant/Saved/Autosaves/Game/OutsideResource/table-sofa/textures/table_Normal_DirectX_Auto4.uasset'
+[2023.03.30-20.06.40:945][976]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OutsideResource/table-sofa/textures/table_Roughness] ([1] browsable assets)...
+[2023.03.30-20.06.40:947][976]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OutsideResource/table-sofa/textures/table_Roughness.table_Roughness]
+[2023.03.30-20.06.40:947][976]OBJ SavePackage: Finished generating thumbnails for package [/Game/OutsideResource/table-sofa/textures/table_Roughness]
+[2023.03.30-20.06.40:950][976]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OutsideResource/table-sofa/textures/table_Roughness_Auto4
+[2023.03.30-20.06.40:950][976]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/table_Roughness_Auto4C722B3124AD6AE3B91DF82975FE43FEE.tmp' to '../../../../MyProject/Restaurant/Saved/Autosaves/Game/OutsideResource/table-sofa/textures/table_Roughness_Auto4.uasset'
+[2023.03.30-20.06.40:951][976]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OutsideResource/table-sofa/textures/table_Base_Color_Mat] ([1] browsable assets)...
+[2023.03.30-20.06.40:963][976]OBJ SavePackage:     Rendered thumbnail for [Material /Game/OutsideResource/table-sofa/textures/table_Base_Color_Mat.table_Base_Color_Mat]
+[2023.03.30-20.06.40:963][976]OBJ SavePackage: Finished generating thumbnails for package [/Game/OutsideResource/table-sofa/textures/table_Base_Color_Mat]
+[2023.03.30-20.06.40:976][976]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OutsideResource/table-sofa/textures/table_Base_Color_Mat_Auto4
+[2023.03.30-20.06.40:976][976]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/table_Base_Color_Mat_Auto41BB1B11C401718242C7E188205F605BD.tmp' to '../../../../MyProject/Restaurant/Saved/Autosaves/Game/OutsideResource/table-sofa/textures/table_Base_Color_Mat_Auto4.uasset'
+[2023.03.30-20.06.40:976][976]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OutsideResource/table-sofa/textures/table_Metallic_Mat] ([1] browsable assets)...
+[2023.03.30-20.06.40:986][976]OBJ SavePackage:     Rendered thumbnail for [Material /Game/OutsideResource/table-sofa/textures/table_Metallic_Mat.table_Metallic_Mat]
+[2023.03.30-20.06.40:986][976]OBJ SavePackage: Finished generating thumbnails for package [/Game/OutsideResource/table-sofa/textures/table_Metallic_Mat]
+[2023.03.30-20.06.40:989][976]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OutsideResource/table-sofa/textures/table_Metallic_Mat_Auto4
+[2023.03.30-20.06.40:989][976]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/table_Metallic_Mat_Auto4E911E38C4B3B1EC8D1674C85523C1B48.tmp' to '../../../../MyProject/Restaurant/Saved/Autosaves/Game/OutsideResource/table-sofa/textures/table_Metallic_Mat_Auto4.uasset'
+[2023.03.30-20.06.40:989][976]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OutsideResource/table-sofa/textures/table_Mixed_AO_Mat] ([1] browsable assets)...
+[2023.03.30-20.06.41:007][976]OBJ SavePackage:     Rendered thumbnail for [Material /Game/OutsideResource/table-sofa/textures/table_Mixed_AO_Mat.table_Mixed_AO_Mat]
+[2023.03.30-20.06.41:007][976]OBJ SavePackage: Finished generating thumbnails for package [/Game/OutsideResource/table-sofa/textures/table_Mixed_AO_Mat]
+[2023.03.30-20.06.41:016][976]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OutsideResource/table-sofa/textures/table_Mixed_AO_Mat_Auto4
+[2023.03.30-20.06.41:017][976]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/table_Mixed_AO_Mat_Auto4E62BECA54D99885BA97E6A9FF1260884.tmp' to '../../../../MyProject/Restaurant/Saved/Autosaves/Game/OutsideResource/table-sofa/textures/table_Mixed_AO_Mat_Auto4.uasset'
+[2023.03.30-20.06.41:017][976]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OutsideResource/table-sofa/textures/table_Normal_DirectX_Mat] ([1] browsable assets)...
+[2023.03.30-20.06.41:031][976]OBJ SavePackage:     Rendered thumbnail for [Material /Game/OutsideResource/table-sofa/textures/table_Normal_DirectX_Mat.table_Normal_DirectX_Mat]
+[2023.03.30-20.06.41:031][976]OBJ SavePackage: Finished generating thumbnails for package [/Game/OutsideResource/table-sofa/textures/table_Normal_DirectX_Mat]
+[2023.03.30-20.06.41:032][976]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OutsideResource/table-sofa/textures/table_Normal_DirectX_Mat_Auto4
+[2023.03.30-20.06.41:032][976]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/table_Normal_DirectX_Mat_Auto4EAF1603E41CCA27451A2DE8353950515.tmp' to '../../../../MyProject/Restaurant/Saved/Autosaves/Game/OutsideResource/table-sofa/textures/table_Normal_DirectX_Mat_Auto4.uasset'
+[2023.03.30-20.06.41:033][976]LogFileHelpers: Auto-saving content packages took 0.236
+[2023.03.30-20.35.01:065][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.03.30-20.35.04:656][280]LogSlate: Window 'Save Content' being destroyed
+[2023.03.30-20.35.04:727][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_albedo
+[2023.03.30-20.35.04:727][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/Ciulla_Baked_01_albedo94469BED4470D5DDBB29ECA4A18542FA.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_albedo.uasset'
+[2023.03.30-20.35.04:743][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/gas-stove/textures/Ciulla_Baked_01_albedo
+[2023.03.30-20.35.04:743][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/Ciulla_Baked_01_albedoF6170BCC43856A66CF94269BF14A0B53.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/gas-stove/textures/Ciulla_Baked_01_albedo.uasset'
+[2023.03.30-20.35.04:745][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/gas-stove/textures/Ciulla_Baked_01_ao
+[2023.03.30-20.35.04:745][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/Ciulla_Baked_01_aoE672508D4D9A3FD7DA7F4683F4E4CFF2.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/gas-stove/textures/Ciulla_Baked_01_ao.uasset'
+[2023.03.30-20.35.04:775][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_ao
+[2023.03.30-20.35.04:775][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/Ciulla_Baked_01_aoCF9DEEB54A20E85A15BF369FFEE6CB0E.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_ao.uasset'
+[2023.03.30-20.35.04:777][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_gloss
+[2023.03.30-20.35.04:777][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/Ciulla_Baked_01_gloss3210D68B473C39429D3817A709C95087.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_gloss.uasset'
+[2023.03.30-20.35.04:779][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/gas-stove/textures/Ciulla_Baked_01_gloss
+[2023.03.30-20.35.04:779][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/Ciulla_Baked_01_glossCF2D655C44AA1ACC68DFCCAA80346106.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/gas-stove/textures/Ciulla_Baked_01_gloss.uasset'
+[2023.03.30-20.35.04:781][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_gloss_Mat
+[2023.03.30-20.35.04:781][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/Ciulla_Baked_01_gloss_MatE0F4908D4B6CE536E5972DA290A7F0C4.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_gloss_Mat.uasset'
+[2023.03.30-20.35.04:793][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_specular
+[2023.03.30-20.35.04:793][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/Ciulla_Baked_01_specular200EA34A429C70BCEE838B945FF9AA03.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_specular.uasset'
+[2023.03.30-20.35.04:796][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/gas-stove/textures/Ciulla_Baked_01_specular
+[2023.03.30-20.35.04:796][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/Ciulla_Baked_01_specular08FCDF74407A2CE7D4AB90BF09F4E100.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/gas-stove/textures/Ciulla_Baked_01_specular.uasset'
+[2023.03.30-20.35.06:972][280]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.03.30-20.35.11:772][280]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003008s (4.950141s overbudget)
+[2023.03.30-20.35.11:775][280]LogShaderCompilers: Display: ================================================
+[2023.03.30-20.35.11:775][280]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.30-20.35.11:775][280]LogShaderCompilers: Display: Total job queries 373, among them cache hits 120 (32.17%)
+[2023.03.30-20.35.11:775][280]LogShaderCompilers: Display: Tracking 232 distinct input hashes that result in 65 distinct outputs (28.02%)
+[2023.03.30-20.35.11:775][280]LogShaderCompilers: Display: RAM used: 0.40 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.05%
+[2023.03.30-20.35.11:775][280]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.30-20.35.11:775][280]LogShaderCompilers: Display: Shaders Compiled: 204
+[2023.03.30-20.35.11:775][280]LogShaderCompilers: Display: Jobs assigned 232, completed 232 (100.00%)
+[2023.03.30-20.35.11:775][280]LogShaderCompilers: Display: Average time worker was idle: 279.14 s
+[2023.03.30-20.35.11:775][280]LogShaderCompilers: Display: Time job spent in pending queue: average 6.80 s, longest 51.10 s
+[2023.03.30-20.35.11:775][280]LogShaderCompilers: Display: Job execution time: average 21.59 s, max 63.94 s
+[2023.03.30-20.35.11:775][280]LogShaderCompilers: Display: Job life time (pending + execution): average 28.39 s, max 72.50
+[2023.03.30-20.35.11:775][280]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 200.54 s
+[2023.03.30-20.35.11:775][280]LogShaderCompilers: Display: Jobs were issued in 127 batches (only local compilation was used), average 1.83 jobs/batch
+[2023.03.30-20.35.11:775][280]LogShaderCompilers: Display: Average processing rate: 1.16 jobs/sec
+[2023.03.30-20.35.11:775][280]LogShaderCompilers: Display: Effective parallelization: 5.17 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.30-20.35.11:775][280]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.30-20.35.11:775][280]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    8 times, average 7.77 sec, max 8.41 sec, min 7.17 sec)
+[2023.03.30-20.35.11:775][280]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    8 times, average 7.75 sec, max 8.15 sec, min 6.78 sec)
+[2023.03.30-20.35.11:775][280]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   10 times, average 7.60 sec, max 8.36 sec, min 6.45 sec)
+[2023.03.30-20.35.11:775][280]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    8 times, average 7.55 sec, max 8.33 sec, min 6.55 sec)
+[2023.03.30-20.35.11:775][280]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   10 times, average 7.26 sec, max 8.14 sec, min 5.89 sec)
+[2023.03.30-20.35.11:775][280]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.30-20.35.11:775][280]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.34% of total time (compiled   10 times, average 7.60 sec, max 8.36 sec, min 6.45 sec)
+[2023.03.30-20.35.11:775][280]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.01% of total time (compiled   10 times, average 7.26 sec, max 8.14 sec, min 5.89 sec)
+[2023.03.30-20.35.11:775][280]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 6.70% of total time (compiled   10 times, average 6.94 sec, max 8.38 sec, min 5.16 sec)
+[2023.03.30-20.35.11:775][280]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.59% of total time (compiled   14 times, average 4.88 sec, max 7.41 sec, min 1.16 sec)
+[2023.03.30-20.35.11:775][280]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 6.58% of total time (compiled   13 times, average 5.25 sec, max 8.30 sec, min 2.42 sec)
+[2023.03.30-20.35.11:775][280]LogShaderCompilers: Display: ================================================
+[2023.03.30-20.35.11:804][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01Mat
+[2023.03.30-20.35.11:804][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/Ciulla_Baked_01MatFE26FB6B433A2E47A6484FBA56ACD206.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01Mat.uasset'
+[2023.03.30-20.35.11:814][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OutsideResource/table-sofa/source/floor" FILE="../../../../MyProject/Restaurant/Content/OutsideResource/table-sofa/source/floor.uasset" SILENT=true
+[2023.03.30-20.35.11:815][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/table-sofa/source/floor
+[2023.03.30-20.35.11:815][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/floor39D6151F4F8968B7C0F41E9B7932F47B.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/table-sofa/source/floor.uasset'
+[2023.03.30-20.35.11:825][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OutsideResource/gas-stove/source/end1/Gas_Stove" FILE="../../../../MyProject/Restaurant/Content/OutsideResource/gas-stove/source/end1/Gas_Stove.uasset" SILENT=true
+[2023.03.30-20.35.11:973][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/gas-stove/source/end1/Gas_Stove
+[2023.03.30-20.35.11:973][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/Gas_Stove8BD5474749CD6E1D3436AB9887134AF3.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/gas-stove/source/end1/Gas_Stove.uasset'
+[2023.03.30-20.35.11:974][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OutsideResource/gas-stove/textures/granite_stone" FILE="../../../../MyProject/Restaurant/Content/OutsideResource/gas-stove/textures/granite_stone.uasset" SILENT=true
+[2023.03.30-20.35.11:976][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/gas-stove/textures/granite_stone
+[2023.03.30-20.35.11:976][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/granite_stoneBB45BB9D426961E4D8CC5D969DEC8285.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/gas-stove/textures/granite_stone.uasset'
+[2023.03.30-20.35.11:978][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/gas-stove/source/end1/granite_stone
+[2023.03.30-20.35.11:978][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/granite_stone2E8BB1364EBB2A2553B5F3B90DDEEA9B.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/gas-stove/source/end1/granite_stone.uasset'
+[2023.03.30-20.35.11:980][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/gas-stove/source/end1/granite_stone_Gloss
+[2023.03.30-20.35.11:980][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/granite_stone_Gloss71477A3145762C3D0A4BBEADF572337E.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/gas-stove/source/end1/granite_stone_Gloss.uasset'
+[2023.03.30-20.35.11:981][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/gas-stove/textures/granite_stone_Gloss
+[2023.03.30-20.35.11:981][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/granite_stone_Gloss7D3F28F245A5227DD40AC8B4E9C70B9E.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/gas-stove/textures/granite_stone_Gloss.uasset'
+[2023.03.30-20.35.11:982][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/gas-stove/source/end1/granite_stone_Gloss_Mat
+[2023.03.30-20.35.11:983][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/granite_stone_Gloss_Mat6240952940AD6AC0FA1A07B30AF3C044.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/gas-stove/source/end1/granite_stone_Gloss_Mat.uasset'
+[2023.03.30-20.35.11:984][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/gas-stove/source/end1/granite_stone_Mat
+[2023.03.30-20.35.11:984][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/granite_stone_Mat92362ED04077FF5F843A2289AC305DE5.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/gas-stove/source/end1/granite_stone_Mat.uasset'
+[2023.03.30-20.35.11:986][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/gas-stove/source/end1/granite_stone_Specular
+[2023.03.30-20.35.11:986][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/granite_stone_SpecularC23BA3FE4F69AC348DBC03A11BE4D16B.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/gas-stove/source/end1/granite_stone_Specular.uasset'
+[2023.03.30-20.35.11:988][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/gas-stove/textures/granite_stone_Specular
+[2023.03.30-20.35.11:988][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/granite_stone_Specular771177F248C22267750946A74DBA62A2.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/gas-stove/textures/granite_stone_Specular.uasset'
+[2023.03.30-20.35.14:015][280]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.03.30-20.35.18:996][280]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000144s (4.992989s overbudget)
+[2023.03.30-20.35.19:027][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OutsideResource/gas-stove/source/end1/Stone1Mat" FILE="../../../../MyProject/Restaurant/Content/OutsideResource/gas-stove/source/end1/Stone1Mat.uasset" SILENT=true
+[2023.03.30-20.35.19:028][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/gas-stove/source/end1/Stone1Mat
+[2023.03.30-20.35.19:028][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/Stone1Mat82D5E0034443787751A99D8E2CE57A48.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/gas-stove/source/end1/Stone1Mat.uasset'
+[2023.03.30-20.35.21:113][280]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.03.30-20.35.25:799][280]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001049s (4.759969s overbudget)
+[2023.03.30-20.35.25:829][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OutsideResource/table-sofa/source/table" FILE="../../../../MyProject/Restaurant/Content/OutsideResource/table-sofa/source/table.uasset" SILENT=true
+[2023.03.30-20.35.25:874][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/table-sofa/source/table
+[2023.03.30-20.35.25:874][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/tableC25809EB438A161F753659B338314A04.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/table-sofa/source/table.uasset'
+[2023.03.30-20.35.26:058][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/table-sofa/textures/table_Base_Color
+[2023.03.30-20.35.26:058][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/table_Base_Color8623C8124320659D68ED4093730C6D24.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/table-sofa/textures/table_Base_Color.uasset'
+[2023.03.30-20.35.26:059][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/table-sofa/textures/table_Base_Color_Mat
+[2023.03.30-20.35.26:059][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/table_Base_Color_Mat0E66AC554419411B40455EA92A234F5A.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/table-sofa/textures/table_Base_Color_Mat.uasset'
+[2023.03.30-20.35.26:093][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/table-sofa/textures/table_Metallic
+[2023.03.30-20.35.26:093][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/table_MetallicE5675537489FA2E12A4F42BD7AB88A41.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/table-sofa/textures/table_Metallic.uasset'
+[2023.03.30-20.35.26:094][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/table-sofa/textures/table_Metallic_Mat
+[2023.03.30-20.35.26:094][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/table_Metallic_Mat974890C143A722F0D1A7C297FC29A726.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/table-sofa/textures/table_Metallic_Mat.uasset'
+[2023.03.30-20.35.26:130][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/table-sofa/textures/table_Mixed_AO
+[2023.03.30-20.35.26:131][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/table_Mixed_AO427950244EE6ED49B0581A8357349551.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/table-sofa/textures/table_Mixed_AO.uasset'
+[2023.03.30-20.35.26:132][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/table-sofa/textures/table_Mixed_AO_Mat
+[2023.03.30-20.35.26:132][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/table_Mixed_AO_MatD2725EB541E024564FC24DB8AF37D9F7.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/table-sofa/textures/table_Mixed_AO_Mat.uasset'
+[2023.03.30-20.35.26:385][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/table-sofa/textures/table_Normal_DirectX
+[2023.03.30-20.35.26:385][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/table_Normal_DirectXD539C4594FBA6E9EC9470D905A57525D.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/table-sofa/textures/table_Normal_DirectX.uasset'
+[2023.03.30-20.35.26:387][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/table-sofa/textures/table_Normal_DirectX_Mat
+[2023.03.30-20.35.26:387][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/table_Normal_DirectX_MatD20BF7304B876A3410A38FB019A68917.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/table-sofa/textures/table_Normal_DirectX_Mat.uasset'
+[2023.03.30-20.35.26:437][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/table-sofa/textures/table_Roughness
+[2023.03.30-20.35.26:437][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/table_RoughnessBFAD6B14492ADA97FC90EFBE71B11973.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/table-sofa/textures/table_Roughness.uasset'
+[2023.03.30-20.35.26:438][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/table-sofa/textures/table_Roughness_Mat
+[2023.03.30-20.35.26:438][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/table_Roughness_MatBB4F23D9430F2BD03D19DF863E98EE95.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/table-sofa/textures/table_Roughness_Mat.uasset'
+[2023.03.30-20.35.26:438][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OutsideResource/table-sofa/source/table_sofa" FILE="../../../../MyProject/Restaurant/Content/OutsideResource/table-sofa/source/table_sofa.uasset" SILENT=true
+[2023.03.30-20.35.26:444][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/table-sofa/source/table_sofa
+[2023.03.30-20.35.26:444][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/table_sofa401AAF534CD5C7421EBAC0A07BB7DDD6.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/table-sofa/source/table_sofa.uasset'
+[2023.03.30-20.35.26:445][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OutsideResource/table-sofa/source/table_sofa2" FILE="../../../../MyProject/Restaurant/Content/OutsideResource/table-sofa/source/table_sofa2.uasset" SILENT=true
+[2023.03.30-20.35.26:451][280]LogSavePackage: Moving output files for package: /Game/OutsideResource/table-sofa/source/table_sofa2
+[2023.03.30-20.35.26:451][280]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/table_sofa2E9990DB546F6E783118F26921B358268.tmp' to '../../../../MyProject/Restaurant/Content/OutsideResource/table-sofa/source/table_sofa2.uasset'
+[2023.03.30-20.35.26:469][280]LogStall: Shutdown...
+[2023.03.30-20.35.26:482][280]LogStall: Shutdown complete.
+[2023.03.30-20.35.26:554][280]LogSlate: Window 'Restaurant - Unreal Editor' being destroyed
+[2023.03.30-20.35.27:054][280]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.30-20.35.27:054][280]LogContentValidation: Display: Validating Texture2D /Game/OutsideResource/gas-stove/textures/granite_stone_Specular.granite_stone_Specular
+[2023.03.30-20.35.27:054][280]LogContentValidation: Display: Validating Texture2D /Game/OutsideResource/gas-stove/textures/granite_stone_Gloss.granite_stone_Gloss
+[2023.03.30-20.35.27:054][280]LogContentValidation: Display: Validating Texture2D /Game/OutsideResource/gas-stove/textures/granite_stone.granite_stone
+[2023.03.30-20.35.27:054][280]LogContentValidation: Display: Validating Texture2D /Game/OutsideResource/gas-stove/textures/Ciulla_Baked_01_specular.Ciulla_Baked_01_specular
+[2023.03.30-20.35.27:054][280]LogContentValidation: Display: Validating Texture2D /Game/OutsideResource/gas-stove/textures/Ciulla_Baked_01_gloss.Ciulla_Baked_01_gloss
+[2023.03.30-20.35.27:054][280]LogContentValidation: Display: Validating Texture2D /Game/OutsideResource/gas-stove/textures/Ciulla_Baked_01_ao.Ciulla_Baked_01_ao
+[2023.03.30-20.35.27:054][280]LogContentValidation: Display: Validating Texture2D /Game/OutsideResource/gas-stove/textures/Ciulla_Baked_01_albedo.Ciulla_Baked_01_albedo
+[2023.03.30-20.35.27:054][280]LogContentValidation: Display: Validating Texture2D /Game/OutsideResource/gas-stove/source/end1/granite_stone_Specular.granite_stone_Specular
+[2023.03.30-20.35.27:054][280]LogContentValidation: Display: Validating Texture2D /Game/OutsideResource/gas-stove/source/end1/granite_stone_Gloss.granite_stone_Gloss
+[2023.03.30-20.35.27:054][280]LogContentValidation: Display: Validating Texture2D /Game/OutsideResource/gas-stove/source/end1/granite_stone.granite_stone
+[2023.03.30-20.35.27:054][280]LogContentValidation: Display: Validating Material /Game/OutsideResource/gas-stove/source/end1/Stone1Mat.Stone1Mat
+[2023.03.30-20.35.27:054][280]LogContentValidation: Display: Validating Material /Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01Mat.Ciulla_Baked_01Mat
+[2023.03.30-20.35.27:054][280]LogContentValidation: Display: Validating StaticMesh /Game/OutsideResource/gas-stove/source/end1/Gas_Stove.Gas_Stove
+[2023.03.30-20.35.27:054][280]LogContentValidation: Display: Validating Texture2D /Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_specular.Ciulla_Baked_01_specular
+[2023.03.30-20.35.27:054][280]LogContentValidation: Display: Validating Texture2D /Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_gloss.Ciulla_Baked_01_gloss
+[2023.03.30-20.35.27:055][280]LogContentValidation: Display: Validating Texture2D /Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_ao.Ciulla_Baked_01_ao
+[2023.03.30-20.35.27:055][280]LogContentValidation: Display: Validating Texture2D /Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_albedo.Ciulla_Baked_01_albedo
+[2023.03.30-20.35.27:055][280]LogContentValidation: Display: Validating Texture2D /Game/OutsideResource/table-sofa/textures/table_Metallic.table_Metallic
+[2023.03.30-20.35.27:055][280]LogContentValidation: Display: Validating Texture2D /Game/OutsideResource/table-sofa/textures/table_Roughness.table_Roughness
+[2023.03.30-20.35.27:055][280]LogContentValidation: Display: Validating Material /Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_gloss_Mat.Ciulla_Baked_01_gloss_Mat
+[2023.03.30-20.35.27:055][280]LogContentValidation: Display: Validating Material /Game/OutsideResource/gas-stove/source/end1/granite_stone_Gloss_Mat.granite_stone_Gloss_Mat
+[2023.03.30-20.35.27:055][280]LogContentValidation: Display: Validating Material /Game/OutsideResource/gas-stove/source/end1/granite_stone_Mat.granite_stone_Mat
+[2023.03.30-20.35.27:055][280]LogContentValidation: Display: Validating Texture2D /Game/OutsideResource/table-sofa/textures/table_Base_Color.table_Base_Color
+[2023.03.30-20.35.27:055][280]LogContentValidation: Display: Validating Material /Game/OutsideResource/table-sofa/textures/table_Roughness_Mat.table_Roughness_Mat
+[2023.03.30-20.35.27:055][280]LogContentValidation: Display: Validating Material /Game/OutsideResource/table-sofa/textures/table_Normal_DirectX_Mat.table_Normal_DirectX_Mat
+[2023.03.30-20.35.27:055][280]LogContentValidation: Display: Validating StaticMesh /Game/OutsideResource/table-sofa/source/table_sofa2.table_sofa2
+[2023.03.30-20.35.27:055][280]LogContentValidation: Display: Validating Material /Game/OutsideResource/table-sofa/textures/table_Mixed_AO_Mat.table_Mixed_AO_Mat
+[2023.03.30-20.35.27:055][280]LogContentValidation: Display: Validating Material /Game/OutsideResource/table-sofa/source/floor.floor
+[2023.03.30-20.35.27:055][280]LogContentValidation: Display: Validating Material /Game/OutsideResource/table-sofa/source/table.table
+[2023.03.30-20.35.27:055][280]LogContentValidation: Display: Validating Material /Game/OutsideResource/table-sofa/textures/table_Metallic_Mat.table_Metallic_Mat
+[2023.03.30-20.35.27:055][280]LogContentValidation: Display: Validating Material /Game/OutsideResource/table-sofa/textures/table_Base_Color_Mat.table_Base_Color_Mat
+[2023.03.30-20.35.27:055][280]LogContentValidation: Display: Validating StaticMesh /Game/OutsideResource/table-sofa/source/table_sofa.table_sofa
+[2023.03.30-20.35.27:055][280]LogContentValidation: Display: Validating Texture2D /Game/OutsideResource/table-sofa/textures/table_Normal_DirectX.table_Normal_DirectX
+[2023.03.30-20.35.27:055][280]LogContentValidation: Display: Validating Texture2D /Game/OutsideResource/table-sofa/textures/table_Mixed_AO.table_Mixed_AO
+[2023.03.30-20.35.27:057][281]Cmd: QUIT_EDITOR
+[2023.03.30-20.35.27:057][281]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.03.30-20.35.27:136][281]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.03.30-20.35.27:149][281]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.03.30-20.35.27:153][281]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.03.30-20.35.27:679][281]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.03.30-20.35.27:679][281]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.03.30-20.35.27:679][281]LogAudio: Display: Audio Device unregistered from world 'VRTemplateMap'.
+[2023.03.30-20.35.27:942][281]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.03.30-20.35.27:955][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.03.30-20.35.27:957][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.03.30-20.35.28:002][281]LogAudio: Display: Audio Device Manager Shutdown
+[2023.03.30-20.35.28:006][281]LogWindowsTextInputMethodSystem: Activated input method: Chinese (Simplified, China) - 搜狗拼音输入法 (TSF IME).
+[2023.03.30-20.35.28:049][281]LogExit: Preparing to exit.
+[2023.03.30-20.35.28:310][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.03.30-20.35.29:971][281]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-20.35.29:971][281]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-20.35.30:443][281]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.30-20.35.30:673][281]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.03.30-20.35.30:953][281]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.03.30-20.35.30:979][281]LogExit: Editor shut down
+[2023.03.30-20.35.30:984][281]LogExit: Transaction tracking system shut down
+[2023.03.30-20.35.34:723][281]LogExit: Object subsystem successfully closed.
+[2023.03.30-20.35.34:734][281]LogShaderCompilers: Display: ================================================
+[2023.03.30-20.35.34:734][281]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.30-20.35.34:734][281]LogShaderCompilers: Display: Total job queries 393, among them cache hits 120 (30.53%)
+[2023.03.30-20.35.34:734][281]LogShaderCompilers: Display: Tracking 252 distinct input hashes that result in 65 distinct outputs (25.79%)
+[2023.03.30-20.35.34:734][281]LogShaderCompilers: Display: RAM used: 0.40 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.05%
+[2023.03.30-20.35.34:734][281]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.30-20.35.34:734][281]LogShaderCompilers: Display: Shaders Compiled: 204
+[2023.03.30-20.35.34:734][281]LogShaderCompilers: Display: Jobs assigned 252, completed 252 (100.00%)
+[2023.03.30-20.35.34:735][281]LogShaderCompilers: Display: Average time worker was idle: 239.12 s
+[2023.03.30-20.35.34:735][281]LogShaderCompilers: Display: Time job spent in pending queue: average 6.30 s, longest 51.10 s
+[2023.03.30-20.35.34:735][281]LogShaderCompilers: Display: Job execution time: average 20.25 s, max 63.94 s
+[2023.03.30-20.35.34:735][281]LogShaderCompilers: Display: Job life time (pending + execution): average 26.54 s, max 72.50
+[2023.03.30-20.35.34:735][281]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 214.29 s
+[2023.03.30-20.35.34:735][281]LogShaderCompilers: Display: Jobs were issued in 147 batches (only local compilation was used), average 1.71 jobs/batch
+[2023.03.30-20.35.34:735][281]LogShaderCompilers: Display: Average processing rate: 1.18 jobs/sec
+[2023.03.30-20.35.34:735][281]LogShaderCompilers: Display: Effective parallelization: 5.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.30-20.35.34:735][281]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.30-20.35.34:735][281]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    8 times, average 7.77 sec, max 8.41 sec, min 7.17 sec)
+[2023.03.30-20.35.34:735][281]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    8 times, average 7.75 sec, max 8.15 sec, min 6.78 sec)
+[2023.03.30-20.35.34:735][281]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    8 times, average 7.55 sec, max 8.33 sec, min 6.55 sec)
+[2023.03.30-20.35.34:735][281]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   12 times, average 7.45 sec, max 8.36 sec, min 6.45 sec)
+[2023.03.30-20.35.34:735][281]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   12 times, average 7.17 sec, max 8.14 sec, min 5.89 sec)
+[2023.03.30-20.35.34:735][281]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.30-20.35.34:735][281]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.93% of total time (compiled   12 times, average 7.45 sec, max 8.36 sec, min 6.45 sec)
+[2023.03.30-20.35.34:735][281]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.63% of total time (compiled   12 times, average 7.17 sec, max 8.14 sec, min 5.89 sec)
+[2023.03.30-20.35.34:735][281]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 7.32% of total time (compiled   12 times, average 6.88 sec, max 8.38 sec, min 5.16 sec)
+[2023.03.30-20.35.34:735][281]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 7.18% of total time (compiled   12 times, average 6.75 sec, max 8.28 sec, min 5.34 sec)
+[2023.03.30-20.35.34:735][281]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.16% of total time (compiled   16 times, average 5.05 sec, max 7.41 sec, min 1.16 sec)
+[2023.03.30-20.35.34:735][281]LogShaderCompilers: Display: ================================================
+[2023.03.30-20.35.34:850][281]LogShaderCompilers: Display: Shaders left to compile 0

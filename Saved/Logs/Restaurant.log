@@ -1155,3 +1155,1302 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.03.30-18.21.03:737][912]LogFileHelpers: No new changes to save!
 [2023.03.30-18.21.03:753][912]AssetCheck: New page: Asset Save: VRTemplateMap
 [2023.03.30-18.21.03:753][912]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.03.30-18.56.36:934][392]LogDerivedDataCache: C:/Users/18930/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.428 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.30-19.10.39:544][933]Cmd: DELETE
+[2023.03.30-19.10.39:544][933]Cmd: ACTOR DELETE
+[2023.03.30-19.10.39:554][933]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.30-19.10.39:613][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.03.30-19.10.39:615][933]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2023.03.30-19.10.39:644][934]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.10.41:221][ 78]Cmd: DELETE
+[2023.03.30-19.10.41:221][ 78]Cmd: ACTOR DELETE
+[2023.03.30-19.10.41:222][ 78]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.30-19.10.41:229][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.03.30-19.10.41:230][ 78]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2023.03.30-19.10.41:259][ 79]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.10.44:788][400]Cmd: TRANSACTION UNDO
+[2023.03.30-19.10.44:801][400]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.30-19.10.45:903][453]Cmd: TRANSACTION UNDO
+[2023.03.30-19.10.45:903][453]LogEditorTransaction: Undo Delete Elements
+[2023.03.30-19.10.46:018][454]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.10.48:072][611]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.10.48:078][612]LogProfilingDebugging: Allocated a 1752 x 839 texture for HMD canvas layer
+[2023.03.30-19.10.50:857][834]Cmd: TRANSACTION UNDO
+[2023.03.30-19.10.50:857][834]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.30-19.10.51:682][866]Cmd: TRANSACTION UNDO
+[2023.03.30-19.10.51:682][866]LogEditorTransaction: Undo Move Elements
+[2023.03.30-19.10.51:724][867]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.10.53:028][986]Cmd: TRANSACTION UNDO
+[2023.03.30-19.10.53:028][986]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.30-19.10.53:753][ 51]Cmd: TRANSACTION UNDO
+[2023.03.30-19.10.53:753][ 51]LogEditorTransaction: Undo Delete Elements
+[2023.03.30-19.10.53:794][ 52]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.11.04:271][960]MapCheck: New page: Map Check
+[2023.03.30-19.11.04:361][960]LogSlate: Took 0.026292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.03.30-19.11.04:419][960]LightingResults: New page: Lighting Build - 2023年3月30日 上午11:11:04
+[2023.03.30-19.11.04:732][960]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.03.30-19.11.05:150][960]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.03.30-19.11.05:161][960]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.03.30-19.11.06:180][960]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.03.30-19.11.06:180][960]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10396
+[2023.03.30-19.11.09:192][960]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.03.30-19.11.09:193][960]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.03.30-19.11.09:193][960]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.03.30-19.11.09:193][960]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.03.30-19.11.09:193][960]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.03.30-19.11.09:432][960]LogEditorBuildUtils: Build time 0:05
+[2023.03.30-19.11.09:559][961]LogShaderCompilers: Display: ================================================
+[2023.03.30-19.11.09:559][961]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.30-19.11.09:559][961]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.03.30-19.11.09:559][961]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.03.30-19.11.09:559][961]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.03.30-19.11.09:559][961]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.30-19.11.09:559][961]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.03.30-19.11.09:559][961]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.03.30-19.11.09:559][961]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.03.30-19.11.09:559][961]LogShaderCompilers: Display: ================================================
+[2023.03.30-19.11.09:745][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.03.30-19.11.12:369][ 72]Job is a success!
+[2023.03.30-19.11.12:657][ 73]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.015s
+[2023.03.30-19.11.12:658][ 73]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.03.30-19.11.12:658][ 73]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2023.03.30-19.11.12:658][ 73]LogVolumetricLightmapImport:      Bricks at depth
+[2023.03.30-19.11.12:658][ 73]LogVolumetricLightmapImport:          0: 12.5% covering 100.0% of volume
+[2023.03.30-19.11.12:658][ 73]LogVolumetricLightmapImport:          1: 12.5% covering 1.6% of volume
+[2023.03.30-19.11.12:658][ 73]LogVolumetricLightmapImport:          2: 75.0% covering 0.1% of volume
+[2023.03.30-19.11.12:658][ 73]LogVolumetricLightmapImport:      Bricks in each level
+[2023.03.30-19.11.12:658][ 73]LogVolumetricLightmapImport:          VRTemplateMap 			 8 bricks 	 100.0% (Persistent Level)
+[2023.03.30-19.11.12:876][ 73]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2023.03.30-19.11.12:923][ 73]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2023.03.30-19.11.12:936][ 73]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap1_2 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2023.03.30-19.11.12:949][ 73]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_1_2 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2023.03.30-19.11.13:014][ 73]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap1_3 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2023.03.30-19.11.13:025][ 73]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_1_3 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2023.03.30-19.11.13:036][ 73]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap0_4 (TFO_AutoDXT, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.03.30-19.11.13:170][ 73]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:ShadowMapTexture2D_4 (G8, 1024X1024 X1X1) (Required Memory Estimate: 6.666665 MB), EncodeSpeed: Fast
+[2023.03.30-19.11.13:185][ 73]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:ShadowMapTexture2D_5 (G8, 1024X512 X1X1) (Required Memory Estimate: 3.333335 MB), EncodeSpeed: Fast
+[2023.03.30-19.11.13:223][ 73]Lightmass on DESKTOP-GLTKILL: 2.83 sec total, 155 ms importing, 13 ms setup, 353 ms photons, 2.30 sec processing, 0 us extra exporting [10/10 mappings]. Threads: 34.5 sec total, 6.51 sec processing.
+[2023.03.30-19.11.13:238][ 73]LogStaticLightingSystem: VRTemplateMap_BuiltData storing lightmap data for 10 meshes in 4 LightmapResourceClusters (2.5 Meshes per cluster).
+[2023.03.30-19.11.13:253][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.03.30-19.11.13:261][ 73]LogStaticLightingSystem: Illumination: 8.83 sec (317 ms encoding lightmaps, 157 ms encoding shadowmaps)
+[2023.03.30-19.11.13:261][ 73]LogStaticLightingSystem: Lightmap texture memory:  6.2 MB (6.2 MB streaming, 0.0 MB non-streaming), 8 textures
+[2023.03.30-19.11.13:261][ 73]LogStaticLightingSystem: Shadowmap texture memory: 2.1 MB (2.1 MB streaming, 0.0 MB non-streaming), 3 textures
+[2023.03.30-19.11.14:234][ 73]DumpUnbuiltLightIteractions
+[2023.03.30-19.11.14:234][ 73]Lights with unbuilt interactions: 0
+[2023.03.30-19.11.14:234][ 73]
+[2023.03.30-19.11.14:234][ 73]Primitives with unbuilt interactions: 0
+[2023.03.30-19.11.14:310][ 73]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.30-19.11.14:354][ 74]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.03.30-19.11.14:354][ 74]MapCheck: New page: VRTemplateMap - 2023年3月30日 上午11:11:14
+[2023.03.30-19.11.14:457][ 74]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 102.491ms to complete.
+[2023.03.30-19.11.33:796][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.03.30-19.11.33:798][832]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.015
+[2023.03.30-19.13.17:495][109]Cmd: DUPLICATE
+[2023.03.30-19.13.17:495][109]Cmd: ACTOR DUPLICATE
+[2023.03.30-19.13.17:779][110]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.24:967][715]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.25:629][735]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.25:706][737]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.25:764][741]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.29:094][ 15]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.29:154][ 20]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.29:178][ 22]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.29:211][ 25]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.29:246][ 28]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.29:268][ 30]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.29:292][ 32]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.29:315][ 34]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.29:409][ 42]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.29:764][ 56]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.29:951][ 59]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.33:605][308]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.33:652][311]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.37:673][648]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.37:827][662]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.38:285][704]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.38:698][741]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.44:462][203]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.44:675][223]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.44:721][227]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.44:801][234]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.44:826][236]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.44:847][238]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.45:698][318]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.46:031][348]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.48:878][578]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.48:955][585]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.49:000][589]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.49:086][597]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.49:425][629]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.49:554][641]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.49:916][675]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.50:379][719]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.50:742][752]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.55:410][171]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.55:821][210]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.56:025][229]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.56:133][239]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.56:188][244]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.56:602][283]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.13.57:171][335]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.14.00:164][576]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.14.00:496][606]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.14.01:548][704]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.14.01:659][714]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.14.03:363][873]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.14.07:660][246]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.14.08:138][290]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.15.12:096][ 41]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.15.12:330][ 62]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.15.12:486][ 76]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.15.12:589][ 85]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.15.12:866][109]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.15.15:875][378]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.15.16:080][397]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.15.16:211][409]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.15.16:527][438]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.15.16:896][472]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.15.17:276][506]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.15.23:960][ 87]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.15.24:302][119]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.15.25:338][216]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.15.25:741][254]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.15.26:047][283]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.15.27:152][385]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.15.51:235][488]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.19.14:407][304]LogViewport: Scene viewport resized to 1752x835, mode Windowed.
+[2023.03.30-19.19.14:449][305]LogProfilingDebugging: Allocated a 1752 x 835 texture for HMD canvas layer
+[2023.03.30-19.19.14:449][305]LogViewport: Scene viewport resized to 1752x785, mode Windowed.
+[2023.03.30-19.19.14:472][306]LogProfilingDebugging: Allocated a 1752 x 785 texture for HMD canvas layer
+[2023.03.30-19.19.14:472][306]LogViewport: Scene viewport resized to 1752x760, mode Windowed.
+[2023.03.30-19.19.14:491][307]LogProfilingDebugging: Allocated a 1752 x 760 texture for HMD canvas layer
+[2023.03.30-19.19.14:491][307]LogViewport: Scene viewport resized to 1752x740, mode Windowed.
+[2023.03.30-19.19.14:510][308]LogProfilingDebugging: Allocated a 1752 x 740 texture for HMD canvas layer
+[2023.03.30-19.19.14:510][308]LogViewport: Scene viewport resized to 1752x711, mode Windowed.
+[2023.03.30-19.19.14:531][309]LogProfilingDebugging: Allocated a 1752 x 711 texture for HMD canvas layer
+[2023.03.30-19.19.14:531][309]LogViewport: Scene viewport resized to 1752x682, mode Windowed.
+[2023.03.30-19.19.14:550][310]LogProfilingDebugging: Allocated a 1752 x 682 texture for HMD canvas layer
+[2023.03.30-19.19.14:550][310]LogViewport: Scene viewport resized to 1752x653, mode Windowed.
+[2023.03.30-19.19.14:571][311]LogProfilingDebugging: Allocated a 1752 x 653 texture for HMD canvas layer
+[2023.03.30-19.19.14:571][311]LogViewport: Scene viewport resized to 1752x618, mode Windowed.
+[2023.03.30-19.19.14:591][312]LogProfilingDebugging: Allocated a 1752 x 618 texture for HMD canvas layer
+[2023.03.30-19.19.14:591][312]LogViewport: Scene viewport resized to 1752x596, mode Windowed.
+[2023.03.30-19.19.14:611][313]LogProfilingDebugging: Allocated a 1752 x 596 texture for HMD canvas layer
+[2023.03.30-19.19.14:611][313]LogViewport: Scene viewport resized to 1752x581, mode Windowed.
+[2023.03.30-19.19.14:629][314]LogProfilingDebugging: Allocated a 1752 x 581 texture for HMD canvas layer
+[2023.03.30-19.19.14:629][314]LogViewport: Scene viewport resized to 1752x574, mode Windowed.
+[2023.03.30-19.19.14:652][316]LogProfilingDebugging: Allocated a 1752 x 574 texture for HMD canvas layer
+[2023.03.30-19.19.22:216][867]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.03.30-19.19.22:237][867]LogContentBrowser: Creating deferred item: NewFolder
+[2023.03.30-19.19.22:251][868]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.03.30-19.19.26:571][256]LogContentBrowser: Attempting asset rename: NewFolder -> OutsideResource
+[2023.03.30-19.19.26:590][256]LogContentBrowser: End creating deferred item NewFolder
+[2023.03.30-19.19.35:458][549]LogSlate: Took 0.020514 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.03.30-19.20.11:842][791]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\download\gas-stove/source/end1/Ciulla_Baked_01_albedo.jpg)
+[2023.03.30-19.20.11:962][791]LogTexture: Display: Building textures: /Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_albedo.Ciulla_Baked_01_albedo (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.30-19.20.11:962][791]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\download\gas-stove/source/end1/Ciulla_Baked_01_ao.jpg)
+[2023.03.30-19.20.11:991][791]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\download\gas-stove/source/end1/Ciulla_Baked_01_gloss.jpg)
+[2023.03.30-19.20.12:039][791]LogTexture: Display: Building textures: /Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_ao.Ciulla_Baked_01_ao (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.30-19.20.12:043][791]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\download\gas-stove/source/end1/Ciulla_Baked_01_specular.jpg)
+[2023.03.30-19.20.12:112][791]LogTexture: Display: Building textures: /Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_gloss.Ciulla_Baked_01_gloss (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.30-19.20.12:117][791]LogAssetTools: Warning: Failed to import 'E:\download\gas-stove/source/end1/Gas Stove.mtl'. Unknown extension 'mtl'.
+[2023.03.30-19.20.12:134][791]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\download\gas-stove/source/end1/Gas Stove.obj)
+[2023.03.30-19.20.12:224][791]LogTexture: Display: Building textures: /Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_specular.Ciulla_Baked_01_specular (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.30-19.20.12:418][791]LogFbx: Loading FBX Scene from E:\download\gas-stove/source/end1/Gas Stove.obj
+[2023.03.30-19.20.13:009][791]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.30-19.20.30:067][791]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.03.30-19.20.30:213][791]LogMaterial: Display: Missing cached shadermap for Ciulla_Baked_01Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 823E5B83D8DD469730CDDAB4F1493967F2C7A65C), compiling. 
+[2023.03.30-19.20.30:650][791]LogMaterial: Display: Missing cached shadermap for Stone1Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 0DA4E8ADD5309826774FDDA79C3E3197904C9DFE), compiling. 
+[2023.03.30-19.20.30:718][791]LogStaticMesh: Display: Building static mesh Gas_Stove...
+[2023.03.30-19.20.40:000][791]LogStaticMesh: Built static mesh [9.29s] /Game/OutsideResource/gas-stove/source/end1/Gas_Stove.Gas_Stove
+[2023.03.30-19.20.40:267][791]LogStaticMesh: Warning: Gas_Stove has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2023.03.30-19.20.40:267][791]LogStaticMesh: Warning: Gas_Stove has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2023.03.30-19.20.40:267][791]LogStaticMesh: Warning: Gas_Stove has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2023.03.30-19.20.40:267][791]LogStaticMesh: Warning: Gas_Stove has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2023.03.30-19.20.40:636][791]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.03.30-19.20.40:636][791]FBXImport: Warning: Gas_Stove has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2023.03.30-19.20.40:636][791]FBXImport: Warning: Gas_Stove has some nearly zero normals which can create some issues. (Tolerance of 1E-4) 
+[2023.03.30-19.20.40:636][791]FBXImport: Warning: Gas_Stove has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2023.03.30-19.20.40:636][791]FBXImport: Warning: Gas_Stove has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2023.03.30-19.20.40:740][791]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/OutsideResource/gas-stove/source/end1/Gas_Stove) ...
+[2023.03.30-19.20.40:895][791]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\download\gas-stove/source/end1/granite_stone.jpg)
+[2023.03.30-19.20.40:906][791]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\download\gas-stove/source/end1/granite_stone_Gloss.jpg)
+[2023.03.30-19.20.40:917][791]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\download\gas-stove/source/end1/granite_stone_Specular.jpg)
+[2023.03.30-19.20.40:939][791]LogTexture: Display: Building textures: /Game/OutsideResource/gas-stove/source/end1/granite_stone_Gloss.granite_stone_Gloss (TFO_AutoDXT, 1500X1000 X1X1) (Required Memory Estimate: 28.610229 MB), EncodeSpeed: Fast
+[2023.03.30-19.20.40:939][791]LogTexture: Display: Building textures: /Game/OutsideResource/gas-stove/source/end1/granite_stone.granite_stone (TFO_AutoDXT, 1500X1000 X1X1) (Required Memory Estimate: 28.610229 MB), EncodeSpeed: Fast
+[2023.03.30-19.20.40:939][791]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\download\gas-stove/textures/Ciulla_Baked_01_albedo.jpeg)
+[2023.03.30-19.20.40:967][791]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\download\gas-stove/textures/Ciulla_Baked_01_ao.jpeg)
+[2023.03.30-19.20.41:017][791]LogTexture: Display: Building textures: /Game/OutsideResource/gas-stove/source/end1/granite_stone_Specular.granite_stone_Specular (TFO_AutoDXT, 1500X1000 X1X1) (Required Memory Estimate: 28.610229 MB), EncodeSpeed: Fast
+[2023.03.30-19.20.41:017][791]LogTexture: Display: Building textures: /Game/OutsideResource/gas-stove/textures/Ciulla_Baked_01_albedo.Ciulla_Baked_01_albedo (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.30-19.20.41:017][791]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\download\gas-stove/textures/Ciulla_Baked_01_gloss.jpeg)
+[2023.03.30-19.20.41:046][791]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\download\gas-stove/textures/Ciulla_Baked_01_specular.jpeg)
+[2023.03.30-19.20.41:115][791]LogTexture: Display: Building textures: /Game/OutsideResource/gas-stove/textures/Ciulla_Baked_01_ao.Ciulla_Baked_01_ao (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.30-19.20.41:115][791]LogTexture: Display: Building textures: /Game/OutsideResource/gas-stove/textures/Ciulla_Baked_01_gloss.Ciulla_Baked_01_gloss (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.30-19.20.41:119][791]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\download\gas-stove/textures/granite_stone.jpeg)
+[2023.03.30-19.20.41:156][791]LogTexture: Display: Building textures: /Game/OutsideResource/gas-stove/textures/Ciulla_Baked_01_specular.Ciulla_Baked_01_specular (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.30-19.20.41:156][791]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\download\gas-stove/textures/granite_stone_Gloss.jpeg)
+[2023.03.30-19.20.41:167][791]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\download\gas-stove/textures/granite_stone_Specular.jpeg)
+[2023.03.30-19.20.41:292][791]LogTexture: Display: Building textures: /Game/OutsideResource/gas-stove/textures/granite_stone.granite_stone (TFO_AutoDXT, 1500X1000 X1X1) (Required Memory Estimate: 28.610229 MB), EncodeSpeed: Fast
+[2023.03.30-19.20.41:292][791]LogTexture: Display: Building textures: /Game/OutsideResource/gas-stove/textures/granite_stone_Gloss.granite_stone_Gloss (TFO_AutoDXT, 1500X1000 X1X1) (Required Memory Estimate: 28.610229 MB), EncodeSpeed: Fast
+[2023.03.30-19.20.41:292][791]LogTexture: Display: Building textures: /Game/OutsideResource/gas-stove/textures/granite_stone_Specular.granite_stone_Specular (TFO_AutoDXT, 1500X1000 X1X1) (Required Memory Estimate: 28.610229 MB), EncodeSpeed: Fast
+[2023.03.30-19.20.45:711][ 27]LogShaderCompilers: Display: ================================================
+[2023.03.30-19.20.45:711][ 27]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.30-19.20.45:711][ 27]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2023.03.30-19.20.45:711][ 27]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 1 distinct outputs (50.00%)
+[2023.03.30-19.20.45:711][ 27]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.03.30-19.20.45:711][ 27]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.30-19.20.45:711][ 27]LogShaderCompilers: Display: Shaders Compiled: 4
+[2023.03.30-19.20.45:711][ 27]LogShaderCompilers: Display: Jobs assigned 4, completed 2 (50.00%)
+[2023.03.30-19.20.45:716][ 27]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.10 s
+[2023.03.30-19.20.45:716][ 27]LogShaderCompilers: Display: Job execution time: average 3.78 s, max 3.85 s
+[2023.03.30-19.20.45:716][ 27]LogShaderCompilers: Display: Job life time (pending + execution): average 3.84 s, max 3.88
+[2023.03.30-19.20.45:716][ 27]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.90 s
+[2023.03.30-19.20.45:716][ 27]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.30-19.20.45:716][ 27]LogShaderCompilers: Display: Average processing rate: 0.51 jobs/sec
+[2023.03.30-19.20.45:716][ 27]LogShaderCompilers: Display: Effective parallelization: 0.68 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.30-19.20.45:716][ 27]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.03.30-19.20.45:716][ 27]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 1.32 sec, max 1.32 sec, min 1.32 sec)
+[2023.03.30-19.20.45:716][ 27]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.03.30-19.20.45:716][ 27]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 100.00% of total time (compiled    2 times, average 1.32 sec, max 1.32 sec, min 1.32 sec)
+[2023.03.30-19.20.45:716][ 27]LogShaderCompilers: Display: ================================================
+[2023.03.30-19.20.50:656][383]LogSlate: Window 'Message Log' being destroyed
+[2023.03.30-19.20.50:666][383]LogSlate: Window 'Message Log' being destroyed
+[2023.03.30-19.21.01:232][118]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OutsideResource/gas-stove/source/end1/Gas_Stove.Gas_Stove
+[2023.03.30-19.21.01:234][118]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OutsideResource/gas-stove/source/end1/Gas_Stove.Gas_Stove
+[2023.03.30-19.21.01:234][118]LogActorFactory: Actor Factory spawned StaticMesh /Game/OutsideResource/gas-stove/source/end1/Gas_Stove.Gas_Stove as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_1
+[2023.03.30-19.21.01:881][150]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OutsideResource/gas-stove/source/end1/Gas_Stove.Gas_Stove
+[2023.03.30-19.21.01:881][150]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OutsideResource/gas-stove/source/end1/Gas_Stove.Gas_Stove
+[2023.03.30-19.21.01:882][150]LogActorFactory: Actor Factory spawned StaticMesh /Game/OutsideResource/gas-stove/source/end1/Gas_Stove.Gas_Stove as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_2
+[2023.03.30-19.21.05:061][313]LogViewport: Scene viewport resized to 1752x578, mode Windowed.
+[2023.03.30-19.21.05:082][314]LogProfilingDebugging: Allocated a 1752 x 578 texture for HMD canvas layer
+[2023.03.30-19.21.05:082][314]LogViewport: Scene viewport resized to 1752x593, mode Windowed.
+[2023.03.30-19.21.05:109][315]LogProfilingDebugging: Allocated a 1752 x 593 texture for HMD canvas layer
+[2023.03.30-19.21.05:109][315]LogViewport: Scene viewport resized to 1752x615, mode Windowed.
+[2023.03.30-19.21.05:130][316]LogProfilingDebugging: Allocated a 1752 x 615 texture for HMD canvas layer
+[2023.03.30-19.21.05:131][316]LogViewport: Scene viewport resized to 1752x632, mode Windowed.
+[2023.03.30-19.21.05:151][317]LogProfilingDebugging: Allocated a 1752 x 632 texture for HMD canvas layer
+[2023.03.30-19.21.05:151][317]LogViewport: Scene viewport resized to 1752x648, mode Windowed.
+[2023.03.30-19.21.05:177][318]LogProfilingDebugging: Allocated a 1752 x 648 texture for HMD canvas layer
+[2023.03.30-19.21.05:177][318]LogViewport: Scene viewport resized to 1752x666, mode Windowed.
+[2023.03.30-19.21.05:197][319]LogProfilingDebugging: Allocated a 1752 x 666 texture for HMD canvas layer
+[2023.03.30-19.21.05:197][319]LogViewport: Scene viewport resized to 1752x677, mode Windowed.
+[2023.03.30-19.21.05:217][320]LogProfilingDebugging: Allocated a 1752 x 677 texture for HMD canvas layer
+[2023.03.30-19.21.05:217][320]LogViewport: Scene viewport resized to 1752x687, mode Windowed.
+[2023.03.30-19.21.05:238][321]LogProfilingDebugging: Allocated a 1752 x 687 texture for HMD canvas layer
+[2023.03.30-19.21.05:238][321]LogViewport: Scene viewport resized to 1752x697, mode Windowed.
+[2023.03.30-19.21.05:258][322]LogProfilingDebugging: Allocated a 1752 x 697 texture for HMD canvas layer
+[2023.03.30-19.21.05:258][322]LogViewport: Scene viewport resized to 1752x707, mode Windowed.
+[2023.03.30-19.21.05:281][323]LogProfilingDebugging: Allocated a 1752 x 707 texture for HMD canvas layer
+[2023.03.30-19.21.05:281][323]LogViewport: Scene viewport resized to 1752x717, mode Windowed.
+[2023.03.30-19.21.05:301][324]LogProfilingDebugging: Allocated a 1752 x 717 texture for HMD canvas layer
+[2023.03.30-19.21.05:301][324]LogViewport: Scene viewport resized to 1752x728, mode Windowed.
+[2023.03.30-19.21.05:323][325]LogProfilingDebugging: Allocated a 1752 x 728 texture for HMD canvas layer
+[2023.03.30-19.21.05:323][325]LogViewport: Scene viewport resized to 1752x738, mode Windowed.
+[2023.03.30-19.21.05:348][326]LogProfilingDebugging: Allocated a 1752 x 738 texture for HMD canvas layer
+[2023.03.30-19.21.05:348][326]LogViewport: Scene viewport resized to 1752x748, mode Windowed.
+[2023.03.30-19.21.05:370][327]LogProfilingDebugging: Allocated a 1752 x 748 texture for HMD canvas layer
+[2023.03.30-19.21.05:370][327]LogViewport: Scene viewport resized to 1752x754, mode Windowed.
+[2023.03.30-19.21.05:396][328]LogProfilingDebugging: Allocated a 1752 x 754 texture for HMD canvas layer
+[2023.03.30-19.21.05:396][328]LogViewport: Scene viewport resized to 1752x758, mode Windowed.
+[2023.03.30-19.21.05:418][330]LogProfilingDebugging: Allocated a 1752 x 758 texture for HMD canvas layer
+[2023.03.30-19.21.05:427][330]LogViewport: Scene viewport resized to 1752x759, mode Windowed.
+[2023.03.30-19.21.05:452][331]LogProfilingDebugging: Allocated a 1752 x 759 texture for HMD canvas layer
+[2023.03.30-19.21.05:452][331]LogViewport: Scene viewport resized to 1752x762, mode Windowed.
+[2023.03.30-19.21.05:477][332]LogProfilingDebugging: Allocated a 1752 x 762 texture for HMD canvas layer
+[2023.03.30-19.21.05:477][332]LogViewport: Scene viewport resized to 1752x767, mode Windowed.
+[2023.03.30-19.21.05:499][333]LogProfilingDebugging: Allocated a 1752 x 767 texture for HMD canvas layer
+[2023.03.30-19.21.05:499][333]LogViewport: Scene viewport resized to 1752x772, mode Windowed.
+[2023.03.30-19.21.05:519][334]LogProfilingDebugging: Allocated a 1752 x 772 texture for HMD canvas layer
+[2023.03.30-19.21.05:519][334]LogViewport: Scene viewport resized to 1752x774, mode Windowed.
+[2023.03.30-19.21.05:541][336]LogProfilingDebugging: Allocated a 1752 x 774 texture for HMD canvas layer
+[2023.03.30-19.21.05:569][338]LogViewport: Scene viewport resized to 1752x777, mode Windowed.
+[2023.03.30-19.21.05:593][339]LogProfilingDebugging: Allocated a 1752 x 777 texture for HMD canvas layer
+[2023.03.30-19.21.05:593][339]LogViewport: Scene viewport resized to 1752x783, mode Windowed.
+[2023.03.30-19.21.05:615][340]LogProfilingDebugging: Allocated a 1752 x 783 texture for HMD canvas layer
+[2023.03.30-19.21.05:615][340]LogViewport: Scene viewport resized to 1752x787, mode Windowed.
+[2023.03.30-19.21.05:634][341]LogProfilingDebugging: Allocated a 1752 x 787 texture for HMD canvas layer
+[2023.03.30-19.21.05:634][341]LogViewport: Scene viewport resized to 1752x788, mode Windowed.
+[2023.03.30-19.21.05:657][343]LogProfilingDebugging: Allocated a 1752 x 788 texture for HMD canvas layer
+[2023.03.30-19.21.05:665][343]LogViewport: Scene viewport resized to 1752x792, mode Windowed.
+[2023.03.30-19.21.05:690][344]LogProfilingDebugging: Allocated a 1752 x 792 texture for HMD canvas layer
+[2023.03.30-19.21.05:690][344]LogViewport: Scene viewport resized to 1752x793, mode Windowed.
+[2023.03.30-19.21.05:712][346]LogProfilingDebugging: Allocated a 1752 x 793 texture for HMD canvas layer
+[2023.03.30-19.21.31:749][492]LogViewport: Scene viewport resized to 1752x792, mode Windowed.
+[2023.03.30-19.21.31:770][493]LogProfilingDebugging: Allocated a 1752 x 792 texture for HMD canvas layer
+[2023.03.30-19.21.31:770][493]LogViewport: Scene viewport resized to 1752x782, mode Windowed.
+[2023.03.30-19.21.31:799][494]LogProfilingDebugging: Allocated a 1752 x 782 texture for HMD canvas layer
+[2023.03.30-19.21.31:799][494]LogViewport: Scene viewport resized to 1752x751, mode Windowed.
+[2023.03.30-19.21.31:825][495]LogProfilingDebugging: Allocated a 1752 x 751 texture for HMD canvas layer
+[2023.03.30-19.21.31:826][495]LogViewport: Scene viewport resized to 1752x712, mode Windowed.
+[2023.03.30-19.21.31:846][496]LogProfilingDebugging: Allocated a 1752 x 712 texture for HMD canvas layer
+[2023.03.30-19.21.31:846][496]LogViewport: Scene viewport resized to 1752x671, mode Windowed.
+[2023.03.30-19.21.31:873][497]LogProfilingDebugging: Allocated a 1752 x 671 texture for HMD canvas layer
+[2023.03.30-19.21.31:873][497]LogViewport: Scene viewport resized to 1752x630, mode Windowed.
+[2023.03.30-19.21.31:898][498]LogProfilingDebugging: Allocated a 1752 x 630 texture for HMD canvas layer
+[2023.03.30-19.21.31:898][498]LogViewport: Scene viewport resized to 1752x580, mode Windowed.
+[2023.03.30-19.21.31:924][499]LogProfilingDebugging: Allocated a 1752 x 580 texture for HMD canvas layer
+[2023.03.30-19.21.31:924][499]LogViewport: Scene viewport resized to 1752x543, mode Windowed.
+[2023.03.30-19.21.31:945][500]LogProfilingDebugging: Allocated a 1752 x 543 texture for HMD canvas layer
+[2023.03.30-19.21.31:945][500]LogViewport: Scene viewport resized to 1752x525, mode Windowed.
+[2023.03.30-19.21.31:968][501]LogProfilingDebugging: Allocated a 1752 x 525 texture for HMD canvas layer
+[2023.03.30-19.21.31:968][501]LogViewport: Scene viewport resized to 1752x515, mode Windowed.
+[2023.03.30-19.21.31:987][502]LogProfilingDebugging: Allocated a 1752 x 515 texture for HMD canvas layer
+[2023.03.30-19.21.31:987][502]LogViewport: Scene viewport resized to 1752x514, mode Windowed.
+[2023.03.30-19.21.32:007][503]LogProfilingDebugging: Allocated a 1752 x 514 texture for HMD canvas layer
+[2023.03.30-19.21.32:007][503]LogViewport: Scene viewport resized to 1752x511, mode Windowed.
+[2023.03.30-19.21.32:028][504]LogProfilingDebugging: Allocated a 1752 x 511 texture for HMD canvas layer
+[2023.03.30-19.21.32:028][504]LogViewport: Scene viewport resized to 1752x508, mode Windowed.
+[2023.03.30-19.21.32:054][505]LogProfilingDebugging: Allocated a 1752 x 508 texture for HMD canvas layer
+[2023.03.30-19.21.32:054][505]LogViewport: Scene viewport resized to 1752x505, mode Windowed.
+[2023.03.30-19.21.32:075][507]LogProfilingDebugging: Allocated a 1752 x 505 texture for HMD canvas layer
+[2023.03.30-19.21.45:041][514]Cmd: TRANSACTION UNDO
+[2023.03.30-19.21.45:041][514]LogEditorTransaction: Undo Create Actors
+[2023.03.30-19.21.45:114][515]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.21.52:335][ 22]LogMaterial: Display: Missing cached shadermap for Ciulla_Baked_01_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 5ED7773DB3D6E4A25F1E1B51FA58612EFCFC22E9), compiling. 
+[2023.03.30-19.21.57:855][356]Cmd: TRANSACTION UNDO
+[2023.03.30-19.21.57:855][356]LogEditorTransaction: Undo Create Actors
+[2023.03.30-19.22.48:218][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.03.30-19.22.48:246][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1
+[2023.03.30-19.22.48:246][542]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/VRTemplateMap_Auto158088B5042767B86C691F99F7E31DC62.tmp' to '../../../../MyProject/Restaurant/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1.umap'
+[2023.03.30-19.22.48:252][542]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.070
+[2023.03.30-19.22.48:252][542]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.070
+[2023.03.30-19.22.48:253][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_albedo] ([1] browsable assets)...
+[2023.03.30-19.22.48:255][542]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_albedo.Ciulla_Baked_01_albedo]
+[2023.03.30-19.22.48:255][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_albedo]
+[2023.03.30-19.22.48:277][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_albedo_Auto1
+[2023.03.30-19.22.48:277][542]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/Ciulla_Baked_01_albedo_Auto1F80A3D2948DF8062353C77AF6448AA8E.tmp' to '../../../../MyProject/Restaurant/Saved/Autosaves/Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_albedo_Auto1.uasset'
+[2023.03.30-19.22.48:279][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_ao] ([1] browsable assets)...
+[2023.03.30-19.22.48:281][542]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_ao.Ciulla_Baked_01_ao]
+[2023.03.30-19.22.48:281][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_ao]
+[2023.03.30-19.22.48:283][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_ao_Auto1
+[2023.03.30-19.22.48:283][542]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/Ciulla_Baked_01_ao_Auto10DEC20B447D7D12F9A6A6F8D85D68D77.tmp' to '../../../../MyProject/Restaurant/Saved/Autosaves/Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_ao_Auto1.uasset'
+[2023.03.30-19.22.48:283][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_gloss] ([1] browsable assets)...
+[2023.03.30-19.22.48:286][542]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_gloss.Ciulla_Baked_01_gloss]
+[2023.03.30-19.22.48:286][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_gloss]
+[2023.03.30-19.22.48:287][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_gloss_Auto1
+[2023.03.30-19.22.48:287][542]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/Ciulla_Baked_01_gloss_Auto169B90CD849B0535D4A768AA06F63C29E.tmp' to '../../../../MyProject/Restaurant/Saved/Autosaves/Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_gloss_Auto1.uasset'
+[2023.03.30-19.22.48:288][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_specular] ([1] browsable assets)...
+[2023.03.30-19.22.48:289][542]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_specular.Ciulla_Baked_01_specular]
+[2023.03.30-19.22.48:289][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_specular]
+[2023.03.30-19.22.48:291][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_specular_Auto1
+[2023.03.30-19.22.48:291][542]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/Ciulla_Baked_01_specular_Auto1BCB450BC40B7A9DC37CF1EA350F91C3F.tmp' to '../../../../MyProject/Restaurant/Saved/Autosaves/Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_specular_Auto1.uasset'
+[2023.03.30-19.22.48:291][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OutsideResource/gas-stove/source/end1/Gas_Stove] ([1] browsable assets)...
+[2023.03.30-19.22.48:315][542]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/OutsideResource/gas-stove/source/end1/Gas_Stove.Gas_Stove]
+[2023.03.30-19.22.48:315][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/OutsideResource/gas-stove/source/end1/Gas_Stove]
+[2023.03.30-19.22.48:487][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OutsideResource/gas-stove/source/end1/Gas_Stove_Auto1
+[2023.03.30-19.22.48:487][542]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/Gas_Stove_Auto1A4FAA8B349C8794A42E9C1AA2DFCA072.tmp' to '../../../../MyProject/Restaurant/Saved/Autosaves/Game/OutsideResource/gas-stove/source/end1/Gas_Stove_Auto1.uasset'
+[2023.03.30-19.22.48:488][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OutsideResource/gas-stove/source/end1/granite_stone] ([1] browsable assets)...
+[2023.03.30-19.22.48:491][542]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OutsideResource/gas-stove/source/end1/granite_stone.granite_stone]
+[2023.03.30-19.22.48:491][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/OutsideResource/gas-stove/source/end1/granite_stone]
+[2023.03.30-19.22.48:492][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OutsideResource/gas-stove/source/end1/granite_stone_Auto1
+[2023.03.30-19.22.48:492][542]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/granite_stone_Auto1A4D601A14D30AB0D2EFF019623AC3B54.tmp' to '../../../../MyProject/Restaurant/Saved/Autosaves/Game/OutsideResource/gas-stove/source/end1/granite_stone_Auto1.uasset'
+[2023.03.30-19.22.48:493][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OutsideResource/gas-stove/source/end1/granite_stone_Gloss] ([1] browsable assets)...
+[2023.03.30-19.22.48:495][542]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OutsideResource/gas-stove/source/end1/granite_stone_Gloss.granite_stone_Gloss]
+[2023.03.30-19.22.48:495][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/OutsideResource/gas-stove/source/end1/granite_stone_Gloss]
+[2023.03.30-19.22.48:496][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OutsideResource/gas-stove/source/end1/granite_stone_Gloss_Auto1
+[2023.03.30-19.22.48:497][542]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/granite_stone_Gloss_Auto129C87A8A471B00555238E78A92F30B31.tmp' to '../../../../MyProject/Restaurant/Saved/Autosaves/Game/OutsideResource/gas-stove/source/end1/granite_stone_Gloss_Auto1.uasset'
+[2023.03.30-19.22.48:497][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OutsideResource/gas-stove/source/end1/granite_stone_Specular] ([1] browsable assets)...
+[2023.03.30-19.22.48:499][542]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OutsideResource/gas-stove/source/end1/granite_stone_Specular.granite_stone_Specular]
+[2023.03.30-19.22.48:499][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/OutsideResource/gas-stove/source/end1/granite_stone_Specular]
+[2023.03.30-19.22.48:500][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OutsideResource/gas-stove/source/end1/granite_stone_Specular_Auto1
+[2023.03.30-19.22.48:500][542]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/granite_stone_Specular_Auto1565174094AD45AEC283F1DBF2D669AD2.tmp' to '../../../../MyProject/Restaurant/Saved/Autosaves/Game/OutsideResource/gas-stove/source/end1/granite_stone_Specular_Auto1.uasset'
+[2023.03.30-19.22.48:501][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OutsideResource/gas-stove/textures/Ciulla_Baked_01_albedo] ([1] browsable assets)...
+[2023.03.30-19.22.48:504][542]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OutsideResource/gas-stove/textures/Ciulla_Baked_01_albedo.Ciulla_Baked_01_albedo]
+[2023.03.30-19.22.48:504][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/OutsideResource/gas-stove/textures/Ciulla_Baked_01_albedo]
+[2023.03.30-19.22.48:506][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OutsideResource/gas-stove/textures/Ciulla_Baked_01_albedo_Auto1
+[2023.03.30-19.22.48:506][542]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/Ciulla_Baked_01_albedo_Auto13861BE49472786D8230F5E985504C5D1.tmp' to '../../../../MyProject/Restaurant/Saved/Autosaves/Game/OutsideResource/gas-stove/textures/Ciulla_Baked_01_albedo_Auto1.uasset'
+[2023.03.30-19.22.48:506][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OutsideResource/gas-stove/textures/Ciulla_Baked_01_ao] ([1] browsable assets)...
+[2023.03.30-19.22.48:508][542]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OutsideResource/gas-stove/textures/Ciulla_Baked_01_ao.Ciulla_Baked_01_ao]
+[2023.03.30-19.22.48:508][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/OutsideResource/gas-stove/textures/Ciulla_Baked_01_ao]
+[2023.03.30-19.22.48:511][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OutsideResource/gas-stove/textures/Ciulla_Baked_01_ao_Auto1
+[2023.03.30-19.22.48:511][542]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/Ciulla_Baked_01_ao_Auto158D469124FF379D851819ABB59D47546.tmp' to '../../../../MyProject/Restaurant/Saved/Autosaves/Game/OutsideResource/gas-stove/textures/Ciulla_Baked_01_ao_Auto1.uasset'
+[2023.03.30-19.22.48:511][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OutsideResource/gas-stove/textures/Ciulla_Baked_01_gloss] ([1] browsable assets)...
+[2023.03.30-19.22.48:513][542]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OutsideResource/gas-stove/textures/Ciulla_Baked_01_gloss.Ciulla_Baked_01_gloss]
+[2023.03.30-19.22.48:513][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/OutsideResource/gas-stove/textures/Ciulla_Baked_01_gloss]
+[2023.03.30-19.22.48:515][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OutsideResource/gas-stove/textures/Ciulla_Baked_01_gloss_Auto1
+[2023.03.30-19.22.48:515][542]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/Ciulla_Baked_01_gloss_Auto15A5B18334A4C16177E9D039DABEF6031.tmp' to '../../../../MyProject/Restaurant/Saved/Autosaves/Game/OutsideResource/gas-stove/textures/Ciulla_Baked_01_gloss_Auto1.uasset'
+[2023.03.30-19.22.48:515][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OutsideResource/gas-stove/textures/Ciulla_Baked_01_specular] ([1] browsable assets)...
+[2023.03.30-19.22.48:517][542]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OutsideResource/gas-stove/textures/Ciulla_Baked_01_specular.Ciulla_Baked_01_specular]
+[2023.03.30-19.22.48:517][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/OutsideResource/gas-stove/textures/Ciulla_Baked_01_specular]
+[2023.03.30-19.22.48:519][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OutsideResource/gas-stove/textures/Ciulla_Baked_01_specular_Auto1
+[2023.03.30-19.22.48:519][542]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/Ciulla_Baked_01_specular_Auto199DEAACC4D3FD4F11016F38755EE7E3D.tmp' to '../../../../MyProject/Restaurant/Saved/Autosaves/Game/OutsideResource/gas-stove/textures/Ciulla_Baked_01_specular_Auto1.uasset'
+[2023.03.30-19.22.48:519][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OutsideResource/gas-stove/textures/granite_stone] ([1] browsable assets)...
+[2023.03.30-19.22.48:521][542]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OutsideResource/gas-stove/textures/granite_stone.granite_stone]
+[2023.03.30-19.22.48:521][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/OutsideResource/gas-stove/textures/granite_stone]
+[2023.03.30-19.22.48:523][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OutsideResource/gas-stove/textures/granite_stone_Auto1
+[2023.03.30-19.22.48:523][542]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/granite_stone_Auto129D1E3354BEE7DAD58A6DBB83CA8D0FC.tmp' to '../../../../MyProject/Restaurant/Saved/Autosaves/Game/OutsideResource/gas-stove/textures/granite_stone_Auto1.uasset'
+[2023.03.30-19.22.48:523][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OutsideResource/gas-stove/textures/granite_stone_Gloss] ([1] browsable assets)...
+[2023.03.30-19.22.48:527][542]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OutsideResource/gas-stove/textures/granite_stone_Gloss.granite_stone_Gloss]
+[2023.03.30-19.22.48:527][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/OutsideResource/gas-stove/textures/granite_stone_Gloss]
+[2023.03.30-19.22.48:530][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OutsideResource/gas-stove/textures/granite_stone_Gloss_Auto1
+[2023.03.30-19.22.48:530][542]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/granite_stone_Gloss_Auto16FFC89BE48656388A82235AE42CC67A7.tmp' to '../../../../MyProject/Restaurant/Saved/Autosaves/Game/OutsideResource/gas-stove/textures/granite_stone_Gloss_Auto1.uasset'
+[2023.03.30-19.22.48:530][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OutsideResource/gas-stove/textures/granite_stone_Specular] ([1] browsable assets)...
+[2023.03.30-19.22.48:532][542]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/OutsideResource/gas-stove/textures/granite_stone_Specular.granite_stone_Specular]
+[2023.03.30-19.22.48:532][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/OutsideResource/gas-stove/textures/granite_stone_Specular]
+[2023.03.30-19.22.48:533][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OutsideResource/gas-stove/textures/granite_stone_Specular_Auto1
+[2023.03.30-19.22.48:533][542]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/granite_stone_Specular_Auto122F4F0FC461B8F99E3C771B713046333.tmp' to '../../../../MyProject/Restaurant/Saved/Autosaves/Game/OutsideResource/gas-stove/textures/granite_stone_Specular_Auto1.uasset'
+[2023.03.30-19.22.48:553][542]LogFileHelpers: Auto-saving content packages took 0.281
+[2023.03.30-19.23.04:112][ 16]LogMaterial: Display: Missing cached shadermap for granite_stone_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: E79C649819B38DFCDDC837C1A02291479F4CD843), compiling. 
+[2023.03.30-19.23.31:315][ 51]LogMaterial: Display: Missing cached shadermap for granite_stone_Gloss_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 548336E71B35A52F57462A5E251978BFB6AC080A), compiling. 
+[2023.03.30-19.23.47:826][225]LogMaterial: Display: Missing cached shadermap for Ciulla_Baked_01_gloss_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: BAF784CD7C8862FFA8D1AC61AF61A3F01B4B6AD1), compiling. 
+[2023.03.30-19.23.48:777][259]LogShaderCompilers: Display: ================================================
+[2023.03.30-19.23.48:777][259]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.30-19.23.48:777][259]LogShaderCompilers: Display: Total job queries 22, among them cache hits 0 (0.00%)
+[2023.03.30-19.23.48:777][259]LogShaderCompilers: Display: Tracking 21 distinct input hashes that result in 9 distinct outputs (42.86%)
+[2023.03.30-19.23.48:777][259]LogShaderCompilers: Display: RAM used: 0.05 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2023.03.30-19.23.48:777][259]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.30-19.23.48:778][259]LogShaderCompilers: Display: Shaders Compiled: 12
+[2023.03.30-19.23.48:778][259]LogShaderCompilers: Display: Jobs assigned 22, completed 21 (95.45%)
+[2023.03.30-19.23.48:778][259]LogShaderCompilers: Display: Average time worker was idle: 20.31 s
+[2023.03.30-19.23.48:778][259]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.10 s
+[2023.03.30-19.23.48:778][259]LogShaderCompilers: Display: Job execution time: average 2.43 s, max 6.08 s
+[2023.03.30-19.23.48:778][259]LogShaderCompilers: Display: Job life time (pending + execution): average 2.50 s, max 6.11
+[2023.03.30-19.23.48:778][259]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 26.48 s
+[2023.03.30-19.23.48:778][259]LogShaderCompilers: Display: Jobs were issued in 22 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.30-19.23.48:778][259]LogShaderCompilers: Display: Average processing rate: 0.79 jobs/sec
+[2023.03.30-19.23.48:778][259]LogShaderCompilers: Display: Effective parallelization: 1.50 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.30-19.23.48:778][259]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.03.30-19.23.48:778][259]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    5 times, average 2.93 sec, max 3.60 sec, min 2.47 sec)
+[2023.03.30-19.23.48:778][259]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    5 times, average 2.85 sec, max 3.47 sec, min 2.42 sec)
+[2023.03.30-19.23.48:778][259]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    5 times, average 1.04 sec, max 1.32 sec, min 0.84 sec)
+[2023.03.30-19.23.48:778][259]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    6 times, average 0.94 sec, max 1.27 sec, min 0.78 sec)
+[2023.03.30-19.23.48:778][259]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.03.30-19.23.48:778][259]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 36.83% of total time (compiled    5 times, average 2.93 sec, max 3.60 sec, min 2.47 sec)
+[2023.03.30-19.23.48:778][259]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 35.85% of total time (compiled    5 times, average 2.85 sec, max 3.47 sec, min 2.42 sec)
+[2023.03.30-19.23.48:778][259]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 14.27% of total time (compiled    6 times, average 0.94 sec, max 1.27 sec, min 0.78 sec)
+[2023.03.30-19.23.48:778][259]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.05% of total time (compiled    5 times, average 1.04 sec, max 1.32 sec, min 0.84 sec)
+[2023.03.30-19.23.48:778][259]LogShaderCompilers: Display: ================================================
+[2023.03.30-19.24.26:543][248]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.24.28:471][413]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.24.29:219][476]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.24.38:192][196]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.24.38:656][236]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.24.39:289][288]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.24.44:979][745]Cmd: MODE SCALEGRID=0
+[2023.03.30-19.24.46:370][859]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.24.46:503][870]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.24.46:551][874]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.24.46:633][881]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.24.47:061][917]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.24.47:143][924]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.24.47:169][926]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.24.47:240][932]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.24.47:336][940]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.24.47:888][987]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.24.48:475][ 35]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.25.08:213][634]LogViewport: Scene viewport resized to 1752x506, mode Windowed.
+[2023.03.30-19.25.08:239][635]LogProfilingDebugging: Allocated a 1752 x 506 texture for HMD canvas layer
+[2023.03.30-19.25.08:239][635]LogViewport: Scene viewport resized to 1752x524, mode Windowed.
+[2023.03.30-19.25.08:259][636]LogProfilingDebugging: Allocated a 1752 x 524 texture for HMD canvas layer
+[2023.03.30-19.25.08:259][636]LogViewport: Scene viewport resized to 1752x543, mode Windowed.
+[2023.03.30-19.25.08:279][637]LogProfilingDebugging: Allocated a 1752 x 543 texture for HMD canvas layer
+[2023.03.30-19.25.08:279][637]LogViewport: Scene viewport resized to 1752x563, mode Windowed.
+[2023.03.30-19.25.08:299][638]LogProfilingDebugging: Allocated a 1752 x 563 texture for HMD canvas layer
+[2023.03.30-19.25.08:300][638]LogViewport: Scene viewport resized to 1752x584, mode Windowed.
+[2023.03.30-19.25.08:328][639]LogProfilingDebugging: Allocated a 1752 x 584 texture for HMD canvas layer
+[2023.03.30-19.25.08:328][639]LogViewport: Scene viewport resized to 1752x619, mode Windowed.
+[2023.03.30-19.25.08:351][640]LogProfilingDebugging: Allocated a 1752 x 619 texture for HMD canvas layer
+[2023.03.30-19.25.08:351][640]LogViewport: Scene viewport resized to 1752x662, mode Windowed.
+[2023.03.30-19.25.08:378][641]LogProfilingDebugging: Allocated a 1752 x 662 texture for HMD canvas layer
+[2023.03.30-19.25.08:378][641]LogViewport: Scene viewport resized to 1752x729, mode Windowed.
+[2023.03.30-19.25.08:404][642]LogProfilingDebugging: Allocated a 1752 x 729 texture for HMD canvas layer
+[2023.03.30-19.25.08:404][642]LogViewport: Scene viewport resized to 1752x780, mode Windowed.
+[2023.03.30-19.25.08:431][643]LogProfilingDebugging: Allocated a 1752 x 780 texture for HMD canvas layer
+[2023.03.30-19.25.08:431][643]LogViewport: Scene viewport resized to 1752x813, mode Windowed.
+[2023.03.30-19.25.08:459][644]LogProfilingDebugging: Allocated a 1752 x 813 texture for HMD canvas layer
+[2023.03.30-19.25.08:459][644]LogViewport: Scene viewport resized to 1752x826, mode Windowed.
+[2023.03.30-19.25.08:479][645]LogProfilingDebugging: Allocated a 1752 x 826 texture for HMD canvas layer
+[2023.03.30-19.25.08:479][645]LogViewport: Scene viewport resized to 1752x832, mode Windowed.
+[2023.03.30-19.25.08:500][646]LogProfilingDebugging: Allocated a 1752 x 832 texture for HMD canvas layer
+[2023.03.30-19.25.08:500][646]LogViewport: Scene viewport resized to 1752x840, mode Windowed.
+[2023.03.30-19.25.08:527][647]LogProfilingDebugging: Allocated a 1752 x 840 texture for HMD canvas layer
+[2023.03.30-19.25.08:527][647]LogViewport: Scene viewport resized to 1752x852, mode Windowed.
+[2023.03.30-19.25.08:548][648]LogProfilingDebugging: Allocated a 1752 x 852 texture for HMD canvas layer
+[2023.03.30-19.25.08:549][648]LogViewport: Scene viewport resized to 1752x862, mode Windowed.
+[2023.03.30-19.25.08:569][649]LogProfilingDebugging: Allocated a 1752 x 862 texture for HMD canvas layer
+[2023.03.30-19.25.08:569][649]LogViewport: Scene viewport resized to 1752x872, mode Windowed.
+[2023.03.30-19.25.08:590][650]LogProfilingDebugging: Allocated a 1752 x 872 texture for HMD canvas layer
+[2023.03.30-19.25.08:590][650]LogViewport: Scene viewport resized to 1752x878, mode Windowed.
+[2023.03.30-19.25.08:613][652]LogProfilingDebugging: Allocated a 1752 x 878 texture for HMD canvas layer
+[2023.03.30-19.25.25:233][ 44]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.25.25:261][ 46]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.25.25:288][ 48]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.25.25:315][ 50]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.25.25:391][ 56]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.25.26:074][ 73]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.25.26:806][121]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.25.27:071][144]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.25.27:161][150]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.25.30:947][415]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.25.32:689][541]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.25.32:812][549]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.25.32:844][551]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.25.32:872][553]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.25.33:405][569]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.25.34:219][633]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.25.34:614][667]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.25.40:324][144]Cmd: DELETE
+[2023.03.30-19.25.40:324][144]Cmd: ACTOR DELETE
+[2023.03.30-19.25.40:327][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.30-19.25.40:352][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.03.30-19.25.40:354][144]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2023.03.30-19.25.53:260][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap" FILE="../../../../MyProject/Restaurant/Content/VRTemplate/Maps/VRTemplateMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.30-19.25.53:266][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.03.30-19.25.53:292][234]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.03.30-19.25.53:292][234]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/VRTemplateMap766810984CD751F952A85481B354280A.tmp' to '../../../../MyProject/Restaurant/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.03.30-19.25.53:312][234]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/VRTemplate/Maps/VRTemplateMap_BuiltData
+[2023.03.30-19.25.53:316][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap_BuiltData" FILE="../../../../MyProject/Restaurant/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset" SILENT=true
+[2023.03.30-19.25.53:421][234]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData
+[2023.03.30-19.25.53:422][234]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/VRTemplateMap_BuiltData3577DA324E0AD27995D9C1B3746CF4CB.tmp' to '../../../../MyProject/Restaurant/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset'
+[2023.03.30-19.25.53:431][234]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/VRTemplate/Maps/VRTemplateMap_BuiltData
+[2023.03.30-19.25.53:445][234]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.30-19.25.53:446][234]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
+[2023.03.30-19.25.53:446][234]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.03.30-19.25.55:827][421]MapCheck: New page: Map Check
+[2023.03.30-19.25.55:852][421]LightingResults: New page: Lighting Build - 2023年3月30日 上午11:25:55
+[2023.03.30-19.25.55:866][421]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.03.30-19.25.55:873][421]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.03.30-19.25.55:873][421]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.03.30-19.25.55:874][421]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.03.30-19.25.55:874][421]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10396
+[2023.03.30-19.26.01:460][421]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.03.30-19.26.01:460][421]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.03.30-19.26.01:460][421]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.03.30-19.26.01:460][421]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.03.30-19.26.01:460][421]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.03.30-19.26.02:043][421]LogEditorBuildUtils: Build time 0:06
+[2023.03.30-19.26.02:057][421]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Ciulla_Baked_01_gloss_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 78EE63827AC2F4AF097919E25A284CD18C20EB78), compiling. 
+[2023.03.30-19.26.02:105][421]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer Ciulla_Baked_01_gloss_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 85BA3293FC9AE78CBE27F84081F800B1D03AC622), compiling. 
+[2023.03.30-19.26.02:161][422]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer granite_stone_Gloss_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 172BCEDA8B9AB93156A914C19EE2D55D3ED986BB), compiling. 
+[2023.03.30-19.26.02:166][422]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer granite_stone_Gloss_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 16280779E0B8062583BA2AB70159BFF215715C4E), compiling. 
+[2023.03.30-19.26.26:797][423]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2023.03.30-19.26.26:797][423]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [22145ms] waiting for h/w. InstanceID=1
+[2023.03.30-19.26.26:797][423]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' report submitted, and took 0.044633s
+[2023.03.30-19.26.26:797][423]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' complete in 0.050000s (0.054487s overbudget)
+[2023.03.30-19.26.26:888][424]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=29532
+[2023.03.30-19.26.27:006][426]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{54b5e641-f516-4ab9-a2ee-25c4a974f579}, Name=Headphones (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=94.71
+[2023.03.30-19.26.27:042][426]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.03.30-19.26.27:069][427]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.03.30-19.26.27:107][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.03.30-19.26.30:553][585]LightingResults: Warning: Gas_Stove Object has overlapping UVs.
+[2023.03.30-19.26.30:553][585]LightingResults: Gas_Stove Lightmap UV are overlapping by 78.8%. Please adjust content - Enable Error Coloring to visualize.
+[2023.03.30-19.26.30:645][590]Job is a success!
+[2023.03.30-19.26.30:875][591]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.005s
+[2023.03.30-19.26.30:875][591]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.03.30-19.26.30:875][591]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2023.03.30-19.26.30:875][591]LogVolumetricLightmapImport:      Bricks at depth
+[2023.03.30-19.26.30:875][591]LogVolumetricLightmapImport:          0: 12.5% covering 100.0% of volume
+[2023.03.30-19.26.30:875][591]LogVolumetricLightmapImport:          1: 12.5% covering 1.6% of volume
+[2023.03.30-19.26.30:875][591]LogVolumetricLightmapImport:          2: 75.0% covering 0.1% of volume
+[2023.03.30-19.26.30:875][591]LogVolumetricLightmapImport:      Bricks in each level
+[2023.03.30-19.26.30:875][591]LogVolumetricLightmapImport:          VRTemplateMap 			 8 bricks 	 100.0% (Persistent Level)
+[2023.03.30-19.26.30:972][591]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap0_1 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2023.03.30-19.26.30:985][591]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_0_1 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2023.03.30-19.26.30:996][591]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap0_2 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2023.03.30-19.26.31:009][591]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_0_2 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2023.03.30-19.26.31:073][591]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap0_3 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2023.03.30-19.26.31:085][591]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_0_3 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2023.03.30-19.26.31:096][591]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:HQ_Lightmap1_4 (TFO_AutoDXT, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.03.30-19.26.31:097][591]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:LQ_Lightmap_1_4 (TFO_DXT1, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2023.03.30-19.26.31:217][591]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:ShadowMapTexture2D_7 (G8, 1024X1024 X1X1) (Required Memory Estimate: 6.666665 MB), EncodeSpeed: Fast
+[2023.03.30-19.26.31:289][591]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:ShadowMapTexture2D_8 (G8, 1024X512 X1X1) (Required Memory Estimate: 3.333335 MB), EncodeSpeed: Fast
+[2023.03.30-19.26.31:371][591]Lightmass on DESKTOP-GLTKILL: 3.64 sec total, 267 ms importing, 46 ms setup, 1.20 sec photons, 2.11 sec processing, 0 us extra exporting [12/12 mappings]. Threads: 31.7 sec total, 7.62 sec processing.
+[2023.03.30-19.26.31:386][591]LogStaticLightingSystem: VRTemplateMap_BuiltData storing lightmap data for 12 meshes in 4 LightmapResourceClusters (3.0 Meshes per cluster).
+[2023.03.30-19.26.31:439][591]LogMaterial: Display: Material /Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_gloss_Mat.Ciulla_Baked_01_gloss_Mat needed to have new flag set bUsedWithStaticLighting !
+[2023.03.30-19.26.31:449][591]LogMaterial: Display: Missing cached shadermap for Ciulla_Baked_01_gloss_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: D38FFE0B54317E910922254E0EE2DAE3ADA3A05F), compiling. 
+[2023.03.30-19.26.31:526][591]LogMaterial: Display: Material /Game/OutsideResource/gas-stove/source/end1/granite_stone_Gloss_Mat.granite_stone_Gloss_Mat needed to have new flag set bUsedWithStaticLighting !
+[2023.03.30-19.26.31:530][591]LogMaterial: Display: Missing cached shadermap for granite_stone_Gloss_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: E911B010DD1418CE7530B087A8F352F395CAAF76), compiling. 
+[2023.03.30-19.26.31:569][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.03.30-19.26.31:590][591]LogStaticLightingSystem: Illumination: 35.6 sec (175 ms encoding lightmaps, 200 ms encoding shadowmaps)
+[2023.03.30-19.26.31:590][591]LogStaticLightingSystem: Lightmap texture memory:  6.2 MB (6.2 MB streaming, 0.0 MB non-streaming), 8 textures
+[2023.03.30-19.26.31:590][591]LogStaticLightingSystem: Shadowmap texture memory: 2.1 MB (2.1 MB streaming, 0.0 MB non-streaming), 3 textures
+[2023.03.30-19.26.31:792][591]DumpUnbuiltLightIteractions
+[2023.03.30-19.26.31:792][591]Lights with unbuilt interactions: 0
+[2023.03.30-19.26.31:792][591]
+[2023.03.30-19.26.31:792][591]Primitives with unbuilt interactions: 0
+[2023.03.30-19.26.54:883][591]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' exceeded budget of 2.000000s
+[2023.03.30-19.26.54:948][591]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' complete in 0.002544s (21.155585s overbudget)
+[2023.03.30-19.26.54:960][591]LogShaderCompilers: Display: ================================================
+[2023.03.30-19.26.54:960][591]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.30-19.26.54:960][591]LogShaderCompilers: Display: Total job queries 80, among them cache hits 8 (10.00%)
+[2023.03.30-19.26.54:960][591]LogShaderCompilers: Display: Tracking 70 distinct input hashes that result in 27 distinct outputs (38.57%)
+[2023.03.30-19.26.54:960][591]LogShaderCompilers: Display: RAM used: 0.15 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2023.03.30-19.26.54:960][591]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.30-19.26.54:960][591]LogShaderCompilers: Display: Shaders Compiled: 62
+[2023.03.30-19.26.54:960][591]LogShaderCompilers: Display: Jobs assigned 70, completed 70 (100.00%)
+[2023.03.30-19.26.54:960][591]LogShaderCompilers: Display: Average time worker was idle: 28.01 s
+[2023.03.30-19.26.54:960][591]LogShaderCompilers: Display: Time job spent in pending queue: average 3.03 s, longest 21.00 s
+[2023.03.30-19.26.54:960][591]LogShaderCompilers: Display: Job execution time: average 9.56 s, max 24.68 s
+[2023.03.30-19.26.54:960][591]LogShaderCompilers: Display: Job life time (pending + execution): average 12.58 s, max 24.69
+[2023.03.30-19.26.54:960][591]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 79.59 s
+[2023.03.30-19.26.54:960][591]LogShaderCompilers: Display: Jobs were issued in 53 batches (only local compilation was used), average 1.32 jobs/batch
+[2023.03.30-19.26.54:960][591]LogShaderCompilers: Display: Average processing rate: 0.88 jobs/sec
+[2023.03.30-19.26.54:960][591]LogShaderCompilers: Display: Effective parallelization: 2.91 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.30-19.26.54:960][591]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.30-19.26.54:960][591]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    2 times, average 7.19 sec, max 7.22 sec, min 7.17 sec)
+[2023.03.30-19.26.54:960][591]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 7.14 sec, max 7.30 sec, min 6.97 sec)
+[2023.03.30-19.26.54:960][591]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 7.06 sec, max 7.29 sec, min 6.83 sec)
+[2023.03.30-19.26.54:960][591]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 6.95 sec, max 7.13 sec, min 6.78 sec)
+[2023.03.30-19.26.54:960][591]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    2 times, average 6.93 sec, max 7.15 sec, min 6.71 sec)
+[2023.03.30-19.26.54:960][591]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.30-19.26.54:960][591]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.41% of total time (compiled    6 times, average 2.86 sec, max 6.25 sec, min 1.16 sec)
+[2023.03.30-19.26.54:960][591]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.41% of total time (compiled    6 times, average 2.86 sec, max 3.60 sec, min 2.47 sec)
+[2023.03.30-19.26.54:960][591]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 7.21% of total time (compiled    6 times, average 2.78 sec, max 3.47 sec, min 2.42 sec)
+[2023.03.30-19.26.54:960][591]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 6.21% of total time (compiled    2 times, average 7.19 sec, max 7.22 sec, min 7.17 sec)
+[2023.03.30-19.26.54:960][591]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.17% of total time (compiled    2 times, average 7.14 sec, max 7.30 sec, min 6.97 sec)
+[2023.03.30-19.26.54:960][591]LogShaderCompilers: Display: ================================================
+[2023.03.30-19.26.55:106][591]LogTexture: Display: Building textures: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData:NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.03.30-19.26.55:167][592]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.03.30-19.26.55:167][592]MapCheck: New page: VRTemplateMap - 2023年3月30日 上午11:26:55
+[2023.03.30-19.26.55:168][592]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.319ms to complete.
+[2023.03.30-19.36.17:791][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.03.30-19.36.17:803][198]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto2
+[2023.03.30-19.36.17:803][198]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/VRTemplateMap_Auto28F7E97CB4BE01500721BCC8FC5E7E7DB.tmp' to '../../../../MyProject/Restaurant/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto2.umap'
+[2023.03.30-19.36.17:809][198]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.025
+[2023.03.30-19.36.17:809][198]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.025
+[2023.03.30-19.36.17:809][198]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OutsideResource/gas-stove/source/end1/granite_stone_Mat] ([1] browsable assets)...
+[2023.03.30-19.36.20:741][198]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2023.03.30-19.36.20:741][198]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' report submitted, and took 0.049953s
+[2023.03.30-19.36.24:696][198]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004029s (4.003043s overbudget)
+[2023.03.30-19.36.24:699][198]LogShaderCompilers: Display: ================================================
+[2023.03.30-19.36.24:699][198]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.30-19.36.24:699][198]LogShaderCompilers: Display: Total job queries 90, among them cache hits 8 (8.89%)
+[2023.03.30-19.36.24:699][198]LogShaderCompilers: Display: Tracking 80 distinct input hashes that result in 35 distinct outputs (43.75%)
+[2023.03.30-19.36.24:699][198]LogShaderCompilers: Display: RAM used: 0.20 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2023.03.30-19.36.24:699][198]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.30-19.36.24:699][198]LogShaderCompilers: Display: Shaders Compiled: 62
+[2023.03.30-19.36.24:699][198]LogShaderCompilers: Display: Jobs assigned 80, completed 80 (100.00%)
+[2023.03.30-19.36.24:699][198]LogShaderCompilers: Display: Average time worker was idle: 104.98 s
+[2023.03.30-19.36.24:699][198]LogShaderCompilers: Display: Time job spent in pending queue: average 2.73 s, longest 21.00 s
+[2023.03.30-19.36.24:699][198]LogShaderCompilers: Display: Job execution time: average 8.96 s, max 24.68 s
+[2023.03.30-19.36.24:699][198]LogShaderCompilers: Display: Job life time (pending + execution): average 11.69 s, max 24.69
+[2023.03.30-19.36.24:699][198]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 86.45 s
+[2023.03.30-19.36.24:699][198]LogShaderCompilers: Display: Jobs were issued in 63 batches (only local compilation was used), average 1.27 jobs/batch
+[2023.03.30-19.36.24:699][198]LogShaderCompilers: Display: Average processing rate: 0.93 jobs/sec
+[2023.03.30-19.36.24:699][198]LogShaderCompilers: Display: Effective parallelization: 3.19 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.30-19.36.24:699][198]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.30-19.36.24:699][198]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    2 times, average 7.19 sec, max 7.22 sec, min 7.17 sec)
+[2023.03.30-19.36.24:699][198]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 6.95 sec, max 7.13 sec, min 6.78 sec)
+[2023.03.30-19.36.24:699][198]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    2 times, average 6.93 sec, max 7.15 sec, min 6.71 sec)
+[2023.03.30-19.36.24:699][198]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    3 times, average 6.91 sec, max 7.30 sec, min 6.45 sec)
+[2023.03.30-19.36.24:699][198]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    3 times, average 6.88 sec, max 7.29 sec, min 6.52 sec)
+[2023.03.30-19.36.24:699][198]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.30-19.36.24:699][198]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.44% of total time (compiled    7 times, average 3.33 sec, max 6.25 sec, min 1.16 sec)
+[2023.03.30-19.36.24:699][198]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.51% of total time (compiled    3 times, average 6.91 sec, max 7.30 sec, min 6.45 sec)
+[2023.03.30-19.36.24:699][198]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.48% of total time (compiled    3 times, average 6.88 sec, max 7.29 sec, min 6.52 sec)
+[2023.03.30-19.36.24:699][198]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 7.17% of total time (compiled    3 times, average 6.59 sec, max 6.94 sec, min 6.41 sec)
+[2023.03.30-19.36.24:699][198]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 7.14% of total time (compiled    3 times, average 6.57 sec, max 6.87 sec, min 6.32 sec)
+[2023.03.30-19.36.24:699][198]LogShaderCompilers: Display: ================================================
+[2023.03.30-19.36.24:730][198]OBJ SavePackage:     Rendered thumbnail for [Material /Game/OutsideResource/gas-stove/source/end1/granite_stone_Mat.granite_stone_Mat]
+[2023.03.30-19.36.24:730][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/OutsideResource/gas-stove/source/end1/granite_stone_Mat]
+[2023.03.30-19.36.24:750][198]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OutsideResource/gas-stove/source/end1/granite_stone_Mat_Auto2
+[2023.03.30-19.36.24:750][198]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/granite_stone_Mat_Auto26EC879BE4122603A0AA884B110C4B349.tmp' to '../../../../MyProject/Restaurant/Saved/Autosaves/Game/OutsideResource/gas-stove/source/end1/granite_stone_Mat_Auto2.uasset'
+[2023.03.30-19.36.24:750][198]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OutsideResource/gas-stove/source/end1/granite_stone_Gloss_Mat] ([1] browsable assets)...
+[2023.03.30-19.36.24:762][198]OBJ SavePackage:     Rendered thumbnail for [Material /Game/OutsideResource/gas-stove/source/end1/granite_stone_Gloss_Mat.granite_stone_Gloss_Mat]
+[2023.03.30-19.36.24:762][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/OutsideResource/gas-stove/source/end1/granite_stone_Gloss_Mat]
+[2023.03.30-19.36.24:763][198]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OutsideResource/gas-stove/source/end1/granite_stone_Gloss_Mat_Auto2
+[2023.03.30-19.36.24:763][198]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/granite_stone_Gloss_Mat_Auto242632C3949410A0F1BC32DA15ABC11B5.tmp' to '../../../../MyProject/Restaurant/Saved/Autosaves/Game/OutsideResource/gas-stove/source/end1/granite_stone_Gloss_Mat_Auto2.uasset'
+[2023.03.30-19.36.24:764][198]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_gloss_Mat] ([1] browsable assets)...
+[2023.03.30-19.36.24:774][198]OBJ SavePackage:     Rendered thumbnail for [Material /Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_gloss_Mat.Ciulla_Baked_01_gloss_Mat]
+[2023.03.30-19.36.24:774][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_gloss_Mat]
+[2023.03.30-19.36.24:806][198]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_gloss_Mat_Auto2
+[2023.03.30-19.36.24:806][198]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/Ciulla_Baked_01_gloss_Mat_Auto27C9473EE4143499407512CA0649CACBD.tmp' to '../../../../MyProject/Restaurant/Saved/Autosaves/Game/OutsideResource/gas-stove/source/end1/Ciulla_Baked_01_gloss_Mat_Auto2.uasset'
+[2023.03.30-19.36.24:806][198]LogFileHelpers: Auto-saving content packages took 6.997
+[2023.03.30-19.37.08:480][837]Cmd: DELETE
+[2023.03.30-19.37.08:481][837]Cmd: ACTOR DELETE
+[2023.03.30-19.37.08:482][837]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.30-19.37.08:488][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.03.30-19.37.08:489][837]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2023.03.30-19.37.08:505][838]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.37.42:704][681]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.37.43:103][697]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.37.43:466][705]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.37.43:627][718]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.37.43:871][740]Cmd: TRANSACTION UNDO
+[2023.03.30-19.37.43:871][740]LogEditorTransaction: Undo Move Elements
+[2023.03.30-19.37.43:955][741]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.37.48:133][ 66]Cmd: DUPLICATE
+[2023.03.30-19.37.48:133][ 66]Cmd: ACTOR DUPLICATE
+[2023.03.30-19.37.48:185][ 67]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.37.49:780][153]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.37.49:804][155]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.37.49:917][165]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.37.49:974][170]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.37.50:036][175]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.37.50:059][177]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.37.50:532][219]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.37.50:603][225]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.37.51:233][276]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.41.49:033][957]LogViewport: Scene viewport resized to 1752x874, mode Windowed.
+[2023.03.30-19.41.49:056][958]LogProfilingDebugging: Allocated a 1752 x 874 texture for HMD canvas layer
+[2023.03.30-19.41.49:056][958]LogViewport: Scene viewport resized to 1752x851, mode Windowed.
+[2023.03.30-19.41.49:079][959]LogProfilingDebugging: Allocated a 1752 x 851 texture for HMD canvas layer
+[2023.03.30-19.41.49:079][959]LogViewport: Scene viewport resized to 1752x818, mode Windowed.
+[2023.03.30-19.41.49:106][960]LogProfilingDebugging: Allocated a 1752 x 818 texture for HMD canvas layer
+[2023.03.30-19.41.49:106][960]LogViewport: Scene viewport resized to 1752x780, mode Windowed.
+[2023.03.30-19.41.49:128][961]LogProfilingDebugging: Allocated a 1752 x 780 texture for HMD canvas layer
+[2023.03.30-19.41.49:128][961]LogViewport: Scene viewport resized to 1752x755, mode Windowed.
+[2023.03.30-19.41.49:148][962]LogProfilingDebugging: Allocated a 1752 x 755 texture for HMD canvas layer
+[2023.03.30-19.41.49:148][962]LogViewport: Scene viewport resized to 1752x735, mode Windowed.
+[2023.03.30-19.41.49:170][963]LogProfilingDebugging: Allocated a 1752 x 735 texture for HMD canvas layer
+[2023.03.30-19.41.49:170][963]LogViewport: Scene viewport resized to 1752x707, mode Windowed.
+[2023.03.30-19.41.49:196][964]LogProfilingDebugging: Allocated a 1752 x 707 texture for HMD canvas layer
+[2023.03.30-19.41.49:196][964]LogViewport: Scene viewport resized to 1752x684, mode Windowed.
+[2023.03.30-19.41.49:220][965]LogProfilingDebugging: Allocated a 1752 x 684 texture for HMD canvas layer
+[2023.03.30-19.41.49:220][965]LogViewport: Scene viewport resized to 1752x667, mode Windowed.
+[2023.03.30-19.41.49:244][966]LogProfilingDebugging: Allocated a 1752 x 667 texture for HMD canvas layer
+[2023.03.30-19.41.49:244][966]LogViewport: Scene viewport resized to 1752x650, mode Windowed.
+[2023.03.30-19.41.49:270][967]LogProfilingDebugging: Allocated a 1752 x 650 texture for HMD canvas layer
+[2023.03.30-19.41.49:270][967]LogViewport: Scene viewport resized to 1752x627, mode Windowed.
+[2023.03.30-19.41.49:291][968]LogProfilingDebugging: Allocated a 1752 x 627 texture for HMD canvas layer
+[2023.03.30-19.41.49:291][968]LogViewport: Scene viewport resized to 1752x601, mode Windowed.
+[2023.03.30-19.41.49:317][969]LogProfilingDebugging: Allocated a 1752 x 601 texture for HMD canvas layer
+[2023.03.30-19.41.49:317][969]LogViewport: Scene viewport resized to 1752x575, mode Windowed.
+[2023.03.30-19.41.49:345][970]LogProfilingDebugging: Allocated a 1752 x 575 texture for HMD canvas layer
+[2023.03.30-19.41.49:345][970]LogViewport: Scene viewport resized to 1752x536, mode Windowed.
+[2023.03.30-19.41.49:370][971]LogProfilingDebugging: Allocated a 1752 x 536 texture for HMD canvas layer
+[2023.03.30-19.41.49:370][971]LogViewport: Scene viewport resized to 1752x499, mode Windowed.
+[2023.03.30-19.41.49:394][972]LogProfilingDebugging: Allocated a 1752 x 499 texture for HMD canvas layer
+[2023.03.30-19.41.49:394][972]LogViewport: Scene viewport resized to 1752x463, mode Windowed.
+[2023.03.30-19.41.49:419][973]LogProfilingDebugging: Allocated a 1752 x 463 texture for HMD canvas layer
+[2023.03.30-19.41.49:419][973]LogViewport: Scene viewport resized to 1752x437, mode Windowed.
+[2023.03.30-19.41.49:439][974]LogProfilingDebugging: Allocated a 1752 x 437 texture for HMD canvas layer
+[2023.03.30-19.41.49:439][974]LogViewport: Scene viewport resized to 1752x428, mode Windowed.
+[2023.03.30-19.41.49:461][975]LogProfilingDebugging: Allocated a 1752 x 428 texture for HMD canvas layer
+[2023.03.30-19.41.49:461][975]LogViewport: Scene viewport resized to 1752x425, mode Windowed.
+[2023.03.30-19.41.49:489][977]LogProfilingDebugging: Allocated a 1752 x 425 texture for HMD canvas layer
+[2023.03.30-19.41.49:557][983]LogViewport: Scene viewport resized to 1752x423, mode Windowed.
+[2023.03.30-19.41.49:582][984]LogProfilingDebugging: Allocated a 1752 x 423 texture for HMD canvas layer
+[2023.03.30-19.41.49:582][984]LogViewport: Scene viewport resized to 1752x421, mode Windowed.
+[2023.03.30-19.41.49:606][985]LogProfilingDebugging: Allocated a 1752 x 421 texture for HMD canvas layer
+[2023.03.30-19.41.49:616][985]LogViewport: Scene viewport resized to 1752x416, mode Windowed.
+[2023.03.30-19.41.49:638][986]LogProfilingDebugging: Allocated a 1752 x 416 texture for HMD canvas layer
+[2023.03.30-19.42.14:867][404]LogSlate: Window 'Message Log' being destroyed
+[2023.03.30-19.42.14:869][404]LogSlate: Window 'Message Log' being destroyed
+[2023.03.30-19.42.14:949][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.03.30-19.42.16:781][404]LogSlate: Window 'Save Content' being destroyed
+[2023.03.30-19.42.19:769][449]LogHMD: FOpenXRHMD is requesting app exit.  CurrentSessionState: XR_SESSION_STATE_EXITING
+[2023.03.30-19.42.26:724][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.03.30-19.42.28:511][470]LogSlate: Window 'Save Content' being destroyed
+[2023.03.30-19.42.35:603][636]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\download\table-sofa/source/table_sofa.fbx)
+[2023.03.30-19.42.35:698][636]LogFbx: Loading FBX Scene from E:\download\table-sofa/source/table_sofa.fbx
+[2023.03.30-19.42.35:752][636]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.30-19.43.36:517][636]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.03.30-19.43.36:609][636]LogFbxMaterialImport: Display: Unable to find Texture file D:\My Models\Sci-Fi Table\models
+[2023.03.30-19.43.36:614][636]LogMaterial: Display: Missing cached shadermap for table in PCD3D_SM5, Default, SM5 (DDC key hash: 45AB403DE11EB360CCD6A093263558360A35E3AD), compiling. 
+[2023.03.30-19.43.36:628][636]LogMaterial: Display: Missing cached shadermap for floor in PCD3D_SM5, Default, SM5 (DDC key hash: 12EF6D4B7BD77CBC7E9D5858D858DCB510412483), compiling. 
+[2023.03.30-19.43.36:632][636]LogStaticMesh: Display: Building static mesh table_sofa...
+[2023.03.30-19.43.36:667][636]LogStaticMesh: Built static mesh [0.04s] /Game/OutsideResource/table-sofa/source/table_sofa.table_sofa
+[2023.03.30-19.43.36:712][636]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.03.30-19.43.36:926][636]LogStaticMesh: Display: Building static mesh table_sofa...
+[2023.03.30-19.43.36:926][636]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/OutsideResource/table-sofa/source/table_sofa) ...
+[2023.03.30-19.43.36:957][636]LogStaticMesh: Built static mesh [0.04s] /Game/OutsideResource/table-sofa/source/table_sofa.table_sofa
+[2023.03.30-19.43.36:957][636]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\download\table-sofa/textures/table_Base_Color.png)
+[2023.03.30-19.43.37:060][636]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\download\table-sofa/textures/table_Metallic.png)
+[2023.03.30-19.43.37:072][636]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\download\table-sofa/textures/table_Mixed_AO.png)
+[2023.03.30-19.43.37:098][636]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\download\table-sofa/textures/table_Normal_DirectX.png)
+[2023.03.30-19.43.37:276][636]LogTexture: Display: Building textures: /Game/OutsideResource/table-sofa/textures/table_Mixed_AO.table_Mixed_AO (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.30-19.43.37:276][636]LogTexture: Display: Building textures: /Game/OutsideResource/table-sofa/textures/table_Metallic.table_Metallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.30-19.43.37:276][636]LogTexture: Display: Building textures: /Game/OutsideResource/table-sofa/textures/table_Base_Color.table_Base_Color (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.30-19.43.37:310][636]LogTexture: Display: Building textures: /Game/OutsideResource/table-sofa/textures/table_Normal_DirectX.table_Normal_DirectX (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.30-19.43.37:319][636]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\download\table-sofa/textures/table_Roughness.png)
+[2023.03.30-19.43.37:373][636]LogTexture: Display: Building textures: /Game/OutsideResource/table-sofa/textures/table_Roughness.table_Roughness (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.30-19.43.39:590][795]LogSlate: Window 'Message Log' being destroyed
+[2023.03.30-19.43.39:603][795]LogSlate: Window 'Message Log' being destroyed
+[2023.03.30-19.43.39:608][795]LogShaderCompilers: Display: ================================================
+[2023.03.30-19.43.39:608][795]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.30-19.43.39:608][795]LogShaderCompilers: Display: Total job queries 94, among them cache hits 8 (8.51%)
+[2023.03.30-19.43.39:608][795]LogShaderCompilers: Display: Tracking 82 distinct input hashes that result in 35 distinct outputs (42.68%)
+[2023.03.30-19.43.39:608][795]LogShaderCompilers: Display: RAM used: 0.20 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2023.03.30-19.43.39:609][795]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.30-19.43.39:609][795]LogShaderCompilers: Display: Shaders Compiled: 66
+[2023.03.30-19.43.39:609][795]LogShaderCompilers: Display: Jobs assigned 84, completed 82 (97.62%)
+[2023.03.30-19.43.39:609][795]LogShaderCompilers: Display: Average time worker was idle: 127.31 s
+[2023.03.30-19.43.39:609][795]LogShaderCompilers: Display: Time job spent in pending queue: average 2.60 s, longest 21.00 s
+[2023.03.30-19.43.39:609][795]LogShaderCompilers: Display: Job execution time: average 8.77 s, max 24.68 s
+[2023.03.30-19.43.39:609][795]LogShaderCompilers: Display: Job life time (pending + execution): average 11.44 s, max 24.69
+[2023.03.30-19.43.39:609][795]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 87.92 s
+[2023.03.30-19.43.39:609][795]LogShaderCompilers: Display: Jobs were issued in 67 batches (only local compilation was used), average 1.25 jobs/batch
+[2023.03.30-19.43.39:609][795]LogShaderCompilers: Display: Average processing rate: 0.93 jobs/sec
+[2023.03.30-19.43.39:609][795]LogShaderCompilers: Display: Effective parallelization: 3.17 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.30-19.43.39:609][795]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.30-19.43.39:609][795]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    2 times, average 7.19 sec, max 7.22 sec, min 7.17 sec)
+[2023.03.30-19.43.39:609][795]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 6.95 sec, max 7.13 sec, min 6.78 sec)
+[2023.03.30-19.43.39:609][795]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    2 times, average 6.93 sec, max 7.15 sec, min 6.71 sec)
+[2023.03.30-19.43.39:609][795]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    3 times, average 6.91 sec, max 7.30 sec, min 6.45 sec)
+[2023.03.30-19.43.39:609][795]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    3 times, average 6.88 sec, max 7.29 sec, min 6.52 sec)
+[2023.03.30-19.43.39:609][795]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.30-19.43.39:609][795]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.36% of total time (compiled    7 times, average 3.33 sec, max 6.25 sec, min 1.16 sec)
+[2023.03.30-19.43.39:609][795]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.45% of total time (compiled    3 times, average 6.91 sec, max 7.30 sec, min 6.45 sec)
+[2023.03.30-19.43.39:609][795]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.41% of total time (compiled    3 times, average 6.88 sec, max 7.29 sec, min 6.52 sec)
+[2023.03.30-19.43.39:609][795]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 7.10% of total time (compiled    3 times, average 6.59 sec, max 6.94 sec, min 6.41 sec)
+[2023.03.30-19.43.39:609][795]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 7.07% of total time (compiled    3 times, average 6.57 sec, max 6.87 sec, min 6.32 sec)
+[2023.03.30-19.43.39:609][795]LogShaderCompilers: Display: ================================================
+[2023.03.30-19.43.50:146][942]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OutsideResource/table-sofa/source/table_sofa.table_sofa
+[2023.03.30-19.43.50:146][942]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OutsideResource/table-sofa/source/table_sofa.table_sofa
+[2023.03.30-19.43.50:146][942]LogActorFactory: Actor Factory spawned StaticMesh /Game/OutsideResource/table-sofa/source/table_sofa.table_sofa as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_6
+[2023.03.30-19.43.50:895][991]LogMaterial: Display: Missing cached shadermap for table_Base_Color_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 36291D1AD3690DC49D6FC543852CB75B849874CA), compiling. 
+[2023.03.30-19.43.50:924][991]LogMaterial: Display: Missing cached shadermap for table_Metallic_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 63C4201753186661B0BC8CAF8BDE3837E902F489), compiling. 
+[2023.03.30-19.43.50:927][991]LogMaterial: Display: Material /Game/OutsideResource/table-sofa/textures/table_Base_Color_Mat.table_Base_Color_Mat needed to have new flag set bUsedWithStaticLighting !
+[2023.03.30-19.43.50:932][991]LogMaterial: Display: Missing cached shadermap for table_Base_Color_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: C8E7E682D99A4D0D529337382136AD1F701BA7E8), compiling. 
+[2023.03.30-19.43.50:991][991]LogMaterial: Display: Missing cached shadermap for table_Mixed_AO_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 90022D552B023872BB91F202DB0FF820EDC098A3), compiling. 
+[2023.03.30-19.43.50:994][991]LogMaterial: Display: Material /Game/OutsideResource/table-sofa/textures/table_Metallic_Mat.table_Metallic_Mat needed to have new flag set bUsedWithStaticLighting !
+[2023.03.30-19.43.51:000][991]LogMaterial: Display: Missing cached shadermap for table_Metallic_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 109EC557CC701ABB94E356C0C03E043D545DB364), compiling. 
+[2023.03.30-19.43.51:059][991]LogMaterial: Display: Missing cached shadermap for table_Normal_DirectX_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7036FD70BFB65B00A2BA660011202F4FD7C7032A), compiling. 
+[2023.03.30-19.43.51:061][991]LogMaterial: Display: Material /Game/OutsideResource/table-sofa/textures/table_Mixed_AO_Mat.table_Mixed_AO_Mat needed to have new flag set bUsedWithStaticLighting !
+[2023.03.30-19.43.51:067][991]LogMaterial: Display: Missing cached shadermap for table_Mixed_AO_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: BA20E76F902C458A03CE193FBC0523C54C98FA3F), compiling. 
+[2023.03.30-19.43.51:145][991]LogMaterial: Display: Missing cached shadermap for table_Roughness_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 473ED94CEE1B6C6D5625D4FBB16D0367DBBCAD21), compiling. 
+[2023.03.30-19.43.51:147][991]LogMaterial: Display: Material /Game/OutsideResource/table-sofa/textures/table_Normal_DirectX_Mat.table_Normal_DirectX_Mat needed to have new flag set bUsedWithStaticLighting !
+[2023.03.30-19.43.51:156][991]LogMaterial: Display: Missing cached shadermap for table_Normal_DirectX_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 51A0680BE21AE39F2880D8448DB2F001A5719B76), compiling. 
+[2023.03.30-19.43.51:220][991]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OutsideResource/table-sofa/source/table_sofa.table_sofa
+[2023.03.30-19.43.51:220][991]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OutsideResource/table-sofa/source/table_sofa.table_sofa
+[2023.03.30-19.43.51:221][991]LogActorFactory: Actor Factory spawned StaticMesh /Game/OutsideResource/table-sofa/source/table_sofa.table_sofa as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_7
+[2023.03.30-19.43.51:268][991]LogMaterial: Display: Material /Game/OutsideResource/table-sofa/textures/table_Roughness_Mat.table_Roughness_Mat needed to have new flag set bUsedWithStaticLighting !
+[2023.03.30-19.43.51:274][991]LogMaterial: Display: Missing cached shadermap for table_Roughness_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A289B3B23B121384A8D1E34DFED61EBADAC62EB9), compiling. 
+[2023.03.30-19.43.53:935][ 39]LogViewport: Scene viewport resized to 1752x451, mode Windowed.
+[2023.03.30-19.43.53:989][ 40]LogViewport: Scene viewport resized to 1752x497, mode Windowed.
+[2023.03.30-19.43.54:045][ 41]LogViewport: Scene viewport resized to 1752x557, mode Windowed.
+[2023.03.30-19.43.54:099][ 42]LogViewport: Scene viewport resized to 1752x627, mode Windowed.
+[2023.03.30-19.43.54:151][ 43]LogViewport: Scene viewport resized to 1752x659, mode Windowed.
+[2023.03.30-19.43.54:203][ 44]LogViewport: Scene viewport resized to 1752x686, mode Windowed.
+[2023.03.30-19.43.54:253][ 45]LogViewport: Scene viewport resized to 1752x723, mode Windowed.
+[2023.03.30-19.43.54:300][ 46]LogViewport: Scene viewport resized to 1752x755, mode Windowed.
+[2023.03.30-19.43.54:347][ 47]LogViewport: Scene viewport resized to 1752x790, mode Windowed.
+[2023.03.30-19.43.54:394][ 48]LogViewport: Scene viewport resized to 1752x818, mode Windowed.
+[2023.03.30-19.43.54:440][ 49]LogViewport: Scene viewport resized to 1752x831, mode Windowed.
+[2023.03.30-19.43.54:489][ 50]LogViewport: Scene viewport resized to 1752x830, mode Windowed.
+[2023.03.30-19.44.21:106][574]Cmd: DELETE
+[2023.03.30-19.44.21:106][574]Cmd: ACTOR DELETE
+[2023.03.30-19.44.21:109][574]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.30-19.44.21:119][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.03.30-19.44.21:123][574]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2023.03.30-19.44.21:148][576]Cmd: DELETE
+[2023.03.30-19.44.21:148][576]Cmd: ACTOR DELETE
+[2023.03.30-19.44.23:823][834]LogViewport: Scene viewport resized to 1752x826, mode Windowed.
+[2023.03.30-19.44.23:865][835]LogViewport: Scene viewport resized to 1752x784, mode Windowed.
+[2023.03.30-19.44.23:903][836]LogViewport: Scene viewport resized to 1752x703, mode Windowed.
+[2023.03.30-19.44.23:948][837]LogViewport: Scene viewport resized to 1752x619, mode Windowed.
+[2023.03.30-19.44.23:984][838]LogViewport: Scene viewport resized to 1752x557, mode Windowed.
+[2023.03.30-19.44.24:023][839]LogViewport: Scene viewport resized to 1752x506, mode Windowed.
+[2023.03.30-19.44.24:055][840]LogViewport: Scene viewport resized to 1752x500, mode Windowed.
+[2023.03.30-19.44.39:531][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.03.30-19.44.40:991][911]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.30-19.44.41:037][911]LogUObjectGlobals: Force Deleting 13 Package(s):
+	Asset Name: /Game/OutsideResource/table-sofa/textures/table_Normal_DirectX.table_Normal_DirectX
+	Asset Type: Texture2D
+	Asset Name: /Game/OutsideResource/table-sofa/textures/table_Mixed_AO.table_Mixed_AO
+	Asset Type: Texture2D
+	Asset Name: /Game/OutsideResource/table-sofa/textures/table_Metallic.table_Metallic
+	Asset Type: Texture2D
+	Asset Name: /Game/OutsideResource/table-sofa/textures/table_Base_Color.table_Base_Color
+	Asset Type: Texture2D
+	Asset Name: /Game/OutsideResource/table-sofa/textures/table_Roughness_Mat.table_Roughness_Mat
+	Asset Type: Material
+	Asset Name: /Game/OutsideResource/table-sofa/textures/table_Normal_DirectX_Mat.table_Normal_DirectX_Mat
+	Asset Type: Material
+	Asset Name: /Game/OutsideResource/table-sofa/textures/table_Mixed_AO_Mat.table_Mixed_AO_Mat
+	Asset Type: Material
+	Asset Name: /Game/OutsideResource/table-sofa/textures/table_Metallic_Mat.table_Metallic_Mat
+	Asset Type: Material
+	Asset Name: /Game/OutsideResource/table-sofa/textures/table_Base_Color_Mat.table_Base_Color_Mat
+	Asset Type: Material
+	Asset Name: /Game/OutsideResource/table-sofa/textures/table_Roughness.table_Roughness
+	Asset Type: Texture2D
+[2023.03.30-19.44.42:045][911]LogMaterial: Display: Missing cached shadermap for table_Roughness_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 1EF0C8B957D0797C31AF99EC66354D5C9AB98A75), compiling. 
+[2023.03.30-19.44.42:047][911]LogMaterial: Warning: [AssetLog] /Game/OutsideResource/table-sofa/textures/table_Roughness_Mat.table_Roughness_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.03.30-19.44.42:050][911]LogMaterial: Warning: table_Roughness_Mat: Requesting an invalid TextureIndex! (0 / 0)
+[2023.03.30-19.44.42:116][911]LogMaterial: Display: Missing cached shadermap for table_Normal_DirectX_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 2FB10534CF86E6FFEAF074EBC7DF634799AD34B9), compiling. 
+[2023.03.30-19.44.42:117][911]LogMaterial: Warning: [AssetLog] /Game/OutsideResource/table-sofa/textures/table_Normal_DirectX_Mat.table_Normal_DirectX_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.03.30-19.44.42:124][911]LogMaterial: Display: Missing cached shadermap for table_Mixed_AO_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 93A8B81B8E887703184F7AE6064BEE4916D23384), compiling. 
+[2023.03.30-19.44.42:125][911]LogMaterial: Warning: [AssetLog] /Game/OutsideResource/table-sofa/textures/table_Mixed_AO_Mat.table_Mixed_AO_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.03.30-19.44.42:131][911]LogMaterial: Display: Missing cached shadermap for table_Metallic_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 5BA458A7190A8FD9601F2FA221231D6232A96B1B), compiling. 
+[2023.03.30-19.44.42:132][911]LogMaterial: Warning: [AssetLog] /Game/OutsideResource/table-sofa/textures/table_Metallic_Mat.table_Metallic_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.03.30-19.44.42:138][911]LogMaterial: Display: Missing cached shadermap for table_Base_Color_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: D461BA6B639B100B7E8D930FF6F80993384B7AC9), compiling. 
+[2023.03.30-19.44.42:139][911]LogMaterial: Warning: [AssetLog] /Game/OutsideResource/table-sofa/textures/table_Base_Color_Mat.table_Base_Color_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2023.03.30-19.44.42:158][911]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/OutsideResource/table-sofa/source/table_sofa) ...
+[2023.03.30-19.44.42:481][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.03.30-19.44.42:493][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.03.30-19.44.42:500][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.03.30-19.44.43:814][912]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.45.03:463][280]LogShaderCompilers: Display: Worker (7/8) finished batch of 10 jobs in 63.939s, TBasePassPSFCachedVolumeIndirectLightingPolicySkylight [WorkerTime=8.316s], TBasePassPSFNoLightMapPolicySkylight [WorkerTime=8.262s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=8.127s], TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight [WorkerTime=7.812s], TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight [WorkerTime=7.691s], TBasePassPSTLightMapPolicyHQ [WorkerTime=7.457s], TBasePassPSFNoLightMapPolicy [WorkerTime=7.278s], TBasePassPSFCachedVolumeIndirectLightingPolicy [WorkerTime=5.336s], TBasePassPSFCachedVolumeIndirectLightingPolicySkylight [WorkerTime=2.835s], TBasePassVSTLightMapPolicyHQ [WorkerTime=0.734s]
+[2023.03.30-19.46.25:182][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.03.30-19.46.25:201][524]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto3
+[2023.03.30-19.46.25:201][524]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/VRTemplateMap_Auto38E69114844C4EAAACD75DA9F270E3B76.tmp' to '../../../../MyProject/Restaurant/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto3.umap'
+[2023.03.30-19.46.25:206][524]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.030
+[2023.03.30-19.46.25:206][524]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2023.03.30-19.50.13:363][850]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\download\table-sofa/source/table_sofa.fbx)
+[2023.03.30-19.50.13:368][850]LogFbx: Loading FBX Scene from E:\download\table-sofa/source/table_sofa.fbx
+[2023.03.30-19.50.13:377][850]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.30-19.50.23:371][850]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.03.30-19.50.23:386][850]LogFbxMaterialImport: Display: Unable to find Texture file D:\My Models\Sci-Fi Table\models
+[2023.03.30-19.50.23:388][850]LogMaterial: Display: Missing cached shadermap for table in PCD3D_SM5, Default, SM5 (DDC key hash: 8C65461DF01EF3B03846AA97B9BFEF26E64C5403), compiling. 
+[2023.03.30-19.50.23:402][850]LogMaterial: Display: Missing cached shadermap for floor in PCD3D_SM5, Default, SM5 (DDC key hash: 149CDD69EDEAE615B9C4F274A380A75292E24187), compiling. 
+[2023.03.30-19.50.23:406][850]LogStaticMesh: Display: Building static mesh table_sofa...
+[2023.03.30-19.50.23:442][850]LogStaticMesh: Built static mesh [0.04s] /Game/OutsideResource/table-sofa/source/table_sofa.table_sofa
+[2023.03.30-19.50.23:461][850]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.03.30-19.50.23:684][850]LogStaticMesh: Display: Building static mesh table_sofa...
+[2023.03.30-19.50.23:702][850]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/OutsideResource/table-sofa/source/table_sofa) ...
+[2023.03.30-19.50.23:728][850]LogStaticMesh: Built static mesh [0.04s] /Game/OutsideResource/table-sofa/source/table_sofa.table_sofa
+[2023.03.30-19.50.23:728][850]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\download\table-sofa/source/table_sofa2.fbx)
+[2023.03.30-19.50.23:738][850]LogFbx: Loading FBX Scene from E:\download\table-sofa/source/table_sofa2.fbx
+[2023.03.30-19.50.23:748][850]LogFbx: FBX Scene Loaded Succesfully
+[2023.03.30-19.50.23:764][850]LogStaticMesh: Display: Building static mesh table_sofa2...
+[2023.03.30-19.50.23:817][850]LogStaticMesh: Built static mesh [0.05s] /Game/OutsideResource/table-sofa/source/table_sofa2.table_sofa2
+[2023.03.30-19.50.23:855][850]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.03.30-19.50.23:873][850]LogStaticMesh: Display: Building static mesh table_sofa2...
+[2023.03.30-19.50.23:873][850]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/OutsideResource/table-sofa/source/table_sofa2) ...
+[2023.03.30-19.50.23:926][850]LogStaticMesh: Built static mesh [0.06s] /Game/OutsideResource/table-sofa/source/table_sofa2.table_sofa2
+[2023.03.30-19.50.23:926][850]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\download\table-sofa/textures/table_Base_Color.png)
+[2023.03.30-19.50.24:013][850]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\download\table-sofa/textures/table_Metallic.png)
+[2023.03.30-19.50.24:026][850]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\download\table-sofa/textures/table_Mixed_AO.png)
+[2023.03.30-19.50.24:053][850]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\download\table-sofa/textures/table_Normal_DirectX.png)
+[2023.03.30-19.50.24:160][850]LogTexture: Display: Building textures: /Game/OutsideResource/table-sofa/textures/table_Metallic.table_Metallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.30-19.50.24:160][850]LogTexture: Display: Building textures: /Game/OutsideResource/table-sofa/textures/table_Mixed_AO.table_Mixed_AO (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.30-19.50.24:160][850]LogTexture: Display: Building textures: /Game/OutsideResource/table-sofa/textures/table_Base_Color.table_Base_Color (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.30-19.50.24:194][850]LogTexture: Display: Building textures: /Game/OutsideResource/table-sofa/textures/table_Normal_DirectX.table_Normal_DirectX (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.03.30-19.50.24:200][850]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\download\table-sofa/textures/table_Roughness.png)
+[2023.03.30-19.50.24:269][850]LogTexture: Display: Building textures: /Game/OutsideResource/table-sofa/textures/table_Roughness.table_Roughness (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.03.30-19.50.24:962][896]LogShaderCompilers: Display: ================================================
+[2023.03.30-19.50.24:962][896]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.30-19.50.24:962][896]LogShaderCompilers: Display: Total job queries 217, among them cache hits 12 (5.53%)
+[2023.03.30-19.50.24:962][896]LogShaderCompilers: Display: Tracking 184 distinct input hashes that result in 50 distinct outputs (27.17%)
+[2023.03.30-19.50.24:962][896]LogShaderCompilers: Display: RAM used: 0.31 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.04%
+[2023.03.30-19.50.24:962][896]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.30-19.50.24:963][896]LogShaderCompilers: Display: Shaders Compiled: 181
+[2023.03.30-19.50.24:963][896]LogShaderCompilers: Display: Jobs assigned 184, completed 184 (100.00%)
+[2023.03.30-19.50.24:963][896]LogShaderCompilers: Display: Average time worker was idle: 109.86 s
+[2023.03.30-19.50.24:963][896]LogShaderCompilers: Display: Time job spent in pending queue: average 8.36 s, longest 51.10 s
+[2023.03.30-19.50.24:963][896]LogShaderCompilers: Display: Job execution time: average 24.98 s, max 63.94 s
+[2023.03.30-19.50.24:963][896]LogShaderCompilers: Display: Job life time (pending + execution): average 33.34 s, max 72.50
+[2023.03.30-19.50.24:963][896]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 163.45 s
+[2023.03.30-19.50.24:963][896]LogShaderCompilers: Display: Jobs were issued in 93 batches (only local compilation was used), average 1.98 jobs/batch
+[2023.03.30-19.50.24:963][896]LogShaderCompilers: Display: Average processing rate: 1.13 jobs/sec
+[2023.03.30-19.50.24:963][896]LogShaderCompilers: Display: Effective parallelization: 4.98 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.30-19.50.24:963][896]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.30-19.50.24:963][896]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    7 times, average 7.76 sec, max 8.15 sec, min 6.78 sec)
+[2023.03.30-19.50.24:963][896]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    6 times, average 7.68 sec, max 8.41 sec, min 7.17 sec)
+[2023.03.30-19.50.24:963][896]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    5 times, average 7.64 sec, max 8.33 sec, min 6.71 sec)
+[2023.03.30-19.50.24:963][896]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    7 times, average 7.60 sec, max 8.36 sec, min 6.45 sec)
+[2023.03.30-19.50.24:963][896]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    7 times, average 7.44 sec, max 8.14 sec, min 6.52 sec)
+[2023.03.30-19.50.24:963][896]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.30-19.50.24:963][896]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 7.77% of total time (compiled   12 times, average 5.27 sec, max 8.30 sec, min 2.42 sec)
+[2023.03.30-19.50.24:963][896]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 6.87% of total time (compiled    8 times, average 7.00 sec, max 8.38 sec, min 5.16 sec)
+[2023.03.30-19.50.24:963][896]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 6.83% of total time (compiled    8 times, average 6.95 sec, max 8.28 sec, min 5.34 sec)
+[2023.03.30-19.50.24:963][896]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.79% of total time (compiled   12 times, average 4.61 sec, max 8.26 sec, min 2.47 sec)
+[2023.03.30-19.50.24:963][896]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 6.67% of total time (compiled    7 times, average 7.76 sec, max 8.15 sec, min 6.78 sec)
+[2023.03.30-19.50.24:963][896]LogShaderCompilers: Display: ================================================
+[2023.03.30-19.50.26:986][133]LogSlate: Window 'Message Log' being destroyed
+[2023.03.30-19.50.26:992][133]LogSlate: Window 'Message Log' being destroyed
+[2023.03.30-19.50.33:258][828]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OutsideResource/table-sofa/source/table_sofa.table_sofa
+[2023.03.30-19.50.33:258][828]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OutsideResource/table-sofa/source/table_sofa.table_sofa
+[2023.03.30-19.50.33:258][828]LogActorFactory: Actor Factory spawned StaticMesh /Game/OutsideResource/table-sofa/source/table_sofa.table_sofa as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_8
+[2023.03.30-19.50.33:258][828]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OutsideResource/table-sofa/source/table_sofa2.table_sofa2
+[2023.03.30-19.50.33:258][828]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OutsideResource/table-sofa/source/table_sofa2.table_sofa2
+[2023.03.30-19.50.33:259][828]LogActorFactory: Actor Factory spawned StaticMesh /Game/OutsideResource/table-sofa/source/table_sofa2.table_sofa2 as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_9
+[2023.03.30-19.50.33:583][852]LogMaterial: Display: Missing cached shadermap for table_Base_Color_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: C3D7CF02A369A5F94C39F18FA176C826D0E33479), compiling. 
+[2023.03.30-19.50.33:604][852]LogMaterial: Display: Missing cached shadermap for table_Metallic_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: B314670B34B63D45473BF74D8E4E33CB579BC704), compiling. 
+[2023.03.30-19.50.33:606][852]LogMaterial: Display: Material /Game/OutsideResource/table-sofa/textures/table_Base_Color_Mat.table_Base_Color_Mat needed to have new flag set bUsedWithStaticLighting !
+[2023.03.30-19.50.33:610][852]LogMaterial: Display: Missing cached shadermap for table_Base_Color_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 27C93C3752228925098AD9E7ECA54ADFF3A7BBCC), compiling. 
+[2023.03.30-19.50.33:655][852]LogMaterial: Display: Missing cached shadermap for table_Mixed_AO_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A73506946253A41FBBECA35283FFE27FC9FEFEA7), compiling. 
+[2023.03.30-19.50.33:657][852]LogMaterial: Display: Material /Game/OutsideResource/table-sofa/textures/table_Metallic_Mat.table_Metallic_Mat needed to have new flag set bUsedWithStaticLighting !
+[2023.03.30-19.50.33:662][852]LogMaterial: Display: Missing cached shadermap for table_Metallic_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: CA6449730124A7F82D12526D0DDE823BE9D0C135), compiling. 
+[2023.03.30-19.50.33:712][852]LogMaterial: Display: Missing cached shadermap for table_Normal_DirectX_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 6504C7CE6A59AECBF1C47FC023D7CAE4E585F569), compiling. 
+[2023.03.30-19.50.33:715][852]LogMaterial: Display: Material /Game/OutsideResource/table-sofa/textures/table_Mixed_AO_Mat.table_Mixed_AO_Mat needed to have new flag set bUsedWithStaticLighting !
+[2023.03.30-19.50.33:719][852]LogMaterial: Display: Missing cached shadermap for table_Mixed_AO_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 9C4A76773EC64FDEF33FBE1C334FE796F42D2167), compiling. 
+[2023.03.30-19.50.33:774][852]LogMaterial: Display: Missing cached shadermap for table_Roughness_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 6436C98CCFB2D1E437942F11A93065657B02DB20), compiling. 
+[2023.03.30-19.50.33:776][852]LogMaterial: Display: Material /Game/OutsideResource/table-sofa/textures/table_Normal_DirectX_Mat.table_Normal_DirectX_Mat needed to have new flag set bUsedWithStaticLighting !
+[2023.03.30-19.50.33:781][852]LogMaterial: Display: Missing cached shadermap for table_Normal_DirectX_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: D34585F47D9F04A3B4525DDC55F4B3C2BB77A5F9), compiling. 
+[2023.03.30-19.50.33:822][852]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OutsideResource/table-sofa/source/table_sofa.table_sofa
+[2023.03.30-19.50.33:822][852]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OutsideResource/table-sofa/source/table_sofa.table_sofa
+[2023.03.30-19.50.33:823][852]LogActorFactory: Actor Factory spawned StaticMesh /Game/OutsideResource/table-sofa/source/table_sofa.table_sofa as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_10
+[2023.03.30-19.50.33:843][852]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OutsideResource/table-sofa/source/table_sofa2.table_sofa2
+[2023.03.30-19.50.33:843][852]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OutsideResource/table-sofa/source/table_sofa2.table_sofa2
+[2023.03.30-19.50.33:843][852]LogActorFactory: Actor Factory spawned StaticMesh /Game/OutsideResource/table-sofa/source/table_sofa2.table_sofa2 as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_11
+[2023.03.30-19.50.33:894][852]LogMaterial: Display: Material /Game/OutsideResource/table-sofa/textures/table_Roughness_Mat.table_Roughness_Mat needed to have new flag set bUsedWithStaticLighting !
+[2023.03.30-19.50.33:898][852]LogMaterial: Display: Missing cached shadermap for table_Roughness_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 984ED09E167F1803F55BA8CD062BC78C5483C040), compiling. 
+[2023.03.30-19.50.34:247][853]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.50.43:160][275]Cmd: DELETE
+[2023.03.30-19.50.43:161][275]Cmd: ACTOR DELETE
+[2023.03.30-19.50.43:166][275]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.30-19.50.43:180][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.03.30-19.50.43:183][275]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2023.03.30-19.50.43:200][276]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.50.51:253][137]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.50.51:363][150]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.50.51:648][184]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.50.52:225][253]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.50.52:621][300]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.50.58:019][919]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.50.58:341][957]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.12:378][592]Cmd: DUPLICATE
+[2023.03.30-19.51.12:378][592]Cmd: ACTOR DUPLICATE
+[2023.03.30-19.51.12:413][593]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.14:300][819]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.14:334][823]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.14:350][825]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.14:466][839]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.14:567][851]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.14:942][871]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.15:144][875]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.15:259][877]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.21:071][546]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.21:945][650]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.29:327][513]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.29:360][517]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.29:376][519]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.29:402][522]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.29:435][526]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.29:507][534]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.29:540][538]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.29:566][541]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.29:656][552]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.29:724][560]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.29:759][564]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.29:784][567]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.29:818][571]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.29:860][576]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.29:943][586]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.30:090][602]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.30:268][623]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.30:736][679]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.31:228][738]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.32:378][876]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.32:835][930]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.46:857][568]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.46:874][570]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.46:891][572]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.46:916][575]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.46:932][577]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.46:948][579]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.46:975][582]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.46:991][584]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.47:007][586]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.47:282][619]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.47:357][628]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.47:373][630]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.47:423][636]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.47:523][648]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.47:540][650]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.47:590][656]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.47:824][684]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.47:858][688]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.47:890][692]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.47:907][694]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.47:965][701]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.48:182][727]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.48:282][739]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.48:298][741]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.48:524][768]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.48:665][785]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.48:682][787]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.49:072][833]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.52:846][277]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.53:021][298]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.53:162][315]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.53:678][376]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.55:681][607]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.55:697][609]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.55:797][621]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.55:822][624]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.55:872][630]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.55:897][633]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.55:972][642]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.56:114][659]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.56:131][661]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.56:231][673]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.56:264][677]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.51.56:387][691]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.52.00:381][147]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.52.00:974][218]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.52.01:264][253]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.52.01:298][257]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.52.01:314][259]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.52.01:332][261]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.52.01:440][274]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.52.01:664][301]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.52.02:147][358]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.52.14:768][860]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.03.30-19.52.18:255][250]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.03.30-19.53.53:857][758]LogMaterial: Display: Material /Game/OutsideResource/table-sofa/source/floor.floor needed to have new flag set bUsedWithStaticLighting !
+[2023.03.30-19.53.53:860][758]LogMaterial: Display: Missing cached shadermap for floor in PCD3D_SM5, Default, SM5 (DDC key hash: EE23656F1FE4D47C15E51C89A7665729D1AEA48F), compiling. 
+[2023.03.30-19.53.53:882][758]LogShaderCompilers: Display: ================================================
+[2023.03.30-19.53.53:882][758]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.30-19.53.53:882][758]LogShaderCompilers: Display: Total job queries 363, among them cache hits 120 (33.06%)
+[2023.03.30-19.53.53:882][758]LogShaderCompilers: Display: Tracking 203 distinct input hashes that result in 50 distinct outputs (24.63%)
+[2023.03.30-19.53.53:882][758]LogShaderCompilers: Display: RAM used: 0.31 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.04%
+[2023.03.30-19.53.53:882][758]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.30-19.53.53:882][758]LogShaderCompilers: Display: Shaders Compiled: 204
+[2023.03.30-19.53.53:882][758]LogShaderCompilers: Display: Jobs assigned 203, completed 203 (100.00%)
+[2023.03.30-19.53.53:882][758]LogShaderCompilers: Display: Average time worker was idle: 119.11 s
+[2023.03.30-19.53.53:882][758]LogShaderCompilers: Display: Time job spent in pending queue: average 7.73 s, longest 51.10 s
+[2023.03.30-19.53.53:882][758]LogShaderCompilers: Display: Job execution time: average 23.24 s, max 63.94 s
+[2023.03.30-19.53.53:882][758]LogShaderCompilers: Display: Job life time (pending + execution): average 30.97 s, max 72.50
+[2023.03.30-19.53.53:882][758]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 176.71 s
+[2023.03.30-19.53.53:882][758]LogShaderCompilers: Display: Jobs were issued in 109 batches (only local compilation was used), average 1.86 jobs/batch
+[2023.03.30-19.53.53:882][758]LogShaderCompilers: Display: Average processing rate: 1.15 jobs/sec
+[2023.03.30-19.53.53:882][758]LogShaderCompilers: Display: Effective parallelization: 5.10 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.30-19.53.53:882][758]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.30-19.53.53:882][758]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    7 times, average 7.76 sec, max 8.15 sec, min 6.78 sec)
+[2023.03.30-19.53.53:882][758]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    7 times, average 7.75 sec, max 8.41 sec, min 7.17 sec)
+[2023.03.30-19.53.53:882][758]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    8 times, average 7.69 sec, max 8.36 sec, min 6.45 sec)
+[2023.03.30-19.53.53:882][758]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    7 times, average 7.52 sec, max 8.33 sec, min 6.55 sec)
+[2023.03.30-19.53.53:882][758]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    8 times, average 7.51 sec, max 8.14 sec, min 6.52 sec)
+[2023.03.30-19.53.53:882][758]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.30-19.53.53:882][758]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 7.57% of total time (compiled   13 times, average 5.25 sec, max 8.30 sec, min 2.42 sec)
+[2023.03.30-19.53.53:882][758]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.01% of total time (compiled   13 times, average 4.86 sec, max 8.26 sec, min 2.47 sec)
+[2023.03.30-19.53.53:882][758]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.82% of total time (compiled    8 times, average 7.69 sec, max 8.36 sec, min 6.45 sec)
+[2023.03.30-19.53.53:882][758]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.67% of total time (compiled    8 times, average 7.51 sec, max 8.14 sec, min 6.52 sec)
+[2023.03.30-19.53.53:882][758]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 6.21% of total time (compiled    8 times, average 7.00 sec, max 8.38 sec, min 5.16 sec)
+[2023.03.30-19.53.53:882][758]LogShaderCompilers: Display: ================================================
+[2023.03.30-19.54.11:837][123]LogViewport: Scene viewport resized to 1752x498, mode Windowed.
+[2023.03.30-19.54.11:858][124]LogViewport: Scene viewport resized to 1752x501, mode Windowed.
+[2023.03.30-19.54.11:878][125]LogViewport: Scene viewport resized to 1752x513, mode Windowed.
+[2023.03.30-19.54.11:897][126]LogViewport: Scene viewport resized to 1752x532, mode Windowed.
+[2023.03.30-19.54.11:917][127]LogViewport: Scene viewport resized to 1752x562, mode Windowed.
+[2023.03.30-19.54.11:936][128]LogViewport: Scene viewport resized to 1752x585, mode Windowed.
+[2023.03.30-19.54.11:957][129]LogViewport: Scene viewport resized to 1752x610, mode Windowed.
+[2023.03.30-19.54.11:976][130]LogViewport: Scene viewport resized to 1752x628, mode Windowed.
+[2023.03.30-19.54.11:998][131]LogViewport: Scene viewport resized to 1752x647, mode Windowed.
+[2023.03.30-19.54.12:016][132]LogViewport: Scene viewport resized to 1752x668, mode Windowed.
+[2023.03.30-19.54.12:036][133]LogViewport: Scene viewport resized to 1752x684, mode Windowed.
+[2023.03.30-19.54.12:054][134]LogViewport: Scene viewport resized to 1752x702, mode Windowed.
+[2023.03.30-19.54.12:074][135]LogViewport: Scene viewport resized to 1752x729, mode Windowed.
+[2023.03.30-19.54.12:093][136]LogViewport: Scene viewport resized to 1752x751, mode Windowed.
+[2023.03.30-19.54.12:114][137]LogViewport: Scene viewport resized to 1752x764, mode Windowed.
+[2023.03.30-19.54.12:135][138]LogViewport: Scene viewport resized to 1752x768, mode Windowed.
+[2023.03.30-19.54.31:713][465]Cmd: DELETE
+[2023.03.30-19.54.31:713][465]Cmd: ACTOR DELETE
+[2023.03.30-19.54.31:715][465]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.30-19.54.31:722][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.03.30-19.54.31:725][465]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2023.03.30-19.54.31:731][466]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.54.35:560][921]Cmd: DUPLICATE
+[2023.03.30-19.54.35:561][921]Cmd: ACTOR DUPLICATE
+[2023.03.30-19.54.35:601][922]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.54.38:055][170]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.54.38:102][172]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.54.38:345][200]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.54.40:543][439]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.54.40:627][449]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.54.40:995][469]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.54.41:370][484]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.54.41:670][520]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.54.41:713][525]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.54.41:738][528]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.54.41:762][531]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.54.41:779][533]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.54.41:929][551]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.54.41:979][557]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.54.42:003][560]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.54.42:028][563]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.54.42:061][567]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.54.42:295][595]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.54.42:862][663]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.54.43:004][680]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.54.43:199][702]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.05:474][173]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.05:716][179]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.06:011][190]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.06:062][196]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.06:228][216]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.06:288][223]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.06:453][243]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.06:470][245]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.06:536][253]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.06:562][256]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.06:878][294]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.07:098][319]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.09:340][531]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.09:365][534]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.09:382][536]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.09:482][548]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.09:499][550]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.09:548][556]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.09:756][581]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.09:790][585]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.09:823][589]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.09:981][608]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.10:007][611]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.10:090][621]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.10:106][623]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.10:123][625]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.10:440][663]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.10:726][696]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.17:569][481]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.18:237][509]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.18:263][512]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.18:287][515]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.18:363][524]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.18:396][528]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.18:570][549]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.18:638][557]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.18:662][560]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.18:912][590]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.19:046][606]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.19:520][663]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.19:924][710]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.23:595][143]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.23:725][157]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.24:238][169]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.24:304][172]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.24:413][185]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.24:463][191]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.24:646][213]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.24:713][221]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.24:746][225]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.24:772][228]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.24:796][231]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.25:532][318]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.28:058][618]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.44:302][540]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.44:491][557]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.44:567][559]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.44:926][567]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.45:068][578]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.45:495][628]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.47:531][868]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.47:547][870]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.47:564][872]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.48:206][898]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.48:264][900]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.48:306][905]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.48:448][922]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.48:490][927]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.48:524][931]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.48:881][974]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.49:057][995]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.55.49:393][ 34]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.56.01:031][379]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.56.01:729][409]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.56.02:131][457]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.56.02:157][460]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.56.02:189][464]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.56.02:205][466]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.56.02:376][485]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.03.30-19.56.37:034][487]LogDerivedDataCache: C:/Users/18930/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.613 and deleted 0 file(s) with total size 0 MiB.
+[2023.03.30-19.56.40:705][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap" FILE="../../../../MyProject/Restaurant/Content/VRTemplate/Maps/VRTemplateMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.30-19.56.40:712][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.03.30-19.56.40:724][920]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.03.30-19.56.40:725][920]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/VRTemplateMap03DDA028459C811BC0DB40A2F3D6238D.tmp' to '../../../../MyProject/Restaurant/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.03.30-19.56.40:737][920]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/VRTemplate/Maps/VRTemplateMap_BuiltData
+[2023.03.30-19.56.40:738][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Maps/VRTemplateMap_BuiltData" FILE="../../../../MyProject/Restaurant/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset" SILENT=true
+[2023.03.30-19.56.40:830][920]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap_BuiltData
+[2023.03.30-19.56.40:830][920]LogSavePackage: Moving '../../../../MyProject/Restaurant/Saved/VRTemplateMap_BuiltData96C183F540562DAF64CC28860600A6F9.tmp' to '../../../../MyProject/Restaurant/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset'
+[2023.03.30-19.56.40:831][920]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/VRTemplate/Maps/VRTemplateMap_BuiltData
+[2023.03.30-19.56.40:844][920]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.30-19.56.40:844][920]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
+[2023.03.30-19.56.40:844][920]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap

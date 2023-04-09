@@ -5165,3 +5165,1881 @@ Script Stack (0 frames):
 [2023.04.09-06.46.28:950][887]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
 [2023.04.09-06.46.47:312][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
 [2023.04.09-06.46.52:703][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.04.09-06.55.52:106][402]LogAssetTools: Warning: Failed to import 'C:\Users\hruiying\Downloads\simple-rubber-conveyor\source\Conveyor.rar'. Unknown extension 'rar'.
+[2023.04.09-06.58.25:197][456]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\hruiying\Downloads\conveyor-belt\source\Conveyor Belt.fbx)
+[2023.04.09-06.58.25:213][456]LogFbx: Loading FBX Scene from C:\Users\hruiying\Downloads\conveyor-belt\source\Conveyor Belt.fbx
+[2023.04.09-06.58.25:223][456]LogFbx: FBX Scene Loaded Succesfully
+[2023.04.09-06.58.35:817][456]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.04.09-06.58.35:844][456]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\Cianon\Desktop\Complete Textures\Conveyor Belt.png
+[2023.04.09-06.58.35:847][456]LogMaterial: Display: Missing cached shadermap for Material__0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1A02BB9EBC272A3CBFB9A808B033D55EEAEAA444), compiling. 
+[2023.04.09-06.58.35:852][456]LogFbx: Display: Triangulating static mesh Cylinder001
+[2023.04.09-06.58.35:915][456]LogStaticMesh: Display: Building static mesh Conveyor_Belt...
+[2023.04.09-06.58.35:961][456]LogStaticMesh: Built static mesh [0.05s] /Game/shop/Conveyor_Belt.Conveyor_Belt
+[2023.04.09-06.58.35:993][456]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.04.09-06.58.36:108][456]LogAutomationController: Ignoring very large delta of 10.98 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.09-06.58.38:074][596]LogShaderCompilers: Display: ================================================
+[2023.04.09-06.58.38:074][596]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.09-06.58.38:074][596]LogShaderCompilers: Display: Total job queries 30, among them cache hits 0 (0.00%)
+[2023.04.09-06.58.38:074][596]LogShaderCompilers: Display: Tracking 29 distinct input hashes that result in 21 distinct outputs (72.41%)
+[2023.04.09-06.58.38:074][596]LogShaderCompilers: Display: RAM used: 0.13 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2023.04.09-06.58.38:074][596]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.09-06.58.38:074][596]LogShaderCompilers: Display: Shaders Compiled: 6
+[2023.04.09-06.58.38:074][596]LogShaderCompilers: Display: Jobs assigned 30, completed 29 (96.67%)
+[2023.04.09-06.58.38:074][596]LogShaderCompilers: Display: Average time worker was idle: 229.19 s
+[2023.04.09-06.58.38:074][596]LogShaderCompilers: Display: Time job spent in pending queue: average 0.23 s, longest 2.87 s
+[2023.04.09-06.58.38:074][596]LogShaderCompilers: Display: Job execution time: average 6.86 s, max 13.67 s
+[2023.04.09-06.58.38:074][596]LogShaderCompilers: Display: Job life time (pending + execution): average 7.10 s, max 13.73
+[2023.04.09-06.58.38:074][596]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 39.07 s
+[2023.04.09-06.58.38:074][596]LogShaderCompilers: Display: Jobs were issued in 30 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.09-06.58.38:074][596]LogShaderCompilers: Display: Average processing rate: 0.74 jobs/sec
+[2023.04.09-06.58.38:074][596]LogShaderCompilers: Display: Effective parallelization: 3.14 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.09-06.58.38:075][596]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.09-06.58.38:075][596]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 6.95 sec, max 7.04 sec, min 6.85 sec)
+[2023.04.09-06.58.38:075][596]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 6.95 sec, max 7.10 sec, min 6.80 sec)
+[2023.04.09-06.58.38:075][596]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 6.93 sec, max 7.02 sec, min 6.85 sec)
+[2023.04.09-06.58.38:075][596]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 6.85 sec, max 6.93 sec, min 6.77 sec)
+[2023.04.09-06.58.38:075][596]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 6.81 sec, max 6.91 sec, min 6.72 sec)
+[2023.04.09-06.58.38:075][596]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.09-06.58.38:075][596]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 11.33% of total time (compiled    2 times, average 6.95 sec, max 7.04 sec, min 6.85 sec)
+[2023.04.09-06.58.38:075][596]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 11.32% of total time (compiled    2 times, average 6.95 sec, max 7.10 sec, min 6.80 sec)
+[2023.04.09-06.58.38:075][596]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 11.30% of total time (compiled    2 times, average 6.93 sec, max 7.02 sec, min 6.85 sec)
+[2023.04.09-06.58.38:075][596]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 11.17% of total time (compiled    2 times, average 6.85 sec, max 6.93 sec, min 6.77 sec)
+[2023.04.09-06.58.38:075][596]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 11.11% of total time (compiled    2 times, average 6.81 sec, max 6.91 sec, min 6.72 sec)
+[2023.04.09-06.58.38:075][596]LogShaderCompilers: Display: ================================================
+[2023.04.09-06.58.38:994][674]LogSlate: Window 'Message Log' being destroyed
+[2023.04.09-06.58.39:001][674]LogSlate: Window 'Message Log' being destroyed
+[2023.04.09-06.58.42:335][915]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.04.09-06.58.42:339][915]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.099
+[2023.04.09-06.58.42:339][915]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/shop/Conveyor_Belt] ([1] browsable assets)...
+[2023.04.09-06.58.42:348][915]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/shop/Conveyor_Belt.Conveyor_Belt]
+[2023.04.09-06.58.42:348][915]OBJ SavePackage: Finished generating thumbnails for package [/Game/shop/Conveyor_Belt]
+[2023.04.09-06.58.42:348][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/shop/Conveyor_Belt" FILE="../../../../../../../Users/hruiying/Documents/VR_final/Saved/Autosaves/Game/shop/Conveyor_Belt_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2023.04.09-06.58.42:360][915]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/shop/Conveyor_Belt_Auto3
+[2023.04.09-06.58.42:360][915]LogSavePackage: Moving '../../../../../../../Users/hruiying/Documents/VR_final/Saved/Conveyor_Belt_Auto321D5C0D04B5EDA36E19C8897702BC858.tmp' to '../../../../../../../Users/hruiying/Documents/VR_final/Saved/Autosaves/Game/shop/Conveyor_Belt_Auto3.uasset'
+[2023.04.09-06.58.42:361][915]LogFileHelpers: Auto-saving content packages took 0.023
+[2023.04.09-06.59.21:401][156]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/shop/Conveyor_Belt.Conveyor_Belt
+[2023.04.09-06.59.21:401][156]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/shop/Conveyor_Belt.Conveyor_Belt
+[2023.04.09-06.59.21:402][156]LogActorFactory: Actor Factory spawned StaticMesh /Game/shop/Conveyor_Belt.Conveyor_Belt as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_4
+[2023.04.09-06.59.22:639][279]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/shop/Conveyor_Belt.Conveyor_Belt
+[2023.04.09-06.59.22:639][279]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/shop/Conveyor_Belt.Conveyor_Belt
+[2023.04.09-06.59.22:640][279]LogActorFactory: Actor Factory spawned StaticMesh /Game/shop/Conveyor_Belt.Conveyor_Belt as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_7
+[2023.04.09-06.59.22:708][280]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-06.59.25:457][456]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-06.59.25:481][458]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-06.59.25:521][461]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-06.59.25:582][466]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-06.59.25:661][473]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-06.59.25:719][478]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-06.59.26:127][508]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.00.25:621][853]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.00.25:688][858]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.00.26:380][918]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.00.26:459][925]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.00.26:939][963]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.01.13:834][684]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\hruiying\Downloads\conveyor-belt\textures\Conveyor_Belt_tex.png)
+[2023.04.09-07.01.13:914][684]LogTexture: Display: Building textures: /Game/shop/Conveyor_Belt_tex.Conveyor_Belt_tex (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.09-07.01.13:914][684]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SLevelEditor [LevelEditor.cpp(210)].
+[2023.04.09-07.01.34:607][383]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/shop/Material__0.Material__0
+[2023.04.09-07.01.34:613][383]LogMaterial: Display: Missing cached shadermap for Preview:Material__0 in PCD3D_SM5, Default, SM5 (DDC key hash: A5EAA8127667655CD79F030F1EE6F48594C65661), compiling. 
+[2023.04.09-07.01.34:651][383]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.09-07.01.34:741][383]LogMaterial: Display: Missing cached shadermap for M_SkyBox in PCD3D_SM5, Default, SM5 (DDC key hash: 61DAE346326525E26FEC297581E8B5A91302EAF7), compiling. 
+[2023.04.09-07.01.35:099][383]LogMaterial: Display: Missing cached shadermap for Preview:Material__0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3C9BEBC9BA9755048932BB8CAE8DC1FD4CC789FC), compiling. 
+[2023.04.09-07.01.35:148][383]LogMaterial: Display: Missing cached shadermap for Preview:Material__0 in PCD3D_SM5, Default, SM5 (DDC key hash: A101D809EDEBB183A38EE0A8A58872EFFCB3CB22), compiling. 
+[2023.04.09-07.01.35:153][383]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D740DB6838EEE126B1D05E7EC1AFAA5C5B78F46D), compiling. 
+[2023.04.09-07.01.35:280][383]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.09-07.01.35:280][383]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.09-07.01.35:280][383]MaterialEditorStats: Shader Count: 0
+[2023.04.09-07.01.35:296][383]LogViewport: Scene viewport resized to 760x709, mode Windowed.
+[2023.04.09-07.01.35:442][385]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.09-07.01.35:442][385]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.09-07.01.35:442][385]MaterialEditorStats: Shader Count: 2
+[2023.04.09-07.01.41:607][738]LogMaterial: Display: Missing cached shadermap for Preview:Material__0 in PCD3D_SM5, Default, SM5 (DDC key hash: AC09715F380D20118F97A6CD3ADA02298A570C2F), compiling. 
+[2023.04.09-07.01.41:609][738]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: DB3BE127DC00C40A8E6B2A1AE0C83FAD37928423), compiling. 
+[2023.04.09-07.01.41:612][738]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D86F94E1B43FE02C7FBB3FC9F72DC8DBE4803073), compiling. 
+[2023.04.09-07.01.41:613][738]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 95832DA29D8B66AFD0AF5B6DE51C615ED256F11E), compiling. 
+[2023.04.09-07.01.41:666][739]LogShaderCompilers: Display: ================================================
+[2023.04.09-07.01.41:666][739]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.09-07.01.41:666][739]LogShaderCompilers: Display: Total job queries 59, among them cache hits 15 (25.42%)
+[2023.04.09-07.01.41:666][739]LogShaderCompilers: Display: Tracking 38 distinct input hashes that result in 26 distinct outputs (68.42%)
+[2023.04.09-07.01.41:666][739]LogShaderCompilers: Display: RAM used: 0.14 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2023.04.09-07.01.41:666][739]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.09-07.01.41:666][739]LogShaderCompilers: Display: Shaders Compiled: 22
+[2023.04.09-07.01.41:666][739]LogShaderCompilers: Display: Jobs assigned 38, completed 38 (100.00%)
+[2023.04.09-07.01.41:666][739]LogShaderCompilers: Display: Average time worker was idle: 300.60 s
+[2023.04.09-07.01.41:666][739]LogShaderCompilers: Display: Time job spent in pending queue: average 0.19 s, longest 2.87 s
+[2023.04.09-07.01.41:666][739]LogShaderCompilers: Display: Job execution time: average 5.91 s, max 13.67 s
+[2023.04.09-07.01.41:666][739]LogShaderCompilers: Display: Job life time (pending + execution): average 6.10 s, max 13.73
+[2023.04.09-07.01.41:666][739]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 48.12 s
+[2023.04.09-07.01.41:667][739]LogShaderCompilers: Display: Jobs were issued in 38 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.09-07.01.41:667][739]LogShaderCompilers: Display: Average processing rate: 0.79 jobs/sec
+[2023.04.09-07.01.41:667][739]LogShaderCompilers: Display: Effective parallelization: 2.87 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.09-07.01.41:667][739]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.09-07.01.41:667][739]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 6.95 sec, max 7.04 sec, min 6.85 sec)
+[2023.04.09-07.01.41:667][739]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 6.95 sec, max 7.10 sec, min 6.80 sec)
+[2023.04.09-07.01.41:667][739]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 6.93 sec, max 7.02 sec, min 6.85 sec)
+[2023.04.09-07.01.41:667][739]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 6.85 sec, max 6.93 sec, min 6.77 sec)
+[2023.04.09-07.01.41:667][739]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 6.81 sec, max 6.91 sec, min 6.72 sec)
+[2023.04.09-07.01.41:667][739]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.09-07.01.41:667][739]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 10.06% of total time (compiled    2 times, average 6.95 sec, max 7.04 sec, min 6.85 sec)
+[2023.04.09-07.01.41:667][739]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 10.06% of total time (compiled    2 times, average 6.95 sec, max 7.10 sec, min 6.80 sec)
+[2023.04.09-07.01.41:667][739]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 10.04% of total time (compiled    2 times, average 6.93 sec, max 7.02 sec, min 6.85 sec)
+[2023.04.09-07.01.41:667][739]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 9.92% of total time (compiled    2 times, average 6.85 sec, max 6.93 sec, min 6.77 sec)
+[2023.04.09-07.01.41:667][739]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 9.87% of total time (compiled    2 times, average 6.81 sec, max 6.91 sec, min 6.72 sec)
+[2023.04.09-07.01.41:667][739]LogShaderCompilers: Display: ================================================
+[2023.04.09-07.01.46:183][ 56]LogMaterial: Display: Missing cached shadermap for Preview:Material__0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8AB5D4BF7820791CF0B2FBF6AD32C3E37DE005F1), compiling. 
+[2023.04.09-07.01.46:186][ 56]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5C3431B46972ABC455BCAE2BF1D836BB9BB1E421), compiling. 
+[2023.04.09-07.01.46:192][ 56]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.09-07.01.46:192][ 56]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.04.09-07.01.46:192][ 56]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.09-07.01.46:192][ 56]MaterialEditorStats: Shader Count: 0
+[2023.04.09-07.01.47:597][131]MaterialEditorStats: Texture samplers: 2/16
+[2023.04.09-07.01.47:597][131]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.04.09-07.01.47:597][131]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.09-07.01.47:597][131]MaterialEditorStats: Shader Count: 1
+[2023.04.09-07.01.49:913][252]MaterialEditorStats: Texture samplers: 5/16
+[2023.04.09-07.01.49:914][252]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.04.09-07.01.49:914][252]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.09-07.01.49:914][252]MaterialEditorStats: Shader Count: 2
+[2023.04.09-07.02.01:238][114]LogMaterialEditor: Saving and Compiling material Material__0
+[2023.04.09-07.02.02:236][114]LogMaterial: Display: Missing cached shadermap for Preview:Material__0 in PCD3D_SM5, Default, SM5 (DDC key hash: A4D6C86E2EF884B6005ED738EF7E90B86855F666), compiling. 
+[2023.04.09-07.02.02:247][114]LogMaterial: Display: Missing cached shadermap for Material__0 in PCD3D_SM5, Default, SM5 (DDC key hash: AFABC95057A09D8E94A0ECEF3DDBF29D3DE2898D), compiling. 
+[2023.04.09-07.02.02:341][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.04.09-07.02.04:154][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.04.09-07.02.06:318][114]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.04.09-07.02.12:095][114]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001028s (5.843743s overbudget)
+[2023.04.09-07.02.12:134][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/shop/Material__0" FILE="../../../../../../../Users/hruiying/Documents/VR_final/Content/shop/Material__0.uasset" SILENT=true
+[2023.04.09-07.02.12:138][114]LogSavePackage: Moving output files for package: /Game/shop/Material__0
+[2023.04.09-07.02.12:138][114]LogSavePackage: Moving '../../../../../../../Users/hruiying/Documents/VR_final/Saved/Material__0AC33DB34415A3141A46548AB360A2CAE.tmp' to '../../../../../../../Users/hruiying/Documents/VR_final/Content/shop/Material__0.uasset'
+[2023.04.09-07.02.12:160][114]AssetCheck: New page: Asset Save: Material__0
+[2023.04.09-07.02.12:160][114]LogContentValidation: Display: Validating Material /Game/shop/Material__0.Material__0
+[2023.04.09-07.02.12:161][114]MaterialEditorStats: Base pass shader: 829 instructions
+[2023.04.09-07.02.12:161][114]MaterialEditorStats: Base pass vertex shader: 337 instructions
+[2023.04.09-07.02.12:161][114]MaterialEditorStats: Texture samplers: 6/16
+[2023.04.09-07.02.12:161][114]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.04.09-07.02.12:162][114]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.04.09-07.02.12:162][114]MaterialEditorStats: Shader Count: 14
+[2023.04.09-07.02.12:204][114]LogAutomationController: Ignoring very large delta of 10.97 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.09-07.03.39:099][471]LogMaterial: Display: Missing cached shadermap for Preview:Material__0 in PCD3D_SM5, Default, SM5 (DDC key hash: C91F25B0A09C4632897FC6B93EDE56FEEB948777), compiling. 
+[2023.04.09-07.03.39:101][471]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E2EDB1518F8447A67C019C6ABB05C8272ADD4C33), compiling. 
+[2023.04.09-07.03.39:107][471]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.09-07.03.39:107][471]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.09-07.03.39:107][471]MaterialEditorStats: Shader Count: 0
+[2023.04.09-07.03.39:162][474]MaterialEditorStats: Texture samplers: 4/16
+[2023.04.09-07.03.39:162][474]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.09-07.03.39:162][474]MaterialEditorStats: Shader Count: 2
+[2023.04.09-07.03.40:618][574]LogMaterialEditor: Saving and Compiling material Material__0
+[2023.04.09-07.03.41:606][574]LogMaterial: Display: Missing cached shadermap for Preview:Material__0 in PCD3D_SM5, Default, SM5 (DDC key hash: 78B24282707A1BC1A579FFDF8D9D870321A0A141), compiling. 
+[2023.04.09-07.03.41:616][574]LogMaterial: Display: Missing cached shadermap for Material__0 in PCD3D_SM5, Default, SM5 (DDC key hash: 667BAF711C7030F3291F1CF7FF6D5AF2AC7D2918), compiling. 
+[2023.04.09-07.03.41:713][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.04.09-07.03.43:266][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.04.09-07.03.45:421][574]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.04.09-07.03.51:030][574]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000053s (5.674355s overbudget)
+[2023.04.09-07.03.51:068][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/shop/Material__0" FILE="../../../../../../../Users/hruiying/Documents/VR_final/Content/shop/Material__0.uasset" SILENT=true
+[2023.04.09-07.03.51:072][574]LogSavePackage: Moving output files for package: /Game/shop/Material__0
+[2023.04.09-07.03.51:074][574]LogSavePackage: Moving '../../../../../../../Users/hruiying/Documents/VR_final/Saved/Material__0DF9EA3F740F8C19EF03F97A68F715172.tmp' to '../../../../../../../Users/hruiying/Documents/VR_final/Content/shop/Material__0.uasset'
+[2023.04.09-07.03.51:096][574]AssetCheck: New page: Asset Save: Material__0
+[2023.04.09-07.03.51:096][574]LogContentValidation: Display: Validating Material /Game/shop/Material__0.Material__0
+[2023.04.09-07.03.51:097][574]MaterialEditorStats: Base pass shader: 828 instructions
+[2023.04.09-07.03.51:097][574]MaterialEditorStats: Base pass vertex shader: 333 instructions
+[2023.04.09-07.03.51:097][574]MaterialEditorStats: Texture samplers: 5/16
+[2023.04.09-07.03.51:097][574]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.04.09-07.03.51:097][574]MaterialEditorStats: Shader Count: 14
+[2023.04.09-07.03.51:139][574]LogAutomationController: Ignoring very large delta of 10.52 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.09-07.04.21:761][757]LogMaterial: Display: Missing cached shadermap for Conveyor_Belt_tex_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: EB9E9B8D267E4E5812B3CBBF5820AD74A3828E98), compiling. 
+[2023.04.09-07.05.11:939][ 51]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.05.11:984][ 55]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.05.12:116][ 67]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.05.12:606][112]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.05.13:167][157]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.05.36:408][ 80]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.05.36:466][ 85]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.05.36:548][ 92]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.05.36:607][ 97]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.05.36:711][106]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.05.36:817][115]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.05.36:885][121]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.05.37:071][137]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.05.37:467][171]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.05.38:264][235]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.05.54:189][616]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.05.54:224][619]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.05.54:246][621]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.05.54:281][624]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.05.54:304][626]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.05.54:353][630]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.05.54:388][633]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.05.54:470][640]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.05.54:528][645]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.05.54:601][651]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.05.54:650][655]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.05.54:711][660]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.05.54:793][667]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.05.55:003][680]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.12:708][191]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.12:792][198]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.12:863][204]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.12:912][208]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.12:960][212]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.13:008][216]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.13:080][222]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.13:142][227]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.13:439][252]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.13:600][266]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.13:935][294]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.14:530][344]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.15:597][434]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.16:461][504]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.22:220][971]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.22:256][974]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.22:296][977]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.22:324][979]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.22:363][982]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.22:387][984]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.22:426][987]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.22:451][989]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.22:476][991]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.22:514][994]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.22:575][999]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.23:142][ 41]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.25:454][192]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.25:505][196]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.25:552][200]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.25:577][202]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.25:602][204]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.25:636][207]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.25:674][210]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.25:884][227]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.26:076][243]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.26:956][316]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.27:246][341]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.28:020][401]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.06.33:473][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.04.09-07.06.33:618][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.04.09-07.06.33:693][827]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.04.09-07.06.33:694][827]LogSavePackage: Moving '../../../../../../../Users/hruiying/Documents/VR_final/Saved/VRTemplateMap829D9C8249CEBA742043AFA10B00EC3F.tmp' to '../../../../../../../Users/hruiying/Documents/VR_final/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.04.09-07.06.33:711][827]LogFileHelpers: No new changes to save!
+[2023.04.09-07.06.33:711][827]LogFileHelpers: Saving map 'VRTemplateMap' took 0.181
+[2023.04.09-07.06.33:712][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/shop/Conveyor_Belt" FILE="../../../../../../../Users/hruiying/Documents/VR_final/Content/shop/Conveyor_Belt.uasset" SILENT=true
+[2023.04.09-07.06.33:723][827]LogSavePackage: Moving output files for package: /Game/shop/Conveyor_Belt
+[2023.04.09-07.06.33:723][827]LogSavePackage: Moving '../../../../../../../Users/hruiying/Documents/VR_final/Saved/Conveyor_BeltABEE7F7A4998227CD6EBF6AAFD49A5D0.tmp' to '../../../../../../../Users/hruiying/Documents/VR_final/Content/shop/Conveyor_Belt.uasset'
+[2023.04.09-07.06.33:726][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/shop/Conveyor_Belt_tex" FILE="../../../../../../../Users/hruiying/Documents/VR_final/Content/shop/Conveyor_Belt_tex.uasset" SILENT=true
+[2023.04.09-07.06.33:979][827]LogSavePackage: Moving output files for package: /Game/shop/Conveyor_Belt_tex
+[2023.04.09-07.06.33:979][827]LogSavePackage: Moving '../../../../../../../Users/hruiying/Documents/VR_final/Saved/Conveyor_Belt_texF2F8A18F42DA9C273AFC5AB76413862F.tmp' to '../../../../../../../Users/hruiying/Documents/VR_final/Content/shop/Conveyor_Belt_tex.uasset'
+[2023.04.09-07.06.36:127][827]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.04.09-07.06.42:297][827]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.001996s (6.304990s overbudget)
+[2023.04.09-07.06.42:300][827]LogShaderCompilers: Display: ================================================
+[2023.04.09-07.06.42:300][827]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.09-07.06.42:300][827]LogShaderCompilers: Display: Total job queries 131, among them cache hits 47 (35.88%)
+[2023.04.09-07.06.42:300][827]LogShaderCompilers: Display: Tracking 78 distinct input hashes that result in 28 distinct outputs (35.90%)
+[2023.04.09-07.06.42:300][827]LogShaderCompilers: Display: RAM used: 0.15 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2023.04.09-07.06.42:300][827]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.09-07.06.42:300][827]LogShaderCompilers: Display: Shaders Compiled: 26
+[2023.04.09-07.06.42:300][827]LogShaderCompilers: Display: Jobs assigned 78, completed 78 (100.00%)
+[2023.04.09-07.06.42:300][827]LogShaderCompilers: Display: Average time worker was idle: 186.90 s
+[2023.04.09-07.06.42:300][827]LogShaderCompilers: Display: Time job spent in pending queue: average 0.26 s, longest 4.00 s
+[2023.04.09-07.06.42:300][827]LogShaderCompilers: Display: Job execution time: average 5.32 s, max 13.67 s
+[2023.04.09-07.06.42:300][827]LogShaderCompilers: Display: Job life time (pending + execution): average 5.58 s, max 13.73
+[2023.04.09-07.06.42:300][827]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 88.08 s
+[2023.04.09-07.06.42:300][827]LogShaderCompilers: Display: Jobs were issued in 78 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.04.09-07.06.42:300][827]LogShaderCompilers: Display: Average processing rate: 0.89 jobs/sec
+[2023.04.09-07.06.42:300][827]LogShaderCompilers: Display: Effective parallelization: 3.42 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.09-07.06.42:300][827]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.09-07.06.42:300][827]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    5 times, average 6.95 sec, max 7.16 sec, min 6.68 sec)
+[2023.04.09-07.06.42:300][827]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    5 times, average 6.92 sec, max 7.12 sec, min 6.57 sec)
+[2023.04.09-07.06.42:300][827]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    5 times, average 6.84 sec, max 7.04 sec, min 6.53 sec)
+[2023.04.09-07.06.42:300][827]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    5 times, average 6.75 sec, max 6.91 sec, min 6.49 sec)
+[2023.04.09-07.06.42:300][827]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    5 times, average 6.75 sec, max 6.93 sec, min 6.41 sec)
+[2023.04.09-07.06.42:300][827]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.09-07.06.42:300][827]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 11.55% of total time (compiled    5 times, average 6.95 sec, max 7.16 sec, min 6.68 sec)
+[2023.04.09-07.06.42:300][827]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 11.49% of total time (compiled    5 times, average 6.92 sec, max 7.12 sec, min 6.57 sec)
+[2023.04.09-07.06.42:300][827]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 11.37% of total time (compiled    5 times, average 6.84 sec, max 7.04 sec, min 6.53 sec)
+[2023.04.09-07.06.42:300][827]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 11.23% of total time (compiled    5 times, average 6.75 sec, max 6.91 sec, min 6.49 sec)
+[2023.04.09-07.06.42:300][827]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 11.21% of total time (compiled    5 times, average 6.75 sec, max 6.93 sec, min 6.41 sec)
+[2023.04.09-07.06.42:300][827]LogShaderCompilers: Display: ================================================
+[2023.04.09-07.06.42:314][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/shop/Conveyor_Belt_tex_Mat" FILE="../../../../../../../Users/hruiying/Documents/VR_final/Content/shop/Conveyor_Belt_tex_Mat.uasset" SILENT=true
+[2023.04.09-07.06.42:317][827]LogSavePackage: Moving output files for package: /Game/shop/Conveyor_Belt_tex_Mat
+[2023.04.09-07.06.42:317][827]LogSavePackage: Moving '../../../../../../../Users/hruiying/Documents/VR_final/Saved/Conveyor_Belt_tex_MatB928BCC2494966308F77FF9421859B49.tmp' to '../../../../../../../Users/hruiying/Documents/VR_final/Content/shop/Conveyor_Belt_tex_Mat.uasset'
+[2023.04.09-07.06.42:339][827]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.09-07.06.42:340][827]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.04.09-07.06.42:340][827]LogContentValidation: Display: Validating StaticMesh /Game/shop/Conveyor_Belt.Conveyor_Belt
+[2023.04.09-07.06.42:340][827]LogContentValidation: Display: Validating Texture2D /Game/shop/Conveyor_Belt_tex.Conveyor_Belt_tex
+[2023.04.09-07.06.42:340][827]LogContentValidation: Display: Validating Material /Game/shop/Conveyor_Belt_tex_Mat.Conveyor_Belt_tex_Mat
+[2023.04.09-07.06.42:345][827]LogAutomationController: Ignoring very large delta of 8.97 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.09-07.06.56:610][113]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2023.04.09-07.06.56:610][113]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2023.04.09-07.06.56:611][113]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Actor_1
+[2023.04.09-07.06.56:611][113]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Actor_1
+[2023.04.09-07.07.31:204][129]Cmd: DELETE
+[2023.04.09-07.07.31:204][129]Cmd: ACTOR DELETE
+[2023.04.09-07.07.31:211][129]LogEditorActor: Deleted Actor: Actor
+[2023.04.09-07.07.31:301][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.04.09-07.07.31:303][129]LogEditorActor: Deleted 1 Actors (0.097 secs)
+[2023.04.09-07.07.36:940][658]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.04.09-07.07.36:940][658]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.04.09-07.07.36:941][658]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_8
+[2023.04.09-07.07.36:941][658]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_8
+[2023.04.09-07.07.40:401][945]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.07.40:425][947]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.07.40:476][951]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.07.40:831][977]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.07.46:306][411]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.07.46:339][414]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.07.46:372][417]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.07.46:417][421]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.07.46:473][426]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.07.46:520][430]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.07.46:615][438]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.07.46:819][451]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.07.47:702][529]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.07.47:748][533]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.07.48:133][549]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.07.48:531][560]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.07.53:112][945]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.07.56:415][234]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.07.59:440][459]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.07.59:558][469]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.08.00:173][516]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.08.07:384][ 94]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.08.08:333][175]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.08.09:002][227]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.08.16:333][842]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.08.16:877][888]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.08.17:421][929]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.08.18:661][ 35]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.08.19:410][ 93]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.08.39:670][692]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-07.08.55:514][692]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2023.04.09-07.08.55:527][692]LogActorComponent: UnregisterComponent: (/Game/shop/Start_Blueprint.Default__Start_Blueprint_C:StaticMeshComponent0) Not registered. Aborting.
+[2023.04.09-07.08.55:624][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.04.09-07.08.55:644][692]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/shop/Start_Blueprint.Start_Blueprint
+[2023.04.09-07.08.55:645][692]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.09-07.08.56:140][692]LogViewport: Scene viewport resized to 2293x1395, mode Windowed.
+[2023.04.09-07.08.56:181][692]LogAutomationController: Ignoring very large delta of 16.62 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.04.09-07.08.56:184][693]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.10.15:489][ 72]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.09-07.10.15:489][ 72]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.09-07.10.17:297][196]LogSlate: Took 0.021233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.04.09-07.10.35:446][672]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-07.12.00:355][ 85]BlueprintLog: New page: Compile shop_manager_Blueprint
+[2023.04.09-07.12.00:493][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.04.09-07.12.11:493][900]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.09-07.13.12:715][ 10]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.13.14:502][152]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.13.16:152][285]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.13.17:087][360]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.13.17:680][408]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.13.18:252][454]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.13.18:758][490]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.15.11:351][334]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.16.02:627][435]BlueprintLog: New page: Compile Start_Blueprint
+[2023.04.09-07.16.02:791][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.04.09-07.16.03:018][436]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.04.09-07.17.23:676][142]BlueprintLog: New page: Compile shop_menu
+[2023.04.09-07.17.23:810][142]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.04.09-07.17.32:642][713]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.04.09-07.17.32:797][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.04.09-07.17.32:874][713]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2023.04.09-07.17.32:876][713]LogSavePackage: Moving '../../../../../../../Users/hruiying/Documents/VR_final/Saved/VRTemplateMap59484251488A5424EFD80D99170C22C8.tmp' to '../../../../../../../Users/hruiying/Documents/VR_final/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2023.04.09-07.17.32:894][713]LogFileHelpers: No new changes to save!
+[2023.04.09-07.17.32:894][713]LogFileHelpers: Saving map 'VRTemplateMap' took 0.196
+[2023.04.09-07.17.32:896][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/shop/shop_menu" FILE="../../../../../../../Users/hruiying/Documents/VR_final/Content/shop/shop_menu.uasset" SILENT=true
+[2023.04.09-07.17.32:924][713]LogSavePackage: Moving output files for package: /Game/shop/shop_menu
+[2023.04.09-07.17.32:925][713]LogSavePackage: Moving '../../../../../../../Users/hruiying/Documents/VR_final/Saved/shop_menu591C565149263499BAC430A4A42D31F8.tmp' to '../../../../../../../Users/hruiying/Documents/VR_final/Content/shop/shop_menu.uasset'
+[2023.04.09-07.17.32:927][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/shop_manager_Blueprint" FILE="../../../../../../../Users/hruiying/Documents/VR_final/Content/Blueprints/shop_manager_Blueprint.uasset" SILENT=true
+[2023.04.09-07.17.32:934][713]LogSavePackage: Moving output files for package: /Game/Blueprints/shop_manager_Blueprint
+[2023.04.09-07.17.32:935][713]LogSavePackage: Moving '../../../../../../../Users/hruiying/Documents/VR_final/Saved/shop_manager_Blueprint44468F5043A0F08DD26D6796092F969D.tmp' to '../../../../../../../Users/hruiying/Documents/VR_final/Content/Blueprints/shop_manager_Blueprint.uasset'
+[2023.04.09-07.17.32:956][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/shop/Start_Blueprint" FILE="../../../../../../../Users/hruiying/Documents/VR_final/Content/shop/Start_Blueprint.uasset" SILENT=true
+[2023.04.09-07.17.32:964][713]LogSavePackage: Moving output files for package: /Game/shop/Start_Blueprint
+[2023.04.09-07.17.32:965][713]LogSavePackage: Moving '../../../../../../../Users/hruiying/Documents/VR_final/Saved/Start_Blueprint8AF8D0114E821413394C4785044BAE80.tmp' to '../../../../../../../Users/hruiying/Documents/VR_final/Content/shop/Start_Blueprint.uasset'
+[2023.04.09-07.17.32:983][713]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.09-07.17.32:983][713]LogContentValidation: Display: Validating WidgetBlueprint /Game/shop/shop_menu.shop_menu
+[2023.04.09-07.17.32:984][713]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2023.04.09-07.17.32:984][713]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/shop_manager_Blueprint.shop_manager_Blueprint
+[2023.04.09-07.17.32:984][713]LogContentValidation: Display: Validating Blueprint /Game/shop/Start_Blueprint.Start_Blueprint
+[2023.04.09-07.17.41:006][338]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.04.09-07.17.41:018][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.09-07.17.41:018][338]PIE: New page: PIE session: VRTemplateMap (Apr 8, 2023, 11:17:41 PM)
+[2023.04.09-07.17.41:018][338]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.04.09-07.17.41:030][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011535s)
+[2023.04.09-07.17.41:030][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.011627s)
+[2023.04.09-07.17.41:030][338]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.09-07.17.41:030][338]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.09-07.17.41:031][338]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.04.09-07.17.41:031][338]LogPlayLevel: PIE: World Init took: (0.000742s)
+[2023.04.09-07.17.41:128][338]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.04.09-07.17.41:129][338]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.04.09-07.17.41:129][338]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.09-07.17.41:129][338]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.09-07.17.41:129][338]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.09-07.17.41:129][338]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.09-07.17.41:129][338]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.09-07.17.41:129][338]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.09-07.17.41:129][338]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.09-07.17.41:129][338]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.09-07.17.41:130][338]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.04.09-07.17.41:130][338]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.04.09-07.17.41:130][338]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.09-07.17.41:133][338]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.09-07.17.41:209][338]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Rift S)
+[2023.04.09-07.17.41:209][338]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.09-07.17.41:209][338]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.09-07.17.41:210][338]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.09-07.17.41:210][338]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.04.09-07.17.41:210][338]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.04.09-07.17.41:212][338]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.04.09-07.17.41:212][338]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.04.09-07.17.41:212][338]LogInit: FAudioDevice initialized.
+[2023.04.09-07.17.41:212][338]LogAudio: Display: Audio Device (ID: 5) registered with world 'VRTemplateMap'.
+[2023.04.09-07.17.41:235][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.09-07.17.41:275][338]LogLoad: Game class is 'VRGameMode_C'
+[2023.04.09-07.17.41:277][338]PIE: Warning: Trying to simulate physics on ''/Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap:PersistentLevel.StaticMeshActor_38.StaticMeshComponent0'' but it has ComplexAsSimple collision.
+[2023.04.09-07.17.41:279][338]PIE: Warning: Invalid Simulate Options: Body (BP_Pie_Raw2.StaticMeshComponent0 ApplePie) is set to simulate physics but Collision Enabled is incompatible
+[2023.04.09-07.17.41:279][338]PIE: Warning: Invalid Simulate Options: Body (BP_Pie_Raw2.StaticMeshComponent0 ApplePie) is set to simulate physics but Collision Enabled is incompatible
+[2023.04.09-07.17.41:280][338]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.04.09-03.17.41
+[2023.04.09-07.17.41:280][338]LogWorld: Bringing up level for play took: 0.004844
+[2023.04.09-07.17.41:283][338]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2023.04.09-07.17.41:283][338]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.04.09-07.17.41:284][338]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2023.04.09-07.17.41:285][338]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.04.09-07.17.41:287][338]Cmd: vr.PixelDensity 1.0
+[2023.04.09-07.17.41:287][338]vr.PixelDensity = "1"
+[2023.04.09-07.17.41:292][338]PIE: Server logged in
+[2023.04.09-07.17.41:294][338]PIE: Play in editor total start time 0.276 seconds.
+[2023.04.09-07.17.41:299][338]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Komiku_-_In_the_restaurant'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.04.09-07.17.41:322][338]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.04.09-07.17.41:378][338]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.04.09-07.17.41:478][340]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2023.04.09-07.17.41:527][342]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.41:586][345]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.41:586][345]LogBlueprintUserMessages: [BP_Apple_C_0] 1M_Cube10_15
+[2023.04.09-07.17.41:605][346]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.41:605][346]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.41:624][347]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.41:624][347]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.41:624][347]LogBlueprintUserMessages: [BP_Apple_C_0] 1M_Cube10_15
+[2023.04.09-07.17.41:677][348]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.41:677][348]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.41:677][348]LogBlueprintUserMessages: [BP_Apple_C_0] 1M_Cube10_15
+[2023.04.09-07.17.41:711][349]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.41:711][349]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.41:711][349]LogBlueprintUserMessages: [BP_Apple_C_0] 1M_Cube10_15
+[2023.04.09-07.17.41:744][350]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.41:744][350]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.41:744][350]LogBlueprintUserMessages: [BP_Apple_C_0] 1M_Cube10_15
+[2023.04.09-07.17.41:764][351]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.41:764][351]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.41:764][351]LogBlueprintUserMessages: [BP_Apple_C_0] 1M_Cube10_15
+[2023.04.09-07.17.41:782][352]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.41:782][352]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.41:800][353]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.41:800][353]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.41:816][354]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.41:816][354]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.41:834][355]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.41:834][355]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.41:852][356]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.41:852][356]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.41:870][357]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.41:870][357]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.41:888][358]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.41:888][358]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.41:905][359]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.41:905][359]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.41:922][360]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.41:922][360]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.41:939][361]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.41:939][361]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.41:957][362]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.41:957][362]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.41:976][363]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.41:976][363]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.41:994][364]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.41:994][364]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:012][365]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:012][365]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:030][366]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:030][366]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:047][367]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:047][367]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:064][368]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:064][368]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:081][369]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:081][369]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:098][370]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:098][370]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:115][371]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:115][371]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:133][372]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:133][372]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:151][373]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:151][373]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:168][374]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:168][374]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:185][375]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:185][375]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:202][376]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:202][376]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:219][377]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:219][377]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:237][378]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:237][378]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:255][379]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:255][379]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:273][380]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:273][380]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:291][381]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:291][381]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:312][382]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:312][382]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:331][383]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:331][383]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:349][384]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:349][384]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:371][385]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:371][385]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:391][386]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:391][386]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:409][387]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:409][387]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:427][388]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:427][388]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:446][389]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:446][389]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:464][390]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:464][390]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:482][391]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:482][391]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:499][392]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:499][392]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:518][393]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:518][393]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:535][394]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:535][394]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:554][395]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:554][395]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:571][396]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:571][396]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:590][397]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:590][397]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:607][398]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:607][398]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:624][399]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:624][399]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:641][400]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:641][400]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:658][401]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:658][401]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:675][402]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:675][402]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:693][403]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:693][403]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:710][404]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:710][404]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:728][405]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:728][405]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:746][406]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:746][406]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:763][407]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:763][407]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:781][408]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:781][408]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:799][409]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:799][409]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:816][410]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:816][410]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:833][411]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:833][411]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:850][412]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:850][412]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:867][413]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:867][413]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:885][414]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:885][414]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:902][415]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:902][415]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:919][416]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:919][416]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:937][417]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:937][417]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:955][418]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:955][418]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:972][419]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:972][419]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.42:989][420]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.42:989][420]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:006][421]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:006][421]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:024][422]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:024][422]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:041][423]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:041][423]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:059][424]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:059][424]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:076][425]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:076][425]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:093][426]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:093][426]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:110][427]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:110][427]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:127][428]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:127][428]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:146][429]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:146][429]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:164][430]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:164][430]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:181][431]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:181][431]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:198][432]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:198][432]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:215][433]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:215][433]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:232][434]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:232][434]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:249][435]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:249][435]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:266][436]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:266][436]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:283][437]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:283][437]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:300][438]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:300][438]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:317][439]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:317][439]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:335][440]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:335][440]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:352][441]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:352][441]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:370][442]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:370][442]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:387][443]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:387][443]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:405][444]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:405][444]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:421][445]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:421][445]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:439][446]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:439][446]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:456][447]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:456][447]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:474][448]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:474][448]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:491][449]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:491][449]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:508][450]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:508][450]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:526][451]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:526][451]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:543][452]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:543][452]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:561][453]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:561][453]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:579][454]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:579][454]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:596][455]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:596][455]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:614][456]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:614][456]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:631][457]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:631][457]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:649][458]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:649][458]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:667][459]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:667][459]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:684][460]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:684][460]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:701][461]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:701][461]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:718][462]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:718][462]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:734][463]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:734][463]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:752][464]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:752][464]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:769][465]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:769][465]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:786][466]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:786][466]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:803][467]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:803][467]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:822][468]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:822][468]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:838][469]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:838][469]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:855][470]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:855][470]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:872][471]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:872][471]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:889][472]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:889][472]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:906][473]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:906][473]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:923][474]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:923][474]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:940][475]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:940][475]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:957][476]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:957][476]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:975][477]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:975][477]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.43:992][478]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.43:992][478]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.44:009][479]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.44:009][479]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.44:026][480]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.44:026][480]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.44:043][481]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.44:043][481]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.44:060][482]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.44:060][482]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.44:077][483]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.44:077][483]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.44:095][484]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.44:095][484]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.44:113][485]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.44:113][485]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.44:131][486]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.44:131][486]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.44:148][487]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.44:148][487]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.44:165][488]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.44:165][488]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.44:182][489]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.44:182][489]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.44:199][490]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.44:199][490]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.17.44:217][491]LogBlueprintUserMessages: [BP_Apple_C_0] BP_Pie_Raw_C_2
+[2023.04.09-07.17.44:217][491]LogBlueprintUserMessages: [BP_Apple_C_0] StaticMeshActor_21
+[2023.04.09-07.18.01:116][199]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.01:117][199]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.01:117][199]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.01:118][199]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.01:118][199]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.01:118][199]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.01:118][199]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.01:119][199]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.01:119][199]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.01:119][199]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.01:119][199]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.01:120][199]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.01:120][199]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.01:171][201]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_21
+[2023.04.09-07.18.01:171][201]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_20
+[2023.04.09-07.18.01:171][201]LogBlueprintUserMessages: [BP_Apple_C_20] BP_Apple_C_21
+[2023.04.09-07.18.01:171][201]LogBlueprintUserMessages: [BP_Apple_C_20] BP_Apple_C_19
+[2023.04.09-07.18.01:171][201]LogBlueprintUserMessages: [BP_Apple_C_21] BP_Apple_C_20
+[2023.04.09-07.18.01:171][201]LogBlueprintUserMessages: [BP_Apple_C_21] BP_Apple_C_19
+[2023.04.09-07.18.01:195][202]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_20
+[2023.04.09-07.18.01:195][202]LogBlueprintUserMessages: [BP_Apple_C_20] BP_Apple_C_21
+[2023.04.09-07.18.01:195][202]LogBlueprintUserMessages: [BP_Apple_C_20] BP_Apple_C_19
+[2023.04.09-07.18.01:195][202]LogBlueprintUserMessages: [BP_Apple_C_21] BP_Apple_C_20
+[2023.04.09-07.18.01:218][203]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_20
+[2023.04.09-07.18.01:218][203]LogBlueprintUserMessages: [BP_Apple_C_20] BP_Apple_C_21
+[2023.04.09-07.18.01:218][203]LogBlueprintUserMessages: [BP_Apple_C_20] BP_Apple_C_19
+[2023.04.09-07.18.01:218][203]LogBlueprintUserMessages: [BP_Apple_C_21] BP_Apple_C_20
+[2023.04.09-07.18.01:243][204]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_20
+[2023.04.09-07.18.01:243][204]LogBlueprintUserMessages: [BP_Apple_C_20] BP_Apple_C_19
+[2023.04.09-07.18.01:243][204]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.01:291][206]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.01:291][206]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.01:315][207]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.01:340][208]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.01:365][209]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.01:365][209]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.01:390][210]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.01:390][210]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.01:415][211]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.01:415][211]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.01:440][212]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.01:440][212]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.01:440][212]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.01:465][213]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.01:465][213]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.01:490][214]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.01:514][215]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.01:514][215]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.01:514][215]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.01:540][216]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.01:540][216]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.01:540][216]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.01:564][217]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.01:564][217]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.01:564][217]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.01:589][218]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.01:589][218]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.01:589][218]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.01:613][219]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.01:614][219]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.01:614][219]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.01:638][220]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.01:638][220]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.01:638][220]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.01:663][221]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.01:663][221]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.01:663][221]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.01:688][222]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.01:688][222]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.01:688][222]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.01:713][223]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.01:713][223]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.01:713][223]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.01:738][224]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.01:738][224]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.01:738][224]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.01:763][225]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.01:763][225]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.01:763][225]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.01:788][226]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.01:788][226]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.01:788][226]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.01:813][227]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.01:813][227]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.01:813][227]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.01:839][228]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.01:839][228]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.01:839][228]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.01:863][229]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.01:863][229]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.01:863][229]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.01:888][230]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.01:888][230]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.01:888][230]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.01:914][231]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.01:914][231]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.01:914][231]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.01:938][232]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.01:938][232]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.01:938][232]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.01:963][233]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.01:963][233]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.01:963][233]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.01:988][234]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.01:988][234]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.01:988][234]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:013][235]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:013][235]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:014][235]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:039][236]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:039][236]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:039][236]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:064][237]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:064][237]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:064][237]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:090][238]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:090][238]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:090][238]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:114][239]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:114][239]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:114][239]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:139][240]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:139][240]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:139][240]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:164][241]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:164][241]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:164][241]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:189][242]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:189][242]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:189][242]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:213][243]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:213][243]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:213][243]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:238][244]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:238][244]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:238][244]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:263][245]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:263][245]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:263][245]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:288][246]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:288][246]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:288][246]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:313][247]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:313][247]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:313][247]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:337][248]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:338][248]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:338][248]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:363][249]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:363][249]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:363][249]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:388][250]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:388][250]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:388][250]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:413][251]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:413][251]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:413][251]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:438][252]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:438][252]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:438][252]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:463][253]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:463][253]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:463][253]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:489][254]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:489][254]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:489][254]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:514][255]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:514][255]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:514][255]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:541][256]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:541][256]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:541][256]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:564][257]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:564][257]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:564][257]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:589][258]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:589][258]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:589][258]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:613][259]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:613][259]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:613][259]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:638][260]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:638][260]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:639][260]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:663][261]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:663][261]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:663][261]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:689][262]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:689][262]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:689][262]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:714][263]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:714][263]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:714][263]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:739][264]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:739][264]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:739][264]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:764][265]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:764][265]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:764][265]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:789][266]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:789][266]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:789][266]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:814][267]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:814][267]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:814][267]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:838][268]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:839][268]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:839][268]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:863][269]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.02:863][269]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.02:863][269]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:889][270]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:914][271]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:939][272]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:964][273]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.02:989][274]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.03:014][275]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.03:039][276]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.08:842][508]LogBlueprintUserMessages: [BP_Apple_C_22] seed_Blueprint_C_0
+[2023.04.09-07.18.08:842][508]LogBlueprintUserMessages: [BP_Apple_C_22] Start_Blueprint_C_0
+[2023.04.09-07.18.08:866][509]LogBlueprintUserMessages: [BP_Apple_C_22] seed_Blueprint_C_0
+[2023.04.09-07.18.08:891][510]LogBlueprintUserMessages: [BP_Apple_C_22] seed_Blueprint_C_0
+[2023.04.09-07.18.08:916][511]LogBlueprintUserMessages: [BP_Apple_C_22] seed_Blueprint_C_0
+[2023.04.09-07.18.09:866][549]LogBlueprintUserMessages: [BP_Apple_C_22] 1M_Cube10_0
+[2023.04.09-07.18.10:041][556]LogBlueprintUserMessages: [BP_Apple_C_23] seed_Blueprint_C_0
+[2023.04.09-07.18.10:042][556]LogBlueprintUserMessages: [BP_Apple_C_23] Start_Blueprint_C_0
+[2023.04.09-07.18.10:066][557]LogBlueprintUserMessages: [BP_Apple_C_23] seed_Blueprint_C_0
+[2023.04.09-07.18.10:091][558]LogBlueprintUserMessages: [BP_Apple_C_23] seed_Blueprint_C_0
+[2023.04.09-07.18.10:116][559]LogBlueprintUserMessages: [BP_Apple_C_23] seed_Blueprint_C_0
+[2023.04.09-07.18.10:141][560]LogBlueprintUserMessages: [BP_Apple_C_23] seed_Blueprint_C_0
+[2023.04.09-07.18.10:891][590]LogBlueprintUserMessages: [BP_Apple_C_24] seed_Blueprint_C_0
+[2023.04.09-07.18.10:892][590]LogBlueprintUserMessages: [BP_Apple_C_24] Start_Blueprint_C_0
+[2023.04.09-07.18.10:915][591]LogBlueprintUserMessages: [BP_Apple_C_24] seed_Blueprint_C_0
+[2023.04.09-07.18.10:941][592]LogBlueprintUserMessages: [BP_Apple_C_24] seed_Blueprint_C_0
+[2023.04.09-07.18.10:965][593]LogBlueprintUserMessages: [BP_Apple_C_24] seed_Blueprint_C_0
+[2023.04.09-07.18.10:991][594]LogBlueprintUserMessages: [BP_Apple_C_24] seed_Blueprint_C_0
+[2023.04.09-07.18.11:316][607]LogBlueprintUserMessages: [BP_Apple_C_25] seed_Blueprint_C_0
+[2023.04.09-07.18.11:316][607]LogBlueprintUserMessages: [BP_Apple_C_25] Start_Blueprint_C_0
+[2023.04.09-07.18.11:341][608]LogBlueprintUserMessages: [BP_Apple_C_25] seed_Blueprint_C_0
+[2023.04.09-07.18.11:366][609]LogBlueprintUserMessages: [BP_Apple_C_25] seed_Blueprint_C_0
+[2023.04.09-07.18.11:391][610]LogBlueprintUserMessages: [BP_Apple_C_25] seed_Blueprint_C_0
+[2023.04.09-07.18.11:416][611]LogBlueprintUserMessages: [BP_Apple_C_25] seed_Blueprint_C_0
+[2023.04.09-07.18.11:741][624]LogBlueprintUserMessages: [BP_Apple_C_26] seed_Blueprint_C_0
+[2023.04.09-07.18.11:741][624]LogBlueprintUserMessages: [BP_Apple_C_26] Start_Blueprint_C_0
+[2023.04.09-07.18.11:765][625]LogBlueprintUserMessages: [BP_Apple_C_26] seed_Blueprint_C_0
+[2023.04.09-07.18.11:791][626]LogBlueprintUserMessages: [BP_Apple_C_26] seed_Blueprint_C_0
+[2023.04.09-07.18.11:816][627]LogBlueprintUserMessages: [BP_Apple_C_26] seed_Blueprint_C_0
+[2023.04.09-07.18.11:841][628]LogBlueprintUserMessages: [BP_Apple_C_26] seed_Blueprint_C_0
+[2023.04.09-07.18.11:915][631]LogBlueprintUserMessages: [BP_Apple_C_24] StaticMeshActor_18
+[2023.04.09-07.18.11:940][632]LogBlueprintUserMessages: [BP_Apple_C_24] StaticMeshActor_18
+[2023.04.09-07.18.11:965][633]LogBlueprintUserMessages: [BP_Apple_C_24] StaticMeshActor_18
+[2023.04.09-07.18.11:990][634]LogBlueprintUserMessages: [BP_Apple_C_24] StaticMeshActor_18
+[2023.04.09-07.18.12:015][635]LogBlueprintUserMessages: [BP_Apple_C_24] StaticMeshActor_18
+[2023.04.09-07.18.12:015][635]LogBlueprintUserMessages: [BP_Apple_C_24] 1M_Cube10_0
+[2023.04.09-07.18.12:792][666]LogBlueprintUserMessages: [BP_Apple_C_26] 1M_Cube10_0
+[2023.04.09-07.18.21:116][997]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.21:117][997]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.21:117][997]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.21:117][997]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.21:118][997]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.21:118][997]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.21:118][997]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.21:118][997]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.21:119][997]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.21:119][997]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.21:119][997]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.21:119][997]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.23:753][101]LogBlueprintUserMessages: [BP_Apple_C_20] BP_Apple_C_46
+[2023.04.09-07.18.23:753][101]LogBlueprintUserMessages: [BP_Apple_C_20] BP_Apple_C_45
+[2023.04.09-07.18.23:753][101]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_47
+[2023.04.09-07.18.23:753][101]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_46
+[2023.04.09-07.18.23:753][101]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_20
+[2023.04.09-07.18.23:753][101]LogBlueprintUserMessages: [BP_Apple_C_46] BP_Apple_C_47
+[2023.04.09-07.18.23:753][101]LogBlueprintUserMessages: [BP_Apple_C_46] BP_Apple_C_45
+[2023.04.09-07.18.23:753][101]LogBlueprintUserMessages: [BP_Apple_C_46] BP_Apple_C_20
+[2023.04.09-07.18.23:753][101]LogBlueprintUserMessages: [BP_Apple_C_47] BP_Apple_C_46
+[2023.04.09-07.18.23:753][101]LogBlueprintUserMessages: [BP_Apple_C_47] BP_Apple_C_45
+[2023.04.09-07.18.23:782][102]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.23:782][102]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_46
+[2023.04.09-07.18.23:782][102]LogBlueprintUserMessages: [BP_Apple_C_46] BP_Apple_C_47
+[2023.04.09-07.18.23:782][102]LogBlueprintUserMessages: [BP_Apple_C_46] BP_Apple_C_45
+[2023.04.09-07.18.23:782][102]LogBlueprintUserMessages: [BP_Apple_C_47] BP_Apple_C_46
+[2023.04.09-07.18.23:806][103]LogBlueprintUserMessages: [BP_Apple_C_20] BP_Apple_C_45
+[2023.04.09-07.18.23:806][103]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.23:806][103]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_20
+[2023.04.09-07.18.23:806][103]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_46
+[2023.04.09-07.18.23:806][103]LogBlueprintUserMessages: [BP_Apple_C_46] BP_Apple_C_45
+[2023.04.09-07.18.23:806][103]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.23:829][104]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_20
+[2023.04.09-07.18.23:829][104]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.23:829][104]LogBlueprintUserMessages: [BP_Apple_C_20] BP_Apple_C_19
+[2023.04.09-07.18.23:853][105]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.23:853][105]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.23:878][106]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.23:878][106]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.23:878][106]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.23:902][107]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.23:903][107]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.23:903][107]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.23:927][108]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.23:928][108]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.23:928][108]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.23:928][108]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.23:952][109]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.23:952][109]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.23:952][109]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.23:977][110]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.23:977][110]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.23:977][110]LogBlueprintUserMessages: [BP_Apple_C_21] BP_Apple_C_47
+[2023.04.09-07.18.23:978][110]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.23:978][110]LogBlueprintUserMessages: [BP_Apple_C_47] BP_Apple_C_21
+[2023.04.09-07.18.23:978][110]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:002][111]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:003][111]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:003][111]LogBlueprintUserMessages: [BP_Apple_C_21] BP_Apple_C_47
+[2023.04.09-07.18.24:003][111]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.24:003][111]LogBlueprintUserMessages: [BP_Apple_C_47] BP_Apple_C_21
+[2023.04.09-07.18.24:003][111]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:028][112]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:028][112]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:028][112]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.24:028][112]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:028][112]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:052][113]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:052][113]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:052][113]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.24:052][113]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:053][113]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:053][113]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:077][114]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:077][114]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:077][114]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.24:077][114]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:077][114]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:102][115]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:102][115]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:102][115]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.24:102][115]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:102][115]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:102][115]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:127][116]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:127][116]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:127][116]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.24:127][116]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:127][116]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:127][116]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:152][117]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:152][117]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:152][117]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.24:152][117]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:152][117]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:202][118]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:203][118]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:203][118]LogBlueprintUserMessages: [BP_Apple_C_21] TemplateFloor_0
+[2023.04.09-07.18.24:203][118]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:203][118]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:203][118]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:228][119]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:228][119]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:229][119]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:229][119]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:253][120]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:253][120]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:253][120]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:253][120]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:277][121]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:277][121]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:277][121]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:277][121]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:277][121]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:302][122]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:302][122]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:302][122]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:302][122]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:327][123]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:327][123]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:327][123]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:327][123]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:328][123]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:352][124]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:352][124]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:352][124]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:352][124]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:352][124]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:377][125]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:377][125]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:377][125]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:377][125]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:402][126]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:402][126]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:402][126]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:402][126]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:402][126]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:427][127]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:427][127]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:427][127]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:427][127]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:427][127]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:452][128]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:452][128]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:452][128]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:452][128]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:452][128]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:477][129]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:477][129]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:477][129]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:477][129]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:477][129]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:502][130]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:503][130]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:503][130]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:503][130]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:503][130]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:528][131]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:528][131]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:528][131]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:528][131]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:528][131]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:554][132]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:554][132]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:555][132]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:555][132]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:555][132]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:580][133]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:580][133]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:580][133]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:580][133]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:580][133]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:606][134]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:606][134]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:606][134]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:606][134]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:606][134]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:632][135]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:632][135]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:632][135]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:632][135]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:632][135]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:657][136]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:657][136]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:657][136]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:657][136]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:657][136]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:682][137]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.24:682][137]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:682][137]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:682][137]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.24:682][137]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:682][137]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:682][137]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:707][138]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:707][138]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.24:707][138]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:707][138]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.24:707][138]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:707][138]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:707][138]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:732][139]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:732][139]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.24:732][139]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:732][139]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.24:732][139]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:732][139]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:732][139]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:758][140]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:758][140]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.24:758][140]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:758][140]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.24:758][140]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:758][140]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:758][140]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:782][141]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:783][141]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:783][141]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:783][141]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:783][141]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:808][142]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:809][142]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:809][142]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:809][142]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:809][142]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:833][143]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:833][143]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:833][143]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:833][143]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:833][143]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:859][144]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:859][144]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:859][144]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:859][144]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:859][144]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:883][145]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:883][145]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:883][145]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:883][145]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:883][145]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:906][146]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:906][146]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:906][146]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:906][146]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:906][146]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:931][147]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.24:931][147]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:931][147]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:931][147]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.24:931][147]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:931][147]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:931][147]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:956][148]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.24:956][148]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:956][148]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:956][148]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.24:956][148]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:957][148]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:957][148]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.24:981][149]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.24:982][149]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.24:982][149]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.24:982][149]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.24:982][149]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.24:982][149]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.24:982][149]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:007][150]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.25:007][150]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.25:007][150]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.25:007][150]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.25:007][150]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.25:007][150]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.25:007][150]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:032][151]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.25:032][151]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.25:032][151]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.25:032][151]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.25:032][151]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.25:032][151]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.25:032][151]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:058][152]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.25:058][152]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.25:058][152]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.25:058][152]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.25:058][152]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.25:058][152]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.25:058][152]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:083][153]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.25:083][153]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.25:083][153]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.25:083][153]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.25:083][153]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.25:083][153]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:108][154]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.25:108][154]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.25:109][154]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.25:109][154]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.25:109][154]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.25:109][154]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:134][155]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.25:134][155]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.25:134][155]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.25:134][155]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.25:134][155]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.25:134][155]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:159][156]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.25:159][156]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.25:159][156]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.25:159][156]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.25:159][156]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.25:159][156]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:184][157]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.25:184][157]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.25:184][157]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.25:184][157]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.25:184][157]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.25:184][157]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:209][158]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.25:209][158]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.25:209][158]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.25:209][158]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.25:209][158]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.25:209][158]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:234][159]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.25:234][159]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.25:234][159]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.25:234][159]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.25:234][159]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.25:234][159]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:259][160]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.25:259][160]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.25:259][160]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.25:259][160]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.25:259][160]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.25:259][160]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:284][161]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.25:284][161]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.25:284][161]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.25:284][161]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.25:284][161]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.25:284][161]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:309][162]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.25:309][162]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.25:309][162]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.25:309][162]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.25:309][162]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.25:309][162]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:333][163]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.25:333][163]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.25:333][163]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.25:333][163]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.25:333][163]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.25:333][163]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:359][164]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.25:359][164]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.25:359][164]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.25:359][164]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.25:359][164]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.25:359][164]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:384][165]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.25:384][165]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.25:384][165]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.25:384][165]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.25:384][165]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.25:384][165]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:409][166]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.25:409][166]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.25:409][166]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.25:409][166]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.25:409][166]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.25:409][166]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:434][167]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.25:434][167]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.25:434][167]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.25:434][167]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.25:434][167]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.25:434][167]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:459][168]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.25:459][168]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.25:459][168]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.25:459][168]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.25:459][168]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.25:459][168]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:484][169]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.25:484][169]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.25:484][169]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.25:484][169]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.25:484][169]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.25:484][169]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:509][170]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.25:509][170]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.25:509][170]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.25:509][170]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.25:509][170]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.25:509][170]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:531][171]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.25:531][171]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.25:531][171]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.25:531][171]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.25:531][171]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.25:531][171]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:555][172]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.25:555][172]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.25:555][172]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.25:556][172]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.25:556][172]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:581][173]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.25:581][173]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.25:581][173]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.25:581][173]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.25:581][173]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:607][174]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.25:607][174]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.25:607][174]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.25:607][174]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.25:607][174]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:633][175]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.25:633][175]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.25:633][175]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.25:634][175]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.25:634][175]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:659][176]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.25:659][176]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.25:660][176]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.25:660][176]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.25:660][176]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:685][177]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.25:685][177]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.25:685][177]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.25:685][177]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.25:685][177]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:711][178]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.25:711][178]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.25:711][178]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.25:711][178]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.25:711][178]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:736][179]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.25:736][179]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.25:736][179]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.25:736][179]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.25:736][179]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:761][180]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.25:761][180]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.25:761][180]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.25:761][180]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.25:761][180]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:786][181]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.25:786][181]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.25:786][181]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.25:786][181]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.25:786][181]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:812][182]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.25:812][182]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.25:812][182]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.25:812][182]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.25:812][182]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:837][183]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.25:905][184]LogBlueprintUserMessages: [BP_Apple_C_47] TemplateFloor_0
+[2023.04.09-07.18.34:018][506]LogBlueprintUserMessages: [BP_Apple_C_48] seed_Blueprint_C_0
+[2023.04.09-07.18.34:018][506]LogBlueprintUserMessages: [BP_Apple_C_48] Start_Blueprint_C_0
+[2023.04.09-07.18.34:043][507]LogBlueprintUserMessages: [BP_Apple_C_48] seed_Blueprint_C_0
+[2023.04.09-07.18.34:067][508]LogBlueprintUserMessages: [BP_Apple_C_48] seed_Blueprint_C_0
+[2023.04.09-07.18.34:092][509]LogBlueprintUserMessages: [BP_Apple_C_48] seed_Blueprint_C_0
+[2023.04.09-07.18.34:117][510]LogBlueprintUserMessages: [BP_Apple_C_48] seed_Blueprint_C_0
+[2023.04.09-07.18.34:743][535]LogBlueprintUserMessages: [BP_Apple_C_48] StaticMeshActor_18
+[2023.04.09-07.18.34:818][538]LogBlueprintUserMessages: [BP_Apple_C_49] seed_Blueprint_C_0
+[2023.04.09-07.18.34:818][538]LogBlueprintUserMessages: [BP_Apple_C_49] Start_Blueprint_C_0
+[2023.04.09-07.18.34:843][539]LogBlueprintUserMessages: [BP_Apple_C_49] seed_Blueprint_C_0
+[2023.04.09-07.18.34:868][540]LogBlueprintUserMessages: [BP_Apple_C_49] seed_Blueprint_C_0
+[2023.04.09-07.18.34:893][541]LogBlueprintUserMessages: [BP_Apple_C_49] seed_Blueprint_C_0
+[2023.04.09-07.18.34:918][542]LogBlueprintUserMessages: [BP_Apple_C_49] seed_Blueprint_C_0
+[2023.04.09-07.18.35:618][570]LogBlueprintUserMessages: [BP_Apple_C_50] seed_Blueprint_C_0
+[2023.04.09-07.18.35:618][570]LogBlueprintUserMessages: [BP_Apple_C_50] Start_Blueprint_C_0
+[2023.04.09-07.18.35:737][571]LogBlueprintUserMessages: [BP_Apple_C_50] seed_Blueprint_C_0
+[2023.04.09-07.18.35:745][572]LogBlueprintUserMessages: [BP_Apple_C_50] seed_Blueprint_C_0
+[2023.04.09-07.18.35:769][573]LogBlueprintUserMessages: [BP_Apple_C_50] seed_Blueprint_C_0
+[2023.04.09-07.18.35:795][574]LogBlueprintUserMessages: [BP_Apple_C_50] seed_Blueprint_C_0
+[2023.04.09-07.18.36:787][614]LogBlueprintUserMessages: [BP_Apple_C_50] 1M_Cube10_0
+[2023.04.09-07.18.37:589][646]LogBlueprintUserMessages: [BP_Apple_C_51] seed_Blueprint_C_0
+[2023.04.09-07.18.37:589][646]LogBlueprintUserMessages: [BP_Apple_C_51] Start_Blueprint_C_0
+[2023.04.09-07.18.37:614][647]LogBlueprintUserMessages: [BP_Apple_C_51] seed_Blueprint_C_0
+[2023.04.09-07.18.37:638][648]LogBlueprintUserMessages: [BP_Apple_C_51] seed_Blueprint_C_0
+[2023.04.09-07.18.37:663][649]LogBlueprintUserMessages: [BP_Apple_C_51] seed_Blueprint_C_0
+[2023.04.09-07.18.37:688][650]LogBlueprintUserMessages: [BP_Apple_C_51] seed_Blueprint_C_0
+[2023.04.09-07.18.38:166][669]LogBlueprintUserMessages: [BP_Apple_C_52] seed_Blueprint_C_0
+[2023.04.09-07.18.38:166][669]LogBlueprintUserMessages: [BP_Apple_C_52] Start_Blueprint_C_0
+[2023.04.09-07.18.38:190][670]LogBlueprintUserMessages: [BP_Apple_C_52] seed_Blueprint_C_0
+[2023.04.09-07.18.38:215][671]LogBlueprintUserMessages: [BP_Apple_C_52] seed_Blueprint_C_0
+[2023.04.09-07.18.38:240][672]LogBlueprintUserMessages: [BP_Apple_C_52] seed_Blueprint_C_0
+[2023.04.09-07.18.38:265][673]LogBlueprintUserMessages: [BP_Apple_C_52] seed_Blueprint_C_0
+[2023.04.09-07.18.38:766][693]LogBlueprintUserMessages: [BP_Apple_C_53] seed_Blueprint_C_0
+[2023.04.09-07.18.38:766][693]LogBlueprintUserMessages: [BP_Apple_C_53] Start_Blueprint_C_0
+[2023.04.09-07.18.38:791][694]LogBlueprintUserMessages: [BP_Apple_C_53] seed_Blueprint_C_0
+[2023.04.09-07.18.38:816][695]LogBlueprintUserMessages: [BP_Apple_C_53] seed_Blueprint_C_0
+[2023.04.09-07.18.38:841][696]LogBlueprintUserMessages: [BP_Apple_C_53] seed_Blueprint_C_0
+[2023.04.09-07.18.38:866][697]LogBlueprintUserMessages: [BP_Apple_C_53] seed_Blueprint_C_0
+[2023.04.09-07.18.39:693][730]LogBlueprintUserMessages: [BP_Apple_C_53] StaticMeshActor_18
+[2023.04.09-07.18.41:115][787]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.41:116][787]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.41:116][787]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.41:116][787]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.41:117][787]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.41:117][787]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.41:117][787]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.41:118][787]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.41:118][787]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.41:118][787]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.41:118][787]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.41:119][787]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.41:119][787]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to  actor's root component not being a collider component.
+[2023.04.09-07.18.46:634][  1]LogBlueprintUserMessages: [BP_Apple_C_46] BP_Apple_C_74
+[2023.04.09-07.18.46:634][  1]LogBlueprintUserMessages: [BP_Apple_C_46] BP_Apple_C_73
+[2023.04.09-07.18.46:634][  1]LogBlueprintUserMessages: [BP_Apple_C_72] BP_Apple_C_74
+[2023.04.09-07.18.46:634][  1]LogBlueprintUserMessages: [BP_Apple_C_72] BP_Apple_C_73
+[2023.04.09-07.18.46:634][  1]LogBlueprintUserMessages: [BP_Apple_C_73] BP_Apple_C_74
+[2023.04.09-07.18.46:634][  1]LogBlueprintUserMessages: [BP_Apple_C_73] BP_Apple_C_46
+[2023.04.09-07.18.46:634][  1]LogBlueprintUserMessages: [BP_Apple_C_73] BP_Apple_C_72
+[2023.04.09-07.18.46:634][  1]LogBlueprintUserMessages: [BP_Apple_C_74] BP_Apple_C_46
+[2023.04.09-07.18.46:634][  1]LogBlueprintUserMessages: [BP_Apple_C_74] BP_Apple_C_73
+[2023.04.09-07.18.46:634][  1]LogBlueprintUserMessages: [BP_Apple_C_74] BP_Apple_C_72
+[2023.04.09-07.18.46:659][  2]LogBlueprintUserMessages: [BP_Apple_C_46] BP_Apple_C_74
+[2023.04.09-07.18.46:659][  2]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.46:659][  2]LogBlueprintUserMessages: [BP_Apple_C_72] BP_Apple_C_73
+[2023.04.09-07.18.46:659][  2]LogBlueprintUserMessages: [BP_Apple_C_73] BP_Apple_C_74
+[2023.04.09-07.18.46:659][  2]LogBlueprintUserMessages: [BP_Apple_C_73] BP_Apple_C_72
+[2023.04.09-07.18.46:659][  2]LogBlueprintUserMessages: [BP_Apple_C_74] BP_Apple_C_46
+[2023.04.09-07.18.46:659][  2]LogBlueprintUserMessages: [BP_Apple_C_74] BP_Apple_C_73
+[2023.04.09-07.18.46:684][  3]LogBlueprintUserMessages: [BP_Apple_C_46] BP_Apple_C_74
+[2023.04.09-07.18.46:684][  3]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.46:684][  3]LogBlueprintUserMessages: [BP_Apple_C_72] BP_Apple_C_73
+[2023.04.09-07.18.46:684][  3]LogBlueprintUserMessages: [BP_Apple_C_73] BP_Apple_C_74
+[2023.04.09-07.18.46:684][  3]LogBlueprintUserMessages: [BP_Apple_C_73] BP_Apple_C_72
+[2023.04.09-07.18.46:684][  3]LogBlueprintUserMessages: [BP_Apple_C_74] BP_Apple_C_46
+[2023.04.09-07.18.46:684][  3]LogBlueprintUserMessages: [BP_Apple_C_74] BP_Apple_C_73
+[2023.04.09-07.18.46:709][  4]LogBlueprintUserMessages: [BP_Apple_C_46] BP_Apple_C_74
+[2023.04.09-07.18.46:709][  4]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.46:709][  4]LogBlueprintUserMessages: [BP_Apple_C_72] BP_Apple_C_73
+[2023.04.09-07.18.46:709][  4]LogBlueprintUserMessages: [BP_Apple_C_73] BP_Apple_C_74
+[2023.04.09-07.18.46:709][  4]LogBlueprintUserMessages: [BP_Apple_C_73] BP_Apple_C_72
+[2023.04.09-07.18.46:709][  4]LogBlueprintUserMessages: [BP_Apple_C_74] BP_Apple_C_46
+[2023.04.09-07.18.46:709][  4]LogBlueprintUserMessages: [BP_Apple_C_74] BP_Apple_C_73
+[2023.04.09-07.18.46:734][  5]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.46:759][  6]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.46:784][  7]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.46:810][  8]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.46:835][  9]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.46:860][ 10]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.46:885][ 11]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.46:911][ 12]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.46:911][ 12]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.46:911][ 12]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.46:911][ 12]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.46:911][ 12]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.46:936][ 13]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.46:936][ 13]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.46:936][ 13]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.46:936][ 13]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.46:936][ 13]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.46:961][ 14]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.46:961][ 14]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.46:961][ 14]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.46:961][ 14]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.46:961][ 14]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.46:986][ 15]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.46:986][ 15]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.46:986][ 15]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.46:986][ 15]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.46:986][ 15]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.46:986][ 15]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.46:986][ 15]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.47:011][ 16]LogBlueprintUserMessages: [BP_Apple_C_19] BP_Apple_C_45
+[2023.04.09-07.18.47:011][ 16]LogBlueprintUserMessages: [BP_Apple_C_19] TemplateFloor_0
+[2023.04.09-07.18.47:011][ 16]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:011][ 16]LogBlueprintUserMessages: [BP_Apple_C_20] BP_Apple_C_73
+[2023.04.09-07.18.47:011][ 16]LogBlueprintUserMessages: [BP_Apple_C_45] BP_Apple_C_19
+[2023.04.09-07.18.47:011][ 16]LogBlueprintUserMessages: [BP_Apple_C_45] TemplateFloor_0
+[2023.04.09-07.18.47:011][ 16]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:011][ 16]LogBlueprintUserMessages: [BP_Apple_C_73] BP_Apple_C_20
+[2023.04.09-07.18.47:035][ 17]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:035][ 17]LogBlueprintUserMessages: [BP_Apple_C_20] BP_Apple_C_73
+[2023.04.09-07.18.47:035][ 17]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:035][ 17]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.47:035][ 17]LogBlueprintUserMessages: [BP_Apple_C_73] BP_Apple_C_20
+[2023.04.09-07.18.47:061][ 18]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:061][ 18]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:085][ 19]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:085][ 19]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:110][ 20]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:111][ 20]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:135][ 21]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:135][ 21]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:160][ 22]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:160][ 22]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:160][ 22]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.47:185][ 23]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:185][ 23]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:185][ 23]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.47:185][ 23]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.47:210][ 24]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:210][ 24]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:210][ 24]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.47:235][ 25]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:235][ 25]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:235][ 25]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.47:260][ 26]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:260][ 26]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:260][ 26]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.47:285][ 27]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:285][ 27]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:285][ 27]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.47:311][ 28]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:311][ 28]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:311][ 28]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.47:335][ 29]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:336][ 29]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:336][ 29]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.47:336][ 29]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.47:360][ 30]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:360][ 30]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:360][ 30]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.47:360][ 30]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.47:360][ 30]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.47:384][ 31]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:384][ 31]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:384][ 31]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.47:384][ 31]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.47:407][ 32]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:407][ 32]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:408][ 32]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.47:408][ 32]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.47:408][ 32]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.47:432][ 33]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:432][ 33]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:432][ 33]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.47:432][ 33]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.47:432][ 33]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.47:457][ 34]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:457][ 34]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:457][ 34]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.47:457][ 34]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.47:457][ 34]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.47:483][ 35]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:483][ 35]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:483][ 35]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.47:483][ 35]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.47:483][ 35]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.47:508][ 36]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:508][ 36]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:508][ 36]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.47:508][ 36]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.47:508][ 36]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.47:533][ 37]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:533][ 37]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:534][ 37]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.47:534][ 37]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.47:559][ 38]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:559][ 38]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:559][ 38]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.47:559][ 38]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.47:584][ 39]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:584][ 39]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:584][ 39]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.47:584][ 39]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.47:584][ 39]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.47:609][ 40]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:609][ 40]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:609][ 40]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.47:609][ 40]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.47:609][ 40]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.47:634][ 41]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:634][ 41]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:634][ 41]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.47:634][ 41]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.47:634][ 41]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.47:659][ 42]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:659][ 42]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:659][ 42]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.47:659][ 42]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.47:684][ 43]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:684][ 43]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:684][ 43]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.47:684][ 43]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.47:684][ 43]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.47:708][ 44]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:708][ 44]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:708][ 44]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.47:708][ 44]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.47:708][ 44]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.47:733][ 45]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:733][ 45]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:733][ 45]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.47:733][ 45]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.47:733][ 45]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.47:758][ 46]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:758][ 46]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:758][ 46]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.47:758][ 46]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.47:758][ 46]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.47:783][ 47]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:783][ 47]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:783][ 47]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.47:783][ 47]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.47:783][ 47]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.47:808][ 48]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:808][ 48]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:808][ 48]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.47:808][ 48]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.47:808][ 48]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.47:832][ 49]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:832][ 49]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:832][ 49]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.47:832][ 49]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.47:832][ 49]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.47:857][ 50]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:857][ 50]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:857][ 50]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.47:858][ 50]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.47:858][ 50]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.47:883][ 51]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:883][ 51]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:883][ 51]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.47:883][ 51]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.47:883][ 51]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.47:906][ 52]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:907][ 52]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:907][ 52]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.47:907][ 52]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.47:907][ 52]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.47:931][ 53]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:931][ 53]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:931][ 53]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.47:931][ 53]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.47:931][ 53]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.47:956][ 54]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:956][ 54]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:956][ 54]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.47:956][ 54]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.47:956][ 54]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.47:981][ 55]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.47:982][ 55]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.47:982][ 55]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.47:982][ 55]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.47:982][ 55]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.48:007][ 56]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.48:007][ 56]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.48:007][ 56]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:007][ 56]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:007][ 56]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.48:032][ 57]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.48:032][ 57]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.48:032][ 57]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:032][ 57]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:032][ 57]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.48:057][ 58]LogBlueprintUserMessages: [BP_Apple_C_20] TemplateFloor_0
+[2023.04.09-07.18.48:057][ 58]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.48:057][ 58]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:057][ 58]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:057][ 58]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.48:082][ 59]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.48:082][ 59]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:082][ 59]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:082][ 59]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.48:106][ 60]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.48:106][ 60]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:106][ 60]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:106][ 60]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.48:131][ 61]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.48:131][ 61]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:131][ 61]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:131][ 61]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.48:156][ 62]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.48:156][ 62]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:156][ 62]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:156][ 62]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.48:181][ 63]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.48:181][ 63]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:181][ 63]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:181][ 63]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.48:206][ 64]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.48:206][ 64]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:206][ 64]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:206][ 64]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.48:232][ 65]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.48:232][ 65]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:232][ 65]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:232][ 65]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.48:257][ 66]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.48:257][ 66]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:257][ 66]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:257][ 66]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.48:282][ 67]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.48:282][ 67]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:282][ 67]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:282][ 67]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.48:307][ 68]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.48:308][ 68]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:308][ 68]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:308][ 68]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.48:332][ 69]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.48:332][ 69]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:332][ 69]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:332][ 69]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.48:357][ 70]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.48:357][ 70]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:357][ 70]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:357][ 70]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.48:382][ 71]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.48:382][ 71]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:382][ 71]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:382][ 71]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.48:407][ 72]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.48:407][ 72]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:407][ 72]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:407][ 72]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.48:431][ 73]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.48:432][ 73]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:432][ 73]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:432][ 73]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.48:457][ 74]LogBlueprintUserMessages: [BP_Apple_C_46] TemplateFloor_0
+[2023.04.09-07.18.48:457][ 74]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:457][ 74]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:457][ 74]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.48:482][ 75]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:482][ 75]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:482][ 75]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.48:508][ 76]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:508][ 76]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:508][ 76]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.48:532][ 77]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:532][ 77]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:532][ 77]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.48:557][ 78]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:557][ 78]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:557][ 78]LogBlueprintUserMessages: [BP_Apple_C_74] TemplateFloor_0
+[2023.04.09-07.18.48:582][ 79]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:582][ 79]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:607][ 80]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:607][ 80]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:632][ 81]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:633][ 81]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:657][ 82]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:658][ 82]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:682][ 83]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:682][ 83]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:707][ 84]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:707][ 84]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:732][ 85]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:732][ 85]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:756][ 86]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:756][ 86]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:781][ 87]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:781][ 87]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:806][ 88]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:806][ 88]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:832][ 89]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:832][ 89]LogBlueprintUserMessages: [BP_Apple_C_73] TemplateFloor_0
+[2023.04.09-07.18.48:857][ 90]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:883][ 91]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:907][ 92]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.48:932][ 93]LogBlueprintUserMessages: [BP_Apple_C_72] TemplateFloor_0
+[2023.04.09-07.18.53:790][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.09-07.18.53:791][286]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.04.09-07.18.53:831][286]LogSlate: Window 'Restaurant Preview [NetMode: Standalone]  (64-bit/SM5) OpenXR Oculus (1.82.0)' being destroyed
+[2023.04.09-07.18.53:836][286]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.09-07.18.53:838][286]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.09-07.18.53:879][286]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.09-07.18.53:890][286]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.09-07.18.53:990][286]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.09-07.18.53:991][286]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.04.09-07.18.53:991][286]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.04.09-07.18.53:993][286]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.04.09-07.18.54:004][286]LogSlate: Slate User Unregistered.  User Index 8
+[2023.04.09-07.18.54:004][286]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.04.09-07.18.54:007][286]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.04.09-07.18.54:218][287]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.04.09-07.19.05:853][132]LogSlate: Window 'Message Log' being destroyed
+[2023.04.09-07.19.05:859][132]LogSlate: Window 'Message Log' being destroyed
+[2023.04.09-07.19.11:116][545]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms

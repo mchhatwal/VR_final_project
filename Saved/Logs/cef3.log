@@ -2,3 +2,27 @@
 [0330/232921.361:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
 [0330/232921.370:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
 [0330/232921.370:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0410/140332.192:ERROR:os_crypt_win.cc(92)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0410/140334.716:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0410/140334.717:ERROR:entry_impl.cc(1076)] No file for c1030004
+[0410/140334.717:WARNING:storage_block-inl.h(146)] Failed data load.
+[0410/140334.717:WARNING:storage_block-inl.h(146)] Failed data load.
+[0410/140334.717:WARNING:storage_block-inl.h(146)] Failed data load.
+[0410/140334.717:WARNING:storage_block-inl.h(146)] Failed data load.
+[0410/140334.718:ERROR:entry_impl.cc(1076)] No file for c1030000
+[0410/140334.718:WARNING:storage_block-inl.h(146)] Failed data load.
+[0410/140334.718:WARNING:storage_block-inl.h(146)] Failed data load.
+[0410/140334.718:WARNING:storage_block-inl.h(146)] Failed data load.
+[0410/140334.718:WARNING:storage_block-inl.h(146)] Failed data load.
+[0410/140334.718:ERROR:entry_impl.cc(1076)] No file for c1030002
+[0410/140334.718:WARNING:storage_block-inl.h(146)] Failed data load.
+[0410/140334.718:WARNING:storage_block-inl.h(146)] Failed data load.
+[0410/140334.726:WARNING:storage_block-inl.h(146)] Failed data load.
+[0410/140337.162:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0410/140411.184:ERROR:device_event_log_impl.cc(208)] [14:04:11.185] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+[0410/140448.683:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0410/140448.683:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0410/140448.689:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0410/140448.690:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0410/140449.849:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from C:/Users/ycqiu/VR_final_project/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: C:/Users/ycqiu/VR_final_project/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0410/140449.863:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from C:/Users/ycqiu/VR_final_project/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: C:/Users/ycqiu/VR_final_project/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)

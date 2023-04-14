@@ -27,3 +27,39 @@
 [0410/140449.849:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from C:/Users/ycqiu/VR_final_project/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: C:/Users/ycqiu/VR_final_project/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
 [0410/140449.863:ERROR:leveldb_factory.cc(90)] Failed to open LevelDB database from C:/Users/ycqiu/VR_final_project/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: C:/Users/ycqiu/VR_final_project/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
 [0410/151834.815:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0413/220050.327:ERROR:os_crypt_win.cc(92)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0413/220059.263:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0413/220059.264:ERROR:entry_impl.cc(1076)] No file for c10301b6
+[0413/220059.264:WARNING:storage_block-inl.h(146)] Failed data load.
+[0413/220059.264:WARNING:storage_block-inl.h(146)] Failed data load.
+[0413/220059.264:WARNING:storage_block-inl.h(146)] Failed data load.
+[0413/220059.264:WARNING:storage_block-inl.h(146)] Failed data load.
+[0413/220059.264:ERROR:entry_impl.cc(1076)] No file for c103029a
+[0413/220059.264:WARNING:storage_block-inl.h(146)] Failed data load.
+[0413/220059.264:WARNING:storage_block-inl.h(146)] Failed data load.
+[0413/220059.264:WARNING:storage_block-inl.h(146)] Failed data load.
+[0413/220059.264:WARNING:storage_block-inl.h(146)] Failed data load.
+[0413/220059.264:ERROR:entry_impl.cc(1076)] No file for c103029c
+[0413/220059.264:WARNING:storage_block-inl.h(146)] Failed data load.
+[0413/220059.264:WARNING:storage_block-inl.h(146)] Failed data load.
+[0413/220059.317:WARNING:storage_block-inl.h(146)] Failed data load.
+[0413/220137.397:ERROR:shared_image_manager.cc(188)] SharedImageManager::ProduceGLTexturePassthrough: Trying to produce a representation from a non-existent mailbox.
+[0413/220137.409:ERROR:gl_utils.cc(316)] [.DisplayCompositor] GL_INVALID_OPERATION: invalid mailbox name.
+[0413/220137.409:ERROR:gl_utils.cc(316)] [.DisplayCompositor] GL_INVALID_OPERATION: texture is not a shared image
+[0413/220137.410:ERROR:gl_utils.cc(316)] [.DisplayCompositor] GL_INVALID_OPERATION: texture is not a shared image
+[0413/220137.410:ERROR:shared_image_manager.cc(188)] SharedImageManager::ProduceGLTexturePassthrough: Trying to produce a representation from a non-existent mailbox.
+[0413/220137.410:ERROR:gl_utils.cc(316)] [.DisplayCompositor] GL_INVALID_OPERATION: invalid mailbox name.
+[0413/220137.410:ERROR:gl_utils.cc(316)] [.DisplayCompositor] GL_INVALID_OPERATION: texture is not a shared image
+[0413/220137.410:ERROR:gl_utils.cc(316)] [.DisplayCompositor] GL_INVALID_OPERATION: texture is not a shared image
+[0413/220137.410:ERROR:shared_image_manager.cc(188)] SharedImageManager::ProduceGLTexturePassthrough: Trying to produce a representation from a non-existent mailbox.
+[0413/220137.410:ERROR:gl_utils.cc(316)] [.DisplayCompositor] GL_INVALID_OPERATION: invalid mailbox name.
+[0413/220137.410:ERROR:gl_utils.cc(316)] [.DisplayCompositor] GL_INVALID_OPERATION: texture is not a shared image
+[0413/220137.410:ERROR:gl_utils.cc(316)] [.DisplayCompositor] GL_INVALID_OPERATION: texture is not a shared image
+[0413/220137.410:ERROR:shared_image_manager.cc(188)] SharedImageManager::ProduceGLTexturePassthrough: Trying to produce a representation from a non-existent mailbox.
+[0413/220137.410:ERROR:gl_utils.cc(316)] [.DisplayCompositor] GL_INVALID_OPERATION: invalid mailbox name.
+[0413/220137.410:ERROR:gl_utils.cc(316)] [.DisplayCompositor] GL_INVALID_OPERATION: texture is not a shared image
+[0413/220137.410:ERROR:gl_utils.cc(316)] [.DisplayCompositor] GL_INVALID_OPERATION: texture is not a shared image
+[0413/220402.201:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0413/220402.201:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0413/220402.289:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0413/220402.289:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
